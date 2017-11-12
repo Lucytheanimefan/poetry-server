@@ -1,3 +1,4 @@
 *.pyc
 venv/*
 .idea
+client_secrets.json
