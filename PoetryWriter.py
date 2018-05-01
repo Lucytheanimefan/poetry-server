@@ -4,7 +4,7 @@ import sklearn
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
-
+import re
 
 def make_pairs(corpus):
     for i in range(len(corpus)-1):
@@ -40,13 +40,13 @@ class PoetrySources:
                     self.urls.append(url)
                     poem_arr = [poem.text for poem in poem_text] # array of lines
                     for line in poem_arr:
-                        self.concatenated_poems.extend(line.split())
+                        self.concatenated_poems.extend([word.lower().strip() for word in re.findall(r'\S+|\n',line + ' \\n')])
                     # self.concatenated_poems.extend([line.split() for line in poem_arr])
                     self.poems.append(poem_arr)
                     self.line_counts.append(len(poem_text))
 
         #print(self.urls)
-        print(self.poems)
+        #print(self.poems)
 
     def markov_chain(self, n_words=30):
         pairs = make_pairs(self.concatenated_poems)
@@ -97,7 +97,8 @@ if __name__=="__main__":
     sources = PoetrySources()
     sources.find_urls(10)
     print('MARKOV')
-    print(sources.markov_chain())
+    poem = sources.markov_chain()
+    print(poem)
     #sources.tokenize_poems()
     #sources.find_urls(10)
 
