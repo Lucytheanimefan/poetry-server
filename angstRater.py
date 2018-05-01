@@ -1,5 +1,6 @@
 from aylienapiclient import textapi
 
+
 class AngstClassifier:
 
     def __init__(self, app_id, app_key):
