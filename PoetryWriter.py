@@ -23,10 +23,10 @@ class PoetrySources:
         self.line_counts = []
 
 
-    def find_urls(self, limit = 100):
+    def populate_sources(self, limit = 100):
         headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"}
         for i in range(limit):
-            url = "%s/%i" % (self.source, 43000+i)
+            url = "%s/%i" % (self.source, 89000 + i)
             #print(url)
             # Make the request
             r = requests.get(url, headers=headers)
@@ -41,14 +41,14 @@ class PoetrySources:
                     poem_arr = [poem.text for poem in poem_text] # array of lines
                     for line in poem_arr:
                         self.concatenated_poems.extend([word.lower().strip() for word in re.findall(r'\S+|\n',line + ' \\n')])
-                    # self.concatenated_poems.extend([line.split() for line in poem_arr])
                     self.poems.append(poem_arr)
                     self.line_counts.append(len(poem_text))
 
+        print('--------Done populating sources---------')
         #print(self.urls)
         #print(self.poems)
 
-    def markov_chain(self, n_words=30):
+    def markov_chain_poem(self, n_words=30):
         pairs = make_pairs(self.concatenated_poems)
         word_dict = {}
         for word_1, word_2 in pairs:
@@ -58,8 +58,17 @@ class PoetrySources:
                 word_dict[word_1] = [word_2]
         first_word = np.random.choice(self.concatenated_poems)
         chain = [first_word]
-        for i in range(n_words):
-            chain.append(np.random.choice(word_dict[chain[-1]]))
+        at_limit = False
+        new_line = False
+        i = 0
+        while (not (at_limit and new_line)):
+            if i == n_words:
+                at_limit = True
+            word = np.random.choice(word_dict[chain[-1]])
+            if word == "\\n":
+                new_line = True
+            chain.append(word)
+            i+=1
         return ' '.join(chain)
 
 
@@ -75,19 +84,19 @@ class PoetrySources:
             #print(self.vectorizer.vocabulary_)
 
 
-class PoetryParser:
+# class PoetryParser:
 
-    def __init__(self, url):
-        r = requests.get(url)
-        # print(r.text)
-        self.soup = BeautifulSoup(r.text, "html.parser")
-        self.url = url
+#     def __init__(self, url):
+#         r = requests.get(url)
+#         # print(r.text)
+#         self.soup = BeautifulSoup(r.text, "html.parser")
+#         self.url = url
 
-    def parse(self):
-        return self.soup.find_all("pre")[0]
+#     def parse(self):
+#         return self.soup.find_all("pre")[0]
 
-    def parse_found(self):
-        return self.soup.find_all("div", {"class": "o-poem"})
+#     def parse_found(self):
+#         return self.soup.find_all("div", {"class": "o-poem"})
 
 
 if __name__=="__main__":
@@ -95,9 +104,9 @@ if __name__=="__main__":
     # p1 = PoetryParser("https://www.poetryfoundation.org/poems/46304/retrospect-56d226248e844");
     #print(p.parse())
     sources = PoetrySources()
-    sources.find_urls(10)
-    print('MARKOV')
-    poem = sources.markov_chain()
+    sources.populate_sources(20)
+    print('MARKOV poem:')
+    poem = sources.markov_chain_poem(100)
     print(poem)
     #sources.tokenize_poems()
     #sources.find_urls(10)
