@@ -48,7 +48,7 @@ class SatireNewsClassifier:
             directory = base_directory + outlet
             for file in os.listdir(directory):
                 filename = os.fsdecode(file)
-                if filename.endswith(".txt") and article_count < 40: 
+                if filename.endswith(".txt"): # and article_count < 40: 
                     with open(os.path.join(directory, filename)) as file:
                         self.data.append(file.read().replace('\n', ''))
                         self.target_index.append(i)
@@ -62,13 +62,13 @@ class SatireNewsClassifier:
         text_clf = Pipeline([('vect', CountVectorizer(stop_words='english')), 
             ('tfidf', TfidfTransformer()), 
             ('clf', MultinomialNB())])
-        self.text_clf = text_clf.fit(self.data, self.targets)
+        self.text_clf = text_clf.fit(self.data, self.target_index)
 
-    def predict(data_to_classify):
+    def predict(self, data_to_classify):
         predicted = self.text_clf.predict(data_to_classify)
         return predicted
 
-    def performance(data_array_to_classify):
+    def performance(self, data_array_to_classify):
         if self.text_clf is None:
             return
         predicted = self.text_clf.predict(data_array_to_classify)
@@ -81,10 +81,11 @@ if __name__ == '__main__':
     classifier.generate_data()
     classifier.train()
     print('Trained')
-    prediction = classifier.predicted(huffposttest[0])
+    predictions = classifier.predict(huffposttest)
     print('Prediction:')
-    print(prediction)
-    print(classifier.targets[prediction])
+    print(predictions)
+    for prediction in predictions:
+        print(classifier.targets[prediction])
 
 
     scraper = SatireNewsScraper()
