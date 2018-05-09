@@ -1,0 +1,24 @@
+Royal Navy's new autonomous robot minesweeper will destroy high-tech mines
+The U.K.’s Royal Navy is harnessing a sophisticated autonomous robot minesweeper to clear high-tech sea mines.
+
+The system developed by Atlas Elektronik UK was recently handed over to the Royal Navy after successfully completing four months of trials. Officials say that the technology will destroy modern digital mines that can’t be tackled by existing mine hunting techniques. Naval mines can be moored to the seafloor or floating.
+
+The minesweeping system uses an Unmanned Surface Vessel (USV) to pull “Coil Auxiliary Boats,” containing electrodes that emit magnetic, electric and acoustic signals to detonate mines.
+
+WATCH: ROYAL NAVY DETONATES 1,100-POUND WORLD WAR II BOMB FOUND IN THE RIVER THAMES
+
+Designed to keep naval personnel out of harm’s way, the technology can be operated from a safe distance, either from ship or shore. The minesweeping system also has a ‘sense and avoid’ capability to prevent collisions with other vessels and potential hazards such as buoys.
+
+“This autonomous minesweeper takes us a step closer to taking our crews out of danger and allowing us to safely clear sea lanes of explosives, whether that’s supporting trade in global waters and around the British coastline, or protecting our ships and shores,” said U.K. Defence Minister Guto Bebb, in a statement. “Easily transported by road, sea and air, the high-tech design means a small team could put the system to use within hours of it arriving in theatre.”
+
+The system will now undergo a series of more detailed trials with the Royal Navy.
+
+RUSSIA SET TO SHOWCASE NEW ROBO-TANK AT MOSCOW VICTORY DAY PARADE
+
+Militaries across the globe are looking deploy more and more remotely operated and autonomous technologies. Earlier this year, for example, a revolutionary prototype vessel that could traverse thousands of miles of open sea without a single crew member on board was handed over to U.S. Navy researchers. The 132-foot demonstration ship, christened Sea Hunter, was transferred from the Defense Advanced Research Projects Agency (DARPA) to the Office of Naval Research (ONR).
+
+Russia is also ramping up its efforts in this space, deploying its new “Uran-9” robo-tank during operations in Syria. The remotely operated tank is armed with anti-tank guided missiles, 30-mm automatic cannon and 7.62-mm machine gun.
+
+Elsewhere in the Middle East, Israel has deployed unmanned military vehicles along the country’s dangerous border with Gaza.
+
+Follow James Rogers on Twitter @jamesjrogers

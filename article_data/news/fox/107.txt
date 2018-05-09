@@ -1,0 +1,14 @@
+Gamer gets 1 year in prison for 'World of Warcraft' cyberattack
+Heads up, "World of Warcraft" fans. If you're unhappy with other players or the results of a raid, don't take it out on the game's servers, or you could wind up in a US jail.
+
+Take it from Calin Mateias, a 38-year-old Romanian man who was just sentenced to one year in federal prison for launching a series of distributed denial of service (DDoS) attacks against "World of Warcraft's" European servers in 2010.
+
+According to the US Department of Justice, Mateias launched the attacks between February and September 2010 after clashing with other WoW players for a variety of reasons, including the division of loot and membership in raid teams. His attacks were successful, causing WoW servers to crash and preventing some paying users from being able to access the game.
+
+Mateias was indicted in 2011 and has been in custody since Nov. 20 after being extradited from Romania. He pleaded guilty in February to one count of intentional damage to a protected computer. In addition to his one-year prison sentence, Mateias was ordered to pay "World of Warcraft" developer Blizzard Entertainment $29,987 to cover labor costs associated with fighting the attacks.
+
+Meanwhile, law enforcement last month pulled the plug on Webstresser.org, the world's biggest marketplace for DDoS attacks. Police in Europe and Canada also arrested the site's administrators while "further measures" were taken against the site's "top users" in the Netherlands, Italy, Spain, Croatia, the United Kingdom, Australia, Canada, and Hong Kong.
+
+Webstresser customers used the service to launch at least 4 million attacks targeting banks, government institutions, and police forces, Europol said.
+
+This article originally appeared on PCMag.com.

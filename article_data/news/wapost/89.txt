@@ -1,0 +1,52 @@
+Despite previous safety concerns, this circuit breaker is still in homes
+Millions of U.S. and Canadian homes were built with circuit breaker panels that one expert has questioned as a potential fire hazard. Issues about Federal Pacific Electric’s “Stab-Lok” circuit breakers were first raised with the Consumer Product Safety Commission decades ago. The CPSC closed its investigation of the breakers in 1983 because, it said, the data available to the commission at that time did not establish “that the circuit breakers pose a serious threat of injury to consumers.” In an updated 2011 CPSC news release, however, the commission clarified that the investigation was closed “without making a determination as to the safety of FPE circuit breakers or the accuracy of the manufacturer’s position on the matter.” Now, a man who played a key role in identifying issues with FPE breakers is back with a new claim that Stab-Lok breakers made by other brands may pose a fire hazard as well, and is strongly urging homeowners to replace ­all Stab-Lok-type panels and breakers.
+
+Electrical engineer Jesse Aronstein, 82, who has been testing the FPE breakers for decades, met with the CPSC last month to ask the agency to definitively warn consumers about the danger. “Nobody whose word can be taken as an authority . . . has made a positive recommendation that people should change out their [breaker] panels for safety reasons,” Aronstein told CPSC staff. “When some agency of authority picks up the ball on this, then I can stop.” In a statement to The Washington Post, the agency said, “CPSC will be reviewing the information to determine if additional investigation is warranted under our statutes.”
+
+Long history of questions
+
+Aronstein — who has a doctorate in materials science, has lectured at universities, and has served as an expert witness in U.S. and Canadian court cases — got involved with the CPSC and circuit breakers in the 1980s. The CPSC hired the company he worked for to test the safety of FPE’s Stab-Lok breakers, which were installed in homes built from 1960 to 1985. Circuit breakers are supposed to trip — or shut off — when electrical wires are overloaded so that those wires don’t heat up and cause a fire. But when Aronstein’s team tested the FPE Stab-Lok breakers, 51 percent failed to trip, according to the results he submitted to the CPSC.
+
+Nobody knows how many fires FPE breakers have caused, ­because authorities don’t routinely consider breakers when investigating. Aronstein and a co-author wrote a peer-reviewed paper that attempted to quantify the scope of the problem by applying statistics to published fire reports. Their estimate: FPE Stab-Lok breakers may be responsible for as many as 2,800 fires, 13 deaths and $40 million in property damage every year.
+
+House fires burn much faster than they used to. Here’s how to survive.
+
+FPE’s parent company, Reliance Electric Co., acknowledged “a possible defect” in a 1982 Securities and Exchange Commission filing. The company also said that FPE had obtained the Underwriters Laboratories seal of approval for its breakers “through the use of deceptive and improper practices” and noted that Underwriters Laboratories had revoked UL listing for most of FPE’s products.
+
+In 1983, when the CPSC announced that it was closing its investigation, it noted in its news release that Reliance had submitted test data the company said proved the breakers “do not create a hazard in the household environment,” and the CPSC said it had “insufficient data” to accept or refute that position. Reliance told the agency that the FPE breakers will trip reliably at most overload levels unless the breakers have been operated in a repetitive, abusive manner that should not occur during residential use. Reliance also maintained that at those few overload levels where FPE breakers may fail to trip under realistic-use conditions, currents will be too low to generate hazardous temperatures in household wiring.
+
+“Based on the Commission’s limited budget,” the news release said, “and the uncertainty of the results of such a costly investigation, the Commission has decided not to commit further resources to its investigation of FPE’s circuit breakers.” Aronstein was floored. “I couldn’t understand why,” he said recently.
+
+Other companies start making Stab-Lok breakers
+
+FPE eventually stopped manufacturing products under its own name. However, its Stab-Lok circuit breakers were already in millions of homes. And other companies acquired the rights to manufacture Stab-Lok products under different names. They made entire Stab-Lok systems — boxes, panels and breakers — until about 1990. Today, two companies still make Stab-Lok-type products: Connecticut Electric produces breakers under the name UBI, and a Canadian company, Schneider Electric, makes breakers and panels under the name Federal Pioneer.
+
+Over the years, Aronstein says, the CPSC hired him as a consultant at least 10 more times but never revisited the FPE breaker problem or questioned the new Stab-Lok products. However, home inspectors and homeowners did. They started sending Aronstein the replacement Stab-Lok breakers — pulled from homes — to test. He expected them to perform well, but in his tests, the replacement brands had fail-to-trip problems as well. He published his findings in another peer-reviewed paper. At Aronstein’s April meeting with the CPSC, he asked the agency to issue a clear warning about old Stab-Lok breakers and to issue a recall of new ones.
+
+“We don’t believe the product should be recalled,” said Jeff Jensen, CEO of Connecticut Electric. “We believe our products are made with very high quality.” He said the company tests its own breakers at half a dozen different points and that ETL, a federally approved testing laboratory, also conducts surprise inspections. “Dr. Aronstein is not ETL, and he’s not UL. He’s one person,” Jensen said.
+
+Schneider Electric said in an emailed statement that its Stab-Lok breakers are not affiliated with those manufactured or sold by Federal Pacific. It added: “Any aspect of a component failure manufactured by Schneider Electric would need to be investigated by our engineering team . . . before we can provide an educated response.”
+
+While the CPSC is deciding whether it will conduct its own investigation, it’s up to homeowners to decide if they are comfortable with Stab-Lok breakers in their homes. Here’s some information to help.
+
+How to identify FPE breakers
+
+• The breaker box door usually says “Federal Pacific Electric” or “FPE.”
+
+• Once you open the door, you will usually — but not always — see the words “Stab-Lok” in the center or on the side of the breaker panel.
+
+• A website called Inspect­APedia supplies photos and further steps for identifying FPE Stab-Lok panels and breakers.
+
+• Still unsure? Ask an electrician to remove individual breakers from the panel — you could be electrocuted if you do it yourself — and look for the E-shaped and F-shaped openings that are unique to Stab-Lok breakers.
+
+How to identify successor Stab-Lok breakers made under other brand names
+
+• Again, most — but not all — will have the word “Stab-Lok” in the center or on the side of the breaker panel.
+
+• The replacement Stab-Lok brands went by at least a dozen names. The InspectAPedia website keeps an updated list of those brands that you can compare with any names you see on your own circuit breaker equipment.
+
+What to do if you find FPE or replacement Stab-Lok breakers
+
+In an email to The Post, a CPSC representative said, “CPSC recommends that consumers have their Federal Pacific circuit breaker panels inspected by a qualified electrician to look for any signs of overheating or malfunction of the circuit breakers.” Aronstein, who has tested more than 4,000 breakers, says a visual inspection won’t work. He says the only way to identify defective breakers is by removing and testing them, which can cost more than simply replacing the panel. A new breaker system costs $500 to $1,700, depending on the details.
+
+He’s not the only expert advising that homeowners replace rather than repair their panels. Many home inspectors say the same. “You don’t know you have a problem until the firetruck pulls up,” said Scott Patterson, ­president-elect of the American Society of Home Inspectors. “The entire panel needs to be replaced. That’s what I advise all my clients to do. They just have too bad of a history.”

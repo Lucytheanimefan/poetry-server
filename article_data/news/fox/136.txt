@@ -1,0 +1,28 @@
+Who's afraid of artificial intelligence? It could solve many of our nation's most difficult issues
+Everyone is talking about artificial intelligence (AI), and with good reason. AI now does simple tasks like playing games. But it also helps pilots fly planes, which is a big reason why we haven’t seen a growth in the number of commercial airplane tragedies despite an increasing number of flights. As AI does more complex tasks, it will transform economies, industries and our everyday lives. It will also raise questions about its impact on our economy and jobs. So, how can the U.S. retain its position as the global leader in AI, while also proactively addressing these new challenges?
+
+First, let’s consider how AI will improve our lives. When looking at health care, it is evident that our current aging population may become a future health crisis. According to the Census Bureau, 20 percent of Americans will be older than 65 by 2030. Our caregiving system is already stressed, and cutbacks on immigration will make it worse. AI can mitigate part of this stress by enabling seniors – our family, our parents – to continue to live healthy, active lives. Smart home technology powered by AI can monitor for falls and other accidents and provide reminders for daily tasks for people struggling with memory loss.
+
+AI can also play a huge role in confronting one of the most pressing safety issues of our time: cybersecurity. As the many data breaches over the past year have shown, our personal information is increasingly vulnerable to bad actors. But AI has the potential to help reduce fraud and cybercrime. Because AI can quickly learn fraudulent patterns – and identify when a regular pattern is broken – it can uncover threats to an organization’s cybersecurity system. Major companies such as PayPal and Visa report a low or reduced fraud rate due to AI in their security systems. In fact, according to Harvard Business Review, companies around the globe use artificial intelligence for security purposes far more often than for any other objectives.
+
+Many of us already use some form of AI in our homes or our phones: Digital assistants such as Amazon’s Alexa and Google Assistant provide helpful information, operate appliances and assist in household tasks. But, according to leading experts in AI, we’ll soon see these devices used on a much bigger scope and in far more environments – from retail stores to factories to self-driving vehicles.
+
+It’s a shift that has generated some worry.
+
+AI’s potential to transform jobs across industries concerns those fearful about the future of work. In fact, Consumer Technology Association (CTA) research found that, of the three main barriers to development and implementation of AI, lack of public trust was one. CTA just created a 21st Century Workforce Council – a forum for industry to address the skills gap and ensure the tech sector has the necessary pipeline of workers for the millions of jobs we are creating. The industry already faces a shortage of data analysts, programmers, robotics experts and new jobs will be created to build and maintain self-driving cars.
+
+As new products and ideas emerge, we need clear, open communication between legislators and industry, balancing the need for public trust and safety with the risk and ingenuity needed to compete on the global stage.
+
+AI – like all technology – can act only as capably and ethically as we train it to be. If we hold ourselves accountable to standards of fairness and excellence, that will play out in the AI solutions we develop. And while there’s no denying that AI will disrupt industries, the extent to which it will eliminate jobs has been somewhat exaggerated in the media. Like every major innovation, it will affect jobs – but it will replace those jobs by creating new demands for skilled workers.
+
+The economic potential of AI is enormous: According to PwC, AI is projected to add over $15 trillion to the world economy by 2030. None of us can predict how many jobs AI will create as new interfaces and industries emerge.
+
+The U.S. is not the only nation competing in this space. China has a plan to become the world’s leader in AI by 2030 – and will build a $2 billion research park in Beijing to help accomplish that. If we want to maintain our global lead in innovation, we need to act – and act soon. France and Britain recently announced their own strategies to lead in AI.
+
+Recently, I testified before the House Oversight Committee’s Subcommittee on Information Technology on the topic of AI. I likened the success of AI adoption to two major technological transitions – crafting the legal framework for the internet and helping the country shift to HDTV. In each of those instances, I saw industry and government, Republicans and Democrats put partisan politics aside and work together to create policies that helped our nation gain a crucial edge in global innovation.
+
+I’m confident this can happen again. CTA recently launched an AI working group with the leading companies in AI development and deployment to address the policy challenges associated with AI as well as industry definitions.
+
+Our leaders understand how serious the situation is and the great potential AI offers for solving many of our nation’s most difficult issues. As new products and ideas emerge, we need clear, open communication between legislators and industry, balancing the need for public trust and safety with the risk and ingenuity needed to compete on the global stage.
+
+We’ll need transparency, candor and courage. But together, we can harness AI to build a nation that is stronger and safer for everyone.

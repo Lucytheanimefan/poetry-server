@@ -1,0 +1,50 @@
+Rick Perry: The future is in supercomputers
+Rick Perry is the US secretary of energy and former governor of Texas. The views expressed in this commentary are his own.
+
+(CNN) Technology is easy to take for granted, but it has an incredible impact. Computers, for instance, are commonplace, but they give us extraordinary capabilities. And we may only be seeing the beginnings of their potential.
+
+Imagine a computer that can determine the appropriate medical treatments on a personalized basis. Imagine a computer that can predict extreme weather events like hurricanes with acute accuracy, enabling quicker and more effective responses.
+
+What you're imagining is a supercomputer -- and this imagination is fast becoming a reality.
+
+I have the privilege of overseeing the Department of Energy's (DOE's) 17 national laboratories -- or what I like to call our country's "crown jewels" of science and innovation -- which house some of the most significant computing resources and supercomputers in the world.
+
+Each day, DOE's supercomputers are being used to explore fundamental scientific questions and address some of our nation's most complex challenges.
+
+JUST WATCHED Supercomputers model cloud behavior Replay More Videos ... MUST WATCH Supercomputers model cloud behavior 03:40
+
+But while we used to lead the world in supercomputing, the United States has recently slipped in the rankings of the world's fastest machines, falling behind systems from China, Switzerland and Japan.
+
+We cannot continue to fall behind. The advances and innovations that top supercomputers can bring -- to say nothing of their importance to America's security and economic prosperity -- are far too valuable to miss out on. I know we have the brainpower and resources to succeed. We just need the will to do it.
+
+I'm convinced of that, and the Trump administration is committed to it.
+
+That next generation is exascale supercomputers.
+
+That's why earlier this year, I authorized the deployment of the first US exascale system at Argonne National Laboratory (ANL) in Illinois. By 2021, it is expected to come online, making it the fastest and most powerful supercomputer in the world.
+
+To be clear, exascale systems are capable of at least a billion-billion calculations per second, which means they are 10 to 20 times faster than the world's fastest supercomputer today and 50 to 100 times more powerful than the fastest computer in the United States.
+
+So, the jump to exascale would be like going from a flip phone to the latest smartphone or from dial-up to 4G internet speed.
+
+And we are committed to expanding the use of exascale systems. We recently announced a request for proposals of up to $1.8 billion for the development of two new exascale computers to be deployed between 2021-2023 at Oak Ridge National Laboratory in Tennessee and Lawrence Livermore National Laboratory. This RFP also envisions the possibility of upgrading Argonne's exascale system -- ranging from small, cosmetic upgrades to the restructuring of certain computational aspects of the new supercomputer.
+
+JUST WATCHED New superfast supercomputer could mimic brains Replay More Videos ... MUST WATCH New superfast supercomputer could mimic brains 02:49
+
+The completion of these systems will help the United States reassert itself as a global leader in high-performance computing. They will also enable medical breakthroughs that have the potential to be life-changing.
+
+One such example is in the area of precision medicine, or the ability to tailor medical treatments for individual patients based on their unique genetic, environmental or historical variations. To create precision medicines, however, requires the analysis of enormous amounts of data. For instance, a typical cancer study requires more than 8 million measurements from a single tumor. We need faster computers to process this amount of data, which is where the DOE's systems come in.
+
+For instance, researchers at ANL, in conjunction with the National Cancer Institute, have developed the CANcer Distributed Learning Environment (CANDLE) program to accelerate cancer research and to ultimately tailor treatment plans for individual patients.
+
+Another example is DOE's Advanced Computational and Translation Initiatives for Veterans -- or ACTIV program. Working with the Department of Veterans Affairs, ACTIV seeks to use DOE's fastest supercomputers to analyze our vast sets of veteran's medical data in order to optimize their treatments and improve their health outcomes. Those studies could benefit all other Americans, too.
+
+However, as Dr. Geoff Manley from University of California, San Francisco recently told me, that time is often of the essence in medical treatments, and at current computing levels, processing this complex brain imaging takes days to complete. This is not clinically actionable. But with exascale computers, the same process could be accomplished in two and a half minutes.
+
+Follow CNN Opinion Join us on Twitter and Facebook
+
+Now, if you're an oncologist or someone suffering from cancer, would you rather know your treatment options in 2 ½ minutes or 2 ½ weeks?
+
+If you're a veteran suffering from a traumatic injury, would you rather know the most effective treatment in 2 ½ minutes or 2 ½ weeks?
+
+That's why we cannot fall behind in supercomputing. That's why we must push ahead into exascale. In medicine and health, in discovery and innovation, we have the opportunity to build new systems which will truly improve our nation.
