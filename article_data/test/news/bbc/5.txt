@@ -1,0 +1,36 @@
+Cocaine breathalyser 'one step closer'
+Image copyright Getty Images
+
+Researchers in the US say they have developed a low-cost chip that can detect cocaine in minutes.
+
+The team hopes it will lead to the development of a portable cocaine breathalyser that can tell if a person has used the drug.
+
+At present, it says the chip can only analyse substances extracted from blood, breath, urine or saliva samples using a purification process.
+
+One road safety group called the research "exciting".
+
+The new chip is significant because it costs only a few pence to produce.
+
+"These findings have the potential to improve the speed and accuracy of roadside drug testing," said Joshua Harris from UK road safety charity Brake.
+
+"Shockingly, drug-driving was a factor in 81 fatal road crashes in 2016 and it is clearly an ever-increasing danger on our roads.
+
+"We are calling upon the government to prioritise the type-approval of roadside screening devices that can detect all banned drugs and step up roads policing levels to deter offending."
+
+'Layer cake'
+
+Many chemical compounds can be detected using an existing technique called surface-enhanced Raman spectroscopy (Sers).
+
+"The chips used for Sers are typically fabricated using expensive methods," said researcher Nan Zhang from the University at Buffalo, New York.
+
+"We created our chip by depositing various thin layers of materials on a glass substrate, which is cost-effective and suitable for industrial-scale production."
+
+The university has described the chip as a "layer cake", in which an insulating material is sandwiched between a silver mirror and a layer of material made from gold and silver nanoparticles.
+
+When a substance such as cocaine is put on the chip's surface, light is "scattered" and forms recognisable patterns that act as fingerprints, revealing what is present.
+
+The researchers said the chip had a long shelf life and found that it worked well after 12 months in storage.
+
+The next stage of the research is to create a portable testing device to detect cocaine.
+
+The researchers hope the chip will also be able to detect marijuana.

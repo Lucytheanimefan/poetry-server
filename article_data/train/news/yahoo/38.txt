@@ -1,0 +1,42 @@
+Uber adds another flying taxi partner
+Uber has teamed up with Karem Aircraft to develop electric vertical takeoff and landing (eVTOL) vehicles for the ride-hailing company's upcoming flying taxi service, the companies announced today at Uber Elevate.
+
+Karem Aircraft, which has patented Optimum Speed Tiltroter technology for military and commercial applications, has been working with Uber for about a year to create the Butterfly concept. This type of vehicle is supposed to be a passenger-friendly adaptation of Karem's core technology.
+
+"We were always dreaming of doing things commercially, but all of our funding came from the military," Karem Aircraft founder Abe Karem told TechCrunch ahead of the announcement. "What we were doing was advanced and labeled 'risky.'"
+
+Now, Karem is able to do what people previously thought was impossible, Karem said. The Butterfly (rendered above) is a quad tiltrotor with four large rotors mounted on the wings and tail. The idea is to combine the vertical lift capability of a helicopter with the speed and range of a fixed-wing aircraft. The Butterfly is also designed to be more efficient as a result of its rotors with variable RPM.
+
+"Variable RPM allows us to maintain good efficiency across a wide range of rotor thrust," Karem Aircraft CEO Ben Tigner told me.
+
+This partnership comes a little over one year after Uber announced a number of vehicle partnerships with established aeronautics and VTOL manufacturers at last year's Elevate event. Other partners include Aurora Flight Sciences, Embraer, Bell Helicopter, Pistrel Aircraft, Mooney and ChargePoint. That's because Uber itself isn't building any vehicles. It's relying on its partners to do that.
+
+Earlier today, Uber unveiled its common reference model design concepts, with the goal to encourage companies and eVTOL manufacturers to design prototypes with UberAIR in mind. For example, the design model requires the propeller blades to be as high as possible in order to ensure people don't have to duck while they're boarding and exiting the aircraft.
+
+As long as vehicle manufacturers can adhere to Uber's common reference designs, they will be eligible to participate in Uber Elevate. By 2020, Uber envisions having multiple vehicle partners ready, Uber Head of Aviation Eric Allison told me, "but we're not going to launch them if they're not ready."
+
+The idea with Uber Elevate is to create an ecosystem with partners across the entire spectrum -- batteries, skyports, vehicles and so forth, Allison said.
+
+"We believe that this is a potentially huge market and it's not just about the ecosystem," he said. "You need the right ground infrastructure, as well as vehicles to make the overall system be much more useful on a larger scale than small plane aviation is today."
+
+Uber Elevate's ultimate goal is to launch and operate a ridesharing network of small, electric aircrafts worldwide that can carry four people at any given time.
+
+Other fun facts:
+
+Uber hopes to demonstrate flights in 2020
+
+uberAIR will be commercially available in 2023 in Dallas-Fort Worth and Frisco, Texas, and Los Angeles
+
+uberAIR hopes to hit speeds of up to 200 mph
+
+uberAIR can travel up to 60 miles on a single charge
+
+Cruising altitude must be ~ 1,000-2,000 feet above ground
+
+Given that the airspace is much more regulated, Uber is prepared to create core systems that enable the entire ecosystem to operate. That means developing an airspace management system that is a more complex version of what we know today as air traffic control.
+
+"Air transport is much more regulated," Allison said, "and needs to be much more highly coordinated. It can't be a total free-for-all in the sky."
+
+In order to achieve all of this, Uber will need skyports. Uber has also teamed up with real estate companies like Hillwood Properties and Sandstone Properties to create skyports for the uberAir network.
+
+Earlier today, Allison showed off some early design concepts. Here's a quick look at one that could handle 1,000 landings per hour.
