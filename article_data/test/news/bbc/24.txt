@@ -1,2 +1,46 @@
-I tried to get a date using augmented reality
-Today, nearly half of us know someone who uses a dating app, but most apps restrict us to virtual exchanges. AR, however, pushes us towards real-time, real-life interactions, while eliminating the embarrassing bit of real-life meetings: making an approach without knowing whether the other person likes you. This app matches you virtually first - then you decide whether to say hello. It’s only a few months old, but its international user base already stands at around 5,000 worldwide, 10% of whom are in London, according to the app itself.
+Origins of amphibian-killing fungus uncovered
+Image copyright Frank Pasmans Image caption The frog Bombina orientalis was imported to Europe from South Korea
+
+A deadly fungus that has ravaged amphibian populations worldwide probably originated in East Asia, new research suggests.
+
+A study in Science journal supports an idea that the pet trade helped spread killer strains of the chytrid fungus around the globe.
+
+The fungus is a major cause of the devastating declines experienced by frogs, toads, newts and salamanders.
+
+There is no known effective measure for controlling the disease.
+
+The authors of the report highlight the need to tighten biosecurity along country borders, including a potential ban on the trade in amphibians as pets.
+
+The chytrid fungus, known as Batrachochytrium dendrobatidis, or Bd, was first identified as a problem in the 1990s, said co-author Dr Simon O'Hanlon, from Imperial College London.
+
+Image copyright Dirk S Image caption The American bullfrog is more-or-less immune to the chytrid fungus, but it helps transmit the disease to other, susceptible amphibians
+
+"Until now we haven't been able to identify exactly where it came from," he explained.
+
+"In our paper, we solve this problem and show that the lineage which has caused such devastation can be traced back to East Asia."
+
+Bd causes a disease called chytridiomycosis, which attacks the animal's skin, interfering with their ability to regulate levels of water and electrolytes (salts and minerals that are essential for vital biological functions). This can lead to heart failure.
+
+Some species are affected more than others: while the American bullfrog (Rana catesbeiana) appears to be effectively immune, other populations experience near-100% mortality.
+
+The team gathered samples of the fungus from across the globe and sequenced the genomes of these samples. They combined this information with data from previous studies of Bd genomes, building a set of 234 samples.
+
+'Ground zero'
+
+The team members then looked at the relationships between the different forms of the fungus. They identified four main genetic lineages, three of which appeared to be distributed globally.
+
+But a fourth type was restricted to the Korean peninsula.
+
+This Korean form appeared to be native to the region and showed more genetic overlap with the global population of chytrid fungus than any other lineage. Named BdASIA-1, it most closely resembled the ancestor of all other modern Bd.
+
+Image copyright Getty Images Image caption The chytrid fungus has been having a devastating effect on critically endangered Corroboree frogs, native to the Southern Tablelands of Australia
+
+The researchers next used the genome data to estimate when the killer strain diverged from its most recent common ancestor.
+
+Rather than dating back thousands of years, as had previously been thought, the disease appears to have emerged in the early 20th Century, coinciding with the commercial trade in amphibians.
+
+Co-author Prof Matthew Fisher, also from Imperial College London, said: "Our research not only points to East Asia as ground zero for this deadly fungal pathogen, but suggests we have only uncovered the tip of the iceberg of chytrid diversity in Asia.
+
+"Therefore, until the ongoing trade in infected amphibians is halted, we will continue to put our irreplaceable global amphibian biodiversity recklessly at risk."
+
+A study published in Science journal earlier this year suggested some frogs might be developing resistance to the disease. But researchers also warned that it was too early to celebrate any signs of recovery.

@@ -1,52 +1,44 @@
-Despite previous safety concerns, this circuit breaker is still in homes
-Millions of U.S. and Canadian homes were built with circuit breaker panels that one expert has questioned as a potential fire hazard. Issues about Federal Pacific Electric’s “Stab-Lok” circuit breakers were first raised with the Consumer Product Safety Commission decades ago. The CPSC closed its investigation of the breakers in 1983 because, it said, the data available to the commission at that time did not establish “that the circuit breakers pose a serious threat of injury to consumers.” In an updated 2011 CPSC news release, however, the commission clarified that the investigation was closed “without making a determination as to the safety of FPE circuit breakers or the accuracy of the manufacturer’s position on the matter.” Now, a man who played a key role in identifying issues with FPE breakers is back with a new claim that Stab-Lok breakers made by other brands may pose a fire hazard as well, and is strongly urging homeowners to replace ­all Stab-Lok-type panels and breakers.
+A huge pension fund says Facebook is like a ‘dictatorship’
 
-Electrical engineer Jesse Aronstein, 82, who has been testing the FPE breakers for decades, met with the CPSC last month to ask the agency to definitively warn consumers about the danger. “Nobody whose word can be taken as an authority . . . has made a positive recommendation that people should change out their [breaker] panels for safety reasons,” Aronstein told CPSC staff. “When some agency of authority picks up the ball on this, then I can stop.” In a statement to The Washington Post, the agency said, “CPSC will be reviewing the information to determine if additional investigation is warranted under our statutes.”
 
-Long history of questions
+Facebook CEO Mark Zuckerberg speaks during the annual F8 summit at the San Jose McEnery Convention Center in San Jose, Calif. (Josh Edelson/AFP/Getty Images)
 
-Aronstein — who has a doctorate in materials science, has lectured at universities, and has served as an expert witness in U.S. and Canadian court cases — got involved with the CPSC and circuit breakers in the 1980s. The CPSC hired the company he worked for to test the safety of FPE’s Stab-Lok breakers, which were installed in homes built from 1960 to 1985. Circuit breakers are supposed to trip — or shut off — when electrical wires are overloaded so that those wires don’t heat up and cause a fire. But when Aronstein’s team tested the FPE Stab-Lok breakers, 51 percent failed to trip, according to the results he submitted to the CPSC.
+Yet another major institutional investor is slamming how Facebook is governed, describing it as "akin to a dictatorship" and calling for an end to the way it structures voting power among its shareholders, a system that gives founder and CEO Mark Zuckerberg unusual control over the company and erodes the influence of other investors.
 
-Nobody knows how many fires FPE breakers have caused, ­because authorities don’t routinely consider breakers when investigating. Aronstein and a co-author wrote a peer-reviewed paper that attempted to quantify the scope of the problem by applying statistics to published fire reports. Their estimate: FPE Stab-Lok breakers may be responsible for as many as 2,800 fires, 13 deaths and $40 million in property damage every year.
+In an op-ed published Thursday morning in the Financial Times, an executive with the country's second-largest pension fund wrote that it is "time to end" the dual-class share structure at companies like Facebook, where special "Class B" shares have 10 times the voting power as regular "Class A" shares.
 
-House fires burn much faster than they used to. Here’s how to survive.
+"Why does Mr Zuckerberg need the entrenchment factor of a dual-class structure? Is it because he does not want governance to evolve with the rest of his company? If so, this American dream is now akin to a dictatorship," wrote Aeisha Mastagni, a portfolio manager with the California State Teachers' Retirement System. "It is time to end the dual-class." CalSTRS manages the country's second-largest pension fund, and owned $825 million of Facebook's stock as of March 30.
 
-FPE’s parent company, Reliance Electric Co., acknowledged “a possible defect” in a 1982 Securities and Exchange Commission filing. The company also said that FPE had obtained the Underwriters Laboratories seal of approval for its breakers “through the use of deceptive and improper practices” and noted that Underwriters Laboratories had revoked UL listing for most of FPE’s products.
+According to its most recent proxy filing, Zuckerberg owns or controls voting for 89 percent of Facebook's B shares and less than one percent of its common shares, giving him voting power over 60 percent of the stock. That means he could, in effect, stop or control the outcome of board elections or shareholder resolutions -- including a proposal investors will vote on at its annual May 31 meeting, which calls for Facebook to recapitalize its stock so that each share has only one vote. A similar proposal has been rejected at Facebook's last four annual meetings.
 
-In 1983, when the CPSC announced that it was closing its investigation, it noted in its news release that Reliance had submitted test data the company said proved the breakers “do not create a hazard in the household environment,” and the CPSC said it had “insufficient data” to accept or refute that position. Reliance told the agency that the FPE breakers will trip reliably at most overload levels unless the breakers have been operated in a repetitive, abusive manner that should not occur during residential use. Reliance also maintained that at those few overload levels where FPE breakers may fail to trip under realistic-use conditions, currents will be too low to generate hazardous temperatures in household wiring.
+[As Zuckerberg heads to Capitol Hill, a call to replace him as Facebook’s chairman]
 
-“Based on the Commission’s limited budget,” the news release said, “and the uncertainty of the results of such a costly investigation, the Commission has decided not to commit further resources to its investigation of FPE’s circuit breakers.” Aronstein was floored. “I couldn’t understand why,” he said recently.
+The op-ed comes amid broader investor concern over multi-class share structures. Some stock market index providers are even trying to restrict dual-class companies with unequal voting rights from their indices, moves that could affect liquidity and investor demand. Last August, for example, S&P Dow Jones Indices said it would no longer add new companies to the Standard & Poor's 500-stock index with more than one class of shares -- current constituents, like Facebook, would be grandfathered in -- while FTSE Russell and MSCI have made other moves to restrict multi-class companies from their indices.
 
-Other companies start making Stab-Lok breakers
+Mastagni's op-ed follows other sharp critiques of Facebook's governance from big pension funds in recent months as the social media giant has navigated the fallout of its Cambridge Analytica crisis. In March, New York City comptroller Scott Stringer, custodian of the city's $193 billion pension fund, which holds $895 million in Facebook stock, called for Facebook to add three new independent directors and replace Zuckerberg with an independent chairman, urging the board to "take the steps necessary to restore investor confidence in the board and its ability to provide independent and effective oversight."
 
-FPE eventually stopped manufacturing products under its own name. However, its Stab-Lok circuit breakers were already in millions of homes. And other companies acquired the rights to manufacture Stab-Lok products under different names. They made entire Stab-Lok systems — boxes, panels and breakers — until about 1990. Today, two companies still make Stab-Lok-type products: Connecticut Electric produces breakers under the name UBI, and a Canadian company, Schneider Electric, makes breakers and panels under the name Federal Pioneer.
+In April, the state treasurer of Illinois, Michael Frerichs, who is supporting Stringer's effort, said "in essence Mr. Zuckerberg is not accountable to anyone. Not the board, nor the shareholders," reported the Financial Times. "Right now, Mr. Zuckerberg is his own boss and it’s clearly not working." CalSTRS's chief investment officer, Christopher Ailman, also said in a tweet that he was deleting his Facebook account: "Their lack of oversight and poor management is offensive."
 
-Over the years, Aronstein says, the CPSC hired him as a consultant at least 10 more times but never revisited the FPE breaker problem or questioned the new Stab-Lok products. However, home inspectors and homeowners did. They started sending Aronstein the replacement Stab-Lok breakers — pulled from homes — to test. He expected them to perform well, but in his tests, the replacement brands had fail-to-trip problems as well. He published his findings in another peer-reviewed paper. At Aronstein’s April meeting with the CPSC, he asked the agency to issue a clear warning about old Stab-Lok breakers and to issue a recall of new ones.
+I have deactivated my Facebook account. Their lack of oversight and poor management is offensive. #DeleteFacebook — Christopher Ailman (@CJAtheCIO) April 4, 2018
 
-“We don’t believe the product should be recalled,” said Jeff Jensen, CEO of Connecticut Electric. “We believe our products are made with very high quality.” He said the company tests its own breakers at half a dozen different points and that ETL, a federally approved testing laboratory, also conducts surprise inspections. “Dr. Aronstein is not ETL, and he’s not UL. He’s one person,” Jensen said.
+Nell Minow, vice chair of the governance consulting firm ValueEdge Advisers, said it is not unusual to see several institutional investors slam a company's practices -- especially if there's a major governance question at stake.
 
-Schneider Electric said in an emailed statement that its Stab-Lok breakers are not affiliated with those manufactured or sold by Federal Pacific. It added: “Any aspect of a component failure manufactured by Schneider Electric would need to be investigated by our engineering team . . . before we can provide an educated response.”
+"Dual-class share structures are basically the company telling you they want access to the capital of a public company but the control of a private company," she said. "It's a win-win for insiders, but a lose-lose for investors."
 
-While the CPSC is deciding whether it will conduct its own investigation, it’s up to homeowners to decide if they are comfortable with Stab-Lok breakers in their homes. Here’s some information to help.
+In response to Mastagni's letter, a Facebook spokeswoman pointed to the following statement in the company's proxy: "Our board of directors believes that our capital structure contributes to our stability and insulates our board of directors and management from short-term pressures, which allows them to focus on our mission and long-term success."
 
-How to identify FPE breakers
+Zuckerberg, who tried to preserve his voting power last year as he gave away shares for charitable purposes -- before backing down amid a shareholder lawsuit -- said in an interview with Vox in April that he felt "really lucky" to have that kind of governance structure and that it "reflects more what people in the community want than what short-term-oriented shareholders might want."
 
-• The breaker box door usually says “Federal Pacific Electric” or “FPE.”
+The Council of Institutional Investors, which represents pension funds and other big investors like endowments or foundations, wants multi-class companies with differential voting rights to “sunset” to a “one share, one vote” structure within seven years of IPO. CII plans to propose to major U.S. stock exchanges that they require future multi-class companies to agree to sunsets of no more than seven years as a condition of listing. It points to research, by the European Corporate Governance Institute, also referenced in Mastagni's letter, that initial higher stock price premiums for multi-class companies tend to dissipate after several years.
 
-• Once you open the door, you will usually — but not always — see the words “Stab-Lok” in the center or on the side of the breaker panel.
+According to ISS Analytics, the data intelligence arm of Institutional Shareholder Services, 9.2 percent of companies in the Russell 3000 index have dual-class share structures, up from 7.7 percent in 2012, the year Facebook went public.
 
-• A website called Inspect­APedia supplies photos and further steps for identifying FPE Stab-Lok panels and breakers.
+Minow said if she were to advise Facebook, she would suggest it adopt a sunset provision and allow minority investors to add directors to the board.
 
-• Still unsure? Ask an electrician to remove individual breakers from the panel — you could be electrocuted if you do it yourself — and look for the E-shaped and F-shaped openings that are unique to Stab-Lok breakers.
+"I would say listen to your investors," she said. "You don’t need to give up everything you have right now, but you need to allow some options."
 
-How to identify successor Stab-Lok breakers made under other brand names
+Read also:
 
-• Again, most — but not all — will have the word “Stab-Lok” in the center or on the side of the breaker panel.
+These business titans are teaming up for better corporate governance
 
-• The replacement Stab-Lok brands went by at least a dozen names. The InspectAPedia website keeps an updated list of those brands that you can compare with any names you see on your own circuit breaker equipment.
-
-What to do if you find FPE or replacement Stab-Lok breakers
-
-In an email to The Post, a CPSC representative said, “CPSC recommends that consumers have their Federal Pacific circuit breaker panels inspected by a qualified electrician to look for any signs of overheating or malfunction of the circuit breakers.” Aronstein, who has tested more than 4,000 breakers, says a visual inspection won’t work. He says the only way to identify defective breakers is by removing and testing them, which can cost more than simply replacing the panel. A new breaker system costs $500 to $1,700, depending on the details.
-
-He’s not the only expert advising that homeowners replace rather than repair their panels. Many home inspectors say the same. “You don’t know you have a problem until the firetruck pulls up,” said Scott Patterson, ­president-elect of the American Society of Home Inspectors. “The entire panel needs to be replaced. That’s what I advise all my clients to do. They just have too bad of a history.”
+Like On Leadership? Follow us on Facebook and Twitter, and subscribe to our podcast on iTunes.

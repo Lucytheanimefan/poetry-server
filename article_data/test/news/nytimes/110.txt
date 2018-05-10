@@ -1,0 +1,48 @@
+It’s Not Just Hybrids: Pickup Trucks and Sedans Have Gotten More Efficient, Too
+Automakers have steadily improved the fuel economy of new cars, S.U.V.s and pickup trucks, pushed by federal regulations. While some companies have introduced hybrid and electric cars, most of the recent gains have come from improving traditional gasoline-powered vehicles.
+
+The Trump administration is now proposing to weaken those Obama-era vehicle rules after 2021. A big question is whether automakers can meet increasingly strict standards in the years ahead. To put this debate in context, here’s a look at how automakers have improved the fuel economy of some of their most popular models so far — and what the future might hold.
+
+Two paths for how sedans have improved engines
+
+Fuel economy, combined city and highway, miles per gallon | Source: fueleconomy.gov
+
+Toyota has increased fuel economy in the Camry, its best-selling sedan in the United States, through a multitude of engine improvements, such as more precisely controlling the timing of engine valves with electric motors. These strategies can add to the upfront cost of the vehicle, though drivers save on fuel costs over time.
+
+Other automakers have adopted different strategies. Chevrolet has increased the fuel economy of its Malibu sedan by switching to a smaller engine that uses less fuel but still maintains power by using turbochargers. The Malibu also has a start-stop system that shuts the engine off when the car comes to a stop — a technology that initially got mixed reviews from drivers but is becoming more widespread.
+
+And analysts say that automakers haven’t yet hit the limits of improvements in internal combustion engines. Mazda has announced a new engine technology for 2019 that, it claims, can improve fuel efficiency even more by more precisely controlling the timing of fuel ignition.
+
+Greater efficiency at more speeds in S.U.V.s
+
+Fuel economy, combined city and highway, miles per gallon | Source: fueleconomy.gov
+
+Because of how the current fuel economy rules are structured, S.U.V.s face less stringent standards than smaller cars do. So, as Americans have shifted toward larger vehicles in recent years, that has temporarily slowed the overall pace of fuel economy gains.
+
+But S.U.V.s still face tighter requirements each year. Subaru has improved the fuel economy of its Outback by redesigning the transmission. Having more gears can allow an engine to operate more efficiently at different speeds, and the Outback’s continuously variable transmission essentially allows for a nearly infinite set of gears, helping to improve fuel economy.
+
+Automakers are still trying to perfect these newer transmission systems, which, if implemented poorly, can lead to jarring driving experiences or higher maintenance costs. But as companies like Subaru and Honda fine-tune the technology, analysts expect it to become more widespread to help meet stringent fuel economy standards.
+
+Trucks have gotten lighter without sacrificing power
+
+This chart compares fuel economy for four-wheel-drive F-150 trucks with the most fuel-efficient gasoline engine. The 2008 value represents a 4.6-liter V8 engine (4-speed); the 2018 value represents a 2.7-liter V6 EcoBoost engine (10-speed). Fuel economy, combined city and highway, miles per gallon | Source: fueleconomy.gov
+
+The Ford F-150 pickup has long been the best-selling vehicle in the United States. As vehicle standards have risen, Ford has increased the truck’s fuel efficiency by removing 700 pounds, switching from steel to high-strength aluminum. (The lighter F-150 has still performed well in crash tests.)
+
+The company also developed smaller engines that use less fuel while maintaining power. Ford's most popular F-150 engine today now produces only slightly more horsepower than the most powerful engine available in 2010. And fuel economy has gone up by 40 percent.
+
+The F-150 still consumes far more gasoline per mile than smaller cars like the Camry or the Malibu do. But improving the fuel economy of a gas-guzzling pickup truck by 1 mile per gallon actually reduces overall gasoline use by more than eking out another 1 m.p.g. from a highly efficient sedan, because of diminishing returns, said Gabriel Collins, an energy fellow at Rice University’s Baker Institute for Public Policy.
+
+“Large heavy vehicles are really your low-hanging fruit if you’re looking to rein in fuel use and emissions,” Mr. Collins said.
+
+But hybrids and electric cars are still far out in front
+
+Miles per gallon equivalent (m.p.g.-e) is the number of miles an electric vehicle can go using an amount of energy comparable to that in a gallon of gasoline. Fuel economy, combined city and highway, miles per gallon | Source: fueleconomy.gov
+
+If fuel economy standards continue to rise, automakers may need to produce more hybrids and electric cars to meet the requirements of the future.
+
+Automakers have recently rushed to announce new electric models, and Ford is even planning a hybrid F-150 by 2020. But they have also expressed concern about consumer willingness to buy these vehicles in the short term, especially with gasoline much cheaper than it was in 2011. Last year, plug-in vehicles made up just 1 percent of new sales.
+
+The Alliance of Automobile Manufacturers, the main automaker lobbying group, has asked the Trump administration to relax the vehicle standards between 2022 and 2025, arguing that current standards would require roughly one-third of new vehicles sold in 2025 to be full hybrids. “Consumer adoption of advanced technology vehicles has not lived up to expectations,” Mitch Bainwol, president of the alliance, told Congress last year.
+
+But other groups dispute this claim, arguing that automakers can readily meet the Obama-era standards without needing to shift heavily into electric vehicles. “There’s no question in my mind about that,” said John German, a senior fellow at the International Council on Clean Transportation, pointing to the latest Camry, which already meets 2022 standards. “Conventional technologies are just coming along so fast.”

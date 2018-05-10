@@ -1,40 +1,24 @@
-From ‘pretty please’ mode to Digital Wellbeing, Google unveils tech with a responsible message
+Baltimore police commissioner charged with failing to file taxes
+In this Jan. 19, 2018, file photo, Darryl DeSousa takes questions in January at City Hall after being named police commissioner. (Kim Hairston/The Baltimore Sun/via AP)
 
+Baltimore Police Commissioner Darryl De Sousa has been charged with failing to file his tax returns, federal authorities announced Thursday.
 
-Trystan Upstill speaks about Google News at the Google I/O conference in Mountain View, Calif., on May 8. (Jeff Chiu/AP)
+Court documents in the case unsealed on Thursday indicate that the commissioner could also be under investigation for “additional violations of federal law,” but the documents do not specify details of any other investigation.
 
-MOUNTAIN VIEW, Calif. — Google’s annual developer conference is normally a relentlessly positive cheerleading session to excite developers to create products for the company and its Android operating system. But this year, there is a hint of a more serious tone as the company discusses creating technology that is not simply innovative, but also responsible.
+De Sousa, 53, was charged with three misdemeanor counts this week and “willfully failed to file a federal return for tax years 2013, 2014, and 2015, despite having been a salaried employee of the Baltimore Police Department in each of those years,” according to a statement from the U.S. Attorney’s Office in Maryland.
 
-The theme of the company’s annual conference, which is being held Tuesday through Thursday, is “Make Good Things Together.” Google chief executive Sundar Pichai said in a keynote address to about 7,000 developers and journalists that Google wants to push ahead to innovate, but he acknowledged that the tech giant can't be “wide-eyed” about it.
+[Baltimore mayor replaces Kevin Davis as police commissioner, citing rising crime]
 
-“There are important questions being raised about the impact of these advances and the role they'll play in our lives,” he said. “We know the path ahead needs to be navigated carefully and deliberately.”
+De Sousa’s gross income was more than $93,000 to $127,000 for each year between 2013 to 2015, according to federal court documents.
 
-[At Google, ‘responsibility’ upstages new technology]
+De Sousa admitted to failing to file his personal state and federal taxes in those years and called his actions a mistake, in a statement issued Thursday evening. De Sousa said he had been paying federal, state and local taxes regularly through the salary withholding process.
 
-Google makes its money from collecting data for advertising, a model that's come under closer scrutiny in light of the Facebook scandal over the data firm Cambridge Analytica, which was able to collect private information from tens of millions of Facebook users.
+“While there is no excuse for my failure to fulfill my obligations as a citizen and public official, my only explanation is that I failed to sufficiently prioritize my personal affairs,” De Sousa said. “Naturally, this is a source of embarrassment for me and I deeply regret any embarrassment it has caused the Police Department and the City of Baltimore.”
 
-While Google has escaped the worst of the criticism leveled at Facebook, lawmakers have raised questions about how its YouTube video site, news aggregation and data algorithms overstep privacy concerns and shape public opinion.
+De Sousa said he has been working with a registered tax adviser to help him with his financial affairs. In his statement, De Sousa noted he filed his 2016 taxes and filed an extension for 2017.
 
-Pichai did not directly address those concerns but returned repeatedly to the theme of responsible design throughout the show. That included new controls for Google’s Android operating system to limit how much children and adults use their smartphones. These options will become available to billions of Android users over the next several months, Google said.
+The charges come four months after De Sousa took over the troubled police force in Maryland. De Sousa, who has been with the department for more than 30 years, took over the top position after Mayor Catherine E. Pugh abruptly ousted Commissioner Kevin Davis.
 
-[The agency in charge of policing Facebook and Google is 103 years old. Can it modernize?]
+Baltimore ended 2017 with a record-high homicide rate and remains under the watch of federal investigators after the Justice Department declared the city had engaged in policing that discriminates against those in poor, black neighborhoods.
 
-“We are working hard to give users back time,” Pichai said.
-
-Called Digital Wellbeing, the controls will let people know how they are using their phones and will even give services such as YouTube the ability to prompt viewers to take an occasional break. People can set time limits for using specific apps, and a new “shush” feature will be able to silence notifications when the phone is turned screen down. Users can select certain people whose calls will always break through the silence mode.
-
-Google already offers an app for parental controls, but this new set of features bakes those options directly into the operating system. It expands on programs offered by others, such as Amazon.com, which has provided time-limiting parental controls on its devices since 2012. (Amazon chief executive Jeffrey P. Bezos owns The Washington Post.) And Google is a step ahead of Apple, which disclosed that it's working on similar parental controls after two groups of shareholders asked it to add more such options to the iPhone.
-
-The controls are part of Google's new operating system, Android P, which is now available for Google Pixel owners in beta version. Seven other phone makers — including Nokia, Sony and Essential — are also making the beta available. Other phone makers will set their own schedules for updating to the new OS.
-
-In another play for parents, Google also introduced a “pretty please” mode that encourages children to ask the Google Assistant for things politely. It is very similar to the child-focused “magic word” feature Amazon introduced earlier this year.
-
-Nodding to the controversy over how its algorithms may bias news consumption, the company unveiled an overhaul of Google News. The new layout shows how several outlets are covering the same story from different angles. Google said it will also make it easier to subscribe to news organizations directly from its app store, taking another swing at streamlining the subscription process.
-
-[A Google program can pass as a human on the phone. Should it be required to tell people it’s a machine?]
-
-Much of the conference has been focused on Google's work on artificial intelligence and machine learning. Despite the show's theme, there has been little discussion about designing ethical AI, as Facebook discussed at its conference for developers earlier this month.
-
-But there still has been a lot of whiz-bang technology. In one notable demo, Google's Assistant carried on a conversation with a real receptionist at a hair salon and successfully made an appointment without ever betraying — through awkward phrasing or inflection — that it was not a human being.
-
-There has also been a focus on streamlining the smart home experience to make Google a more natural central hub for the home. For example, rather than telling a Google smart speaker to “Ask Whirlpool to preheat the oven,” you can now tell Google to complete the task directly. Google users can also ask the assistant to listen to more without being prompted by a specific phrase such as “Okay Google.”
+If convicted, De Sousa could be sentenced to a maximum of three years in prison and fines of up to $75,000.

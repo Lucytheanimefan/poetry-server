@@ -1,28 +1,26 @@
-Google wants you to put down your phone (no, really)
-Are you addicted to your phone? Google is developing new controls, expected in Android P, intended to pry you away from your smartphone and YouTube.
+F-150 not alone: GM, Fiat Chrysler hit by parts shortage
+The same parts shortage that forced Ford to suspend F-150 production is causing some headaches for General Motors, Fiat Chrysler and BMW.
 
-They include an "app timer," a "wind down" feature, and a dashboard that'll tell you how much time you've been spending on your smartphone and in which apps.
+Continue Reading Below
 
-Starting this week, Google-owned YouTube will also introduce reminders that can tell you to take a break from the video-streaming service.
+The automakers are facing production issues after a large fire took a key supplier’s factory out of commission. The supplier, Meridian Magnesium Products in Eaton Rapids, Michigan, has been unable to produce its die-cast parts since the blaze on May 2. Ford said F-150 and Super Duty assembly lines at three truck plants shut down after running out of Meridian-made parts, temporarily halting production of a very profitable line of vehicles.
 
-At Google I/O today, CEO Sundar Pichai said these controls are all part of the company's new "digital wellbeing" initiative, which is designed to help consumers keep their tech habits in check.
+The factory downtime for other car manufacturers isn’t as widespread.
 
-"There is increasing social pressure to respond to everything right away," he said during a keynote. "People are anxious to stay up to date with all the information out there."
+GM has suspended production of GMC Savana and Chevrolet Express full-size vans in Missouri due to the parts shortage, a company spokesperson said. The plant will continue to build Chevrolet Colorado and GMC Canyon midsize trucks.
 
-"Our team has heard so many stories from people who are trying to find the right balance with technology," added Sameer Samat, Google's VP for product management.
+At Fiat Chrysler, the parts shortage has stopped assembly of the Chrysler Pacifica minivan, which is made in Windsor, Ontario. While it waits for parts, the plant will increase its output of another minivan. A spokesperson told the Associated Press that Fiat Chrysler doesn’t expect any large disruptions at other factories.
 
-As part of that push to help people disconnect, the upcoming Android P will come with a dashboard that breaks down smartphone use into a handy pie chart. In addition, the OS will include an app timer that'll let you cap the time you spend in favorite apps.
+Advertisement
 
-Google is also revamping the "Do Not Disturb" mode with Android P. To activate it, just turn your phone over on its screen, Samat said, though in an emergency, "starred contacts" will still be able to reach you.
+Also, BMW will make fewer X5 and X6 SUVs at a plant in South Carolina until its supply of parts returns to normal, the AP reported. Production of the X3 and X4 will continue uninterrupted.
 
-To ensure your phone doesn't keep you up at night, Android P is getting a "wind down" feature. To use the feature, select a time for your phone to enter "Do Not Disturb" mode; the phone's screen will shift into grayscale.
+No layoffs were reported by GM, Fiat Chrysler or BMW. About 7,600 Ford workers in Michigan and Missouri were temporarily laid off once production of the F-150 halted.
 
-"I've found it amazing how quickly I put my phone away when all the apps go black," Samat said.
+Ticker Security Last Change %Chg GM GENERAL MOTORS COMPANY 37.16 +0.89 +2.45% F FORD MOTOR COMPANY 11.21 +0.15 +1.36% FCAU FIAT CHRYSLER AUTOMOBILES N.V. 22.51 +0.18 +0.81%
 
-Google last year introduced a free utility called Family Link that lets parents control their children's Android use. But the new features announced on Tuesday are aimed at everyone. "Digital wellbeing is going to be a long-term theme for us, so look for much more to come in the future," Samat said.
+Analysts have said it’s too early to determine if production delays caused by the Meridian fire will adversely impact sales.
 
-In February, a group of former Apple, Facebook, and Google employees formed an anti-tech addiction coalition called the Center for Humane Technology. In recent months, university students and investors have also called on Apple to offer more tools that can limit iPhone use, and thereby prevent social media from overtaking people's lives.
+Ford assured prospective buyers that its dealers have ample inventories of F-Series trucks, saying the company currently has 84 days’ worth of vehicles. Ford also said its factories can make up for lost production once they are up and running again.
 
-Earlier this year, Facebook said it would be priortizing posts from friends and family versus publications and brands because research suggested people were less likely to feel depressed after using Facebook if they engaged with people rather than experiencing the site passively.
-
-This article originally appeared on PCMag.com.
+F-150 production was suspended in Dearborn, Michigan, and Kansas City, Missouri. Super Duty trucks will continue to be made in Ohio while a Louisville, Kentucky, plant waits for parts.

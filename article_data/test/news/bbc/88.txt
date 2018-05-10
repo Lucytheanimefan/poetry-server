@@ -1,0 +1,72 @@
+What makes a Eurovision song contest winner?
+Image copyright AFP Image caption ABBA's Waterloo won with a high happiness score - but have Eurovision audiences' preferences changed since 1974?
+
+Eurovision may have a reputation for being up-tempo and sprinkled with sequins, but the secret to a winning song may actually be its gloom factor.
+
+We've unpicked the sound waves of every song entered since 2006 to try to answer this burning question: Is there a recipe for a winning Eurovision song?
+
+Unexpectedly, perhaps, melancholia sells: in eight of the last 12 contests, winners have been sadder than the average song.
+
+And yes, in case you're wondering, last year's winner Salvador's Sobral's Amar Pelos Dois is the saddest-sounding winning song - although you probably didn't need data to tell you that.
+
+Eurovision songs have been consistently getting more melancholy, and this year's entries are a full 30% sadder than in 2006.
+
+Guess they got the memo about sadness winning votes.
+
+But hey, if you feel firmly that Eurovision should just be about cheery tunes all hope isn't lost.
+
+Some winners have stuck to a happy sound and still gone home with the big prize, most notably Lena with Satellite in 2010, and Lordi's Hard Rock Hallelujah in 2006.
+
+We've worked out if a song sounds happy or not by using a measure of musical positivity called valence, used by streaming sites to auto-recommend new music.
+
+Where are the happy songs?
+
+Valence is based on songs' key, harmony and beats - and ignores the lyrics altogether.
+
+"It's all from the waveform," said Eliot Van Buskirk, data storyteller at Spotify.
+
+"The song Happy by Pharrell Williams has an incredible high valence rating, as one would expect, even though the valence attribute has no idea that the song is literally called Happy."
+
+There's a clear Eurovision gloom belt cutting across central and eastern Europe, but things perk up significantly if you look further east and to Scandinavia.
+
+Azerbaijan, Slovenia and Slovakia have entered the saddest songs.
+
+Andorra's entries are the happiest of all - but then the country has only participated four times in the time period. Turkey and Ukraine can also be relied upon to enter consistently cheerful songs, although Turkey hasn't participated since 2012.
+
+The UK normally submits songs on the sadder end of the scale, but the happiest song of all also comes from the UK.
+
+Andy Abraham holds the record for perkiest song, with Even If from 2008.
+
+But cheerful tunes couldn't help Andy win the judges over: the song ended last.
+
+Key
+
+The most common Eurovision key is C major. A whole 30 of the 456 entries we analysed opted for it.
+
+But for a winning song, you may be better off choosing D minor - the "saddest of all keys" if Spinal Tap is to be believed.
+
+Three of the last 12 winners have opted for it: Molitva (2007), Fairytale (2009) and Rise Like a Phoenix (2014).
+
+Eurovision winners are twice as likely to be in a minor key. Eight of the last 12 winners have been in a minor key.
+
+Image caption Conchita Wurst's Rise Like a Phoenix is just one of three winning songs in D minor
+
+Also, a key change is not nearly as effective a winning tactic as you might think, so cross it off your Eurovision drinking game now.
+
+Once as quintessential a part of a Eurovision show as wind machines and costume changes, climactic finishes in a higher key may be on the way out.
+
+Winning songs are less likely than other entries to contain a key change. And song writers are catching on: key changes have become increasingly less common over the last decade.
+
+Tempo
+
+What about speed?
+
+Winners are all over the place on this one: from Molitva's stately 77bpm to Amar Pelos Dois's 176bpm.
+
+Andorra averages the highest tempo by far at 177bpm, whereas Montenegro's entries hover around a more leisurely 100bpm.
+
+There may not be a clear beat that will lead you to Eurovision fame - but there does seem to be a speed that kills. Four entries in the last decade have used 128bpm and come last or second-to-last.
+
+Will this help us predict the outcome on Saturday night? We'll have to wait and see…
+
+Follow us on Facebook, on Twitter @BBCNewsEnts, or on Instagram at bbcnewsents. If you have a story suggestion email entertainment.news@bbc.co.uk.

@@ -1,8 +1,40 @@
-New festival to celebrate older artists' creativity
-Video
+US commercial drones given green light
+Image copyright Getty Images Image caption Green light for first commercial drones in the US
 
-A new festival profiling artists aged 65 years and over is due to open at London's Southbank Centre.
+Drones that monitor crops, control mosquito populations and deliver defibrillators are to be tested in US airspace.
 
-"(B)old will celebrate "great artists who stand the test of time, and do not shy away from the issues facing them", organisers said.
+Ten commercial drone projects have been selected to try out new ways for unmanned aircraft to be integrated into the skies.
 
-The festival will run from 14-20 May.
+They include Zipline, which currently offers a blood-delivery service in Rwanda, and Apple.
+
+But Amazon, which wants to offer drone parcel deliveries, has not been chosen.
+
+The Federal Aviation Authority has previously had extremely tight rules about the use of drones.
+
+A permit is needed to fly one, with beyond line-of-sight flights and night-time flying banned.
+
+More than one million drones and 90,000 pilots are currently registered with the FAA.
+
+The UAS (Unmanned Aircraft Systems) Integration Pilot Program is designed to tackle some of the challenges of integrating drones into national airspace, particularly how to reduce risks to public safety.
+
+No Amazon
+
+Phone maker Apple was among those chosen and will capture images of North Carolina by drone, while Microsoft, Uber and Intel will all be involved in projects.
+
+According to Reuters, Amazon applied to deliver goods by drone to shoppers in New York but was rejected. Similarly it said that DJI, the world's biggest non-military drone maker, made about a dozen applications but had none approved.
+
+The 10 chosen projects include:
+
+A government agency in Florida will use drones to help control mosquito populations
+
+The Choctaw Nation of Oklahoma will work on flying drones beyond a pilot's line of sight, in partnership with CNN
+
+North Carolina will work with Flytrex to test food delivery services
+
+FedEx will work with Memphis County Airport Authority using drones for security and infrastructure and to deliver parts
+
+The City of Reno in Nevada will work with Flirtey on delivering medical supplies
+
+The 10 winners were picked from 149 proposals. Full details of each trial have not yet been released but each applicant will have around two-and-a-half years to run the trials, sharing information with the FAA along the way.
+
+"Data gathered from these pilot projects will form the basis of a new regulatory framework to safely integrate drones into our national airspace," said US secretary of transportation, Elaine Chao.

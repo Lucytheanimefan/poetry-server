@@ -1,8 +1,52 @@
-Crocodile attack bride: 'Every day I wake up happy'
-Video
+Device could make underwater objects appear invisible to sonar
+Image copyright Peter Kerrian Image caption This 90cm (3ft) -tall steel pyramid is designed to act as underwater sonar cloak
 
-A woman who lost her arm in a crocodile attack, then married her partner days later, says she wakes up "happy" every day because she's grateful to be alive.
+It sounds like the type of tech a Bond villain would have, but scientists have developed an acoustic underwater "invisibility cloak".
 
-Zanele Ndolvu was in a canoe with her British husband-to-be, Jamie Fox, in her native Zimbabwe when the attack happened near Victoria Falls.
+The device makes sound waves scatter around an object making it invisible to sonar detection.
 
-The pair tied the knot in the hospital where she was treated and she says the whole experience has made her a more positive person.
+In order to achieve this, the researchers used a "smart" material with special properties.
+
+The researchers have outlined their work at a major scientific meeting in Minneapolis, US.
+
+When a ship sends out a signal to detect objects in the ocean or to map the sea floor, the signal bounces back in a way that makes it appear as if the cloaked object isn't there at all.
+
+Amanda Hanford and her team at Pennsylvania State University in State College designed a 90cm (3ft) -tall pyramid out of perforated steel plates that could do just that.
+
+The smart "metamaterial" they developed for use in the "cloak" forces sound waves to spread their energy around the object, making it undetectable to underwater sensors.
+
+Metamaterials are made of composite materials, such as metals or plastics, and have arrangements that give them novel properties (see below).
+
+The structure was placed in a tank and the researchers directed sound waves between 7,000 and 12,000 Hz at it. Several receivers were set up to record the reflected waves.
+
+Potential uses
+
+The waves reflected from the metamaterial were in the same "phase" as the reflected waves from the bottom of the tank, where the structure was sitting.
+
+If we think of waves as having peaks and valleys, waves that are in phase are arranged so peaks of multiple waves are synchronised with each other. This rendered the object effectively "invisible" to the detection instruments.
+
+"These materials sound like a totally abstract concept, but the math is showing us that these properties are possible," Dr Hanford explained.
+
+"So, we are working to open the floodgates to see what we can create with these materials."
+
+Traditionally, research was conducted to develop metamaterials that conceal objects in air, but the added factor of water takes the challenge one step further. This is because water is denser than air, which makes it harder to compress.
+
+These materials could potentially be used in real-world applications such as acoustic materials to dampen sound and appear invisible underwater.
+
+What is Sonar?
+
+Sonar stands for SOund Navigation and Ranging.
+
+Image copyright SPL Image caption An example of a dolphin using sonar to detect a fish via echolocation.
+
+It is a method that is used to detect underwater objects or to map the sea floor. Sound waves are emitted from a ship or submarine and reflect off the surroundings allowing the detection of reefs, marine life and other vessels. This information is then used to communicate with or deter from other objects.
+
+This style of underwater echolocation was inspired by bats and dolphins.
+
+What is a metamaterial?
+
+Metamaterials often have properties that are not found in nature. They are made of composite materials, such as metals or plastics, that are arranged in geometric structures, giving them interesting properties.
+
+They can be used to manipulate electromagnetic and sound waves in ways that go beyond what's possible with conventional materials.
+
+Follow Shivani on Twitter.

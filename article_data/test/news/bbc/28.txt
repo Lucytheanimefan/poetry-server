@@ -1,1 +1,34 @@
-Telefishinka BBC Somali
+Workers banned from using USB sticks at IBM
+Image copyright Science Photo Library Image caption The ban could cause "disruption" to work habits, warned IBM
+
+Staff at IBM have been banned from using removable memory devices such as USB sticks, SD cards and flash drives.
+
+The possibility of "financial and reputational" damage if staff lost or misused the devices prompted the decision, reported The Register.
+
+Instead, IBM staff who need to move data around will be encouraged to do so via an internal network.
+
+The decree banning removable storage acknowledges that complying with it could be "disruptive".
+
+Losing data
+
+IBM staff were told about the policy in an advisory from Shamla Naidoo, the company's global chief security officer.
+
+Some IBM departments had been banned from using removable portable media for some time, said Ms Naidoo, but now the decree was being implemented worldwide. IBM staff are expected to stop using removable devices by the end of May.
+
+When asked about the policy, an IBM spokeswoman said: "We regularly review and enhance our security standards and practices to protect both IBM and our clients in an increasingly complex threat environment."
+
+Security expert Kevin Beaumont said: "It is a brave move by IBM, as USB devices do present a real risk - often it is very easy to extract data from a company via these devices, and introduce malicious software."
+
+However, he said, IBM may face problems implementing its plan.
+
+"Technically it is quite easy to control access to USB memory sticks, along with controlling what data can be copied to them," said Mr Beaumont.
+
+"Realistically it can be problematic as you will find staff who use them for legitimate business purposes - this will require staff members to change workplace habits."
+
+Sumir Karayi, chief executive of security company 1E, said IBM's ban was an "overreaction" by security staff who had not realised the many different ways data flowed in and out of an organisation.
+
+"Stopping USB is not going to prevent people from stealing data," he said. "As for loss, a laptop, a NAS device or credentials to an FTP server are just as easily lost."
+
+The ban comes just before strict European regulations covering the use of data come in to force.
+
+On 25 May, the GDPR rules are enacted, which impose heavy fines on organisations that do not do enough to protect sensitive information.

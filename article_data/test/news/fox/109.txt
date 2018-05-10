@@ -1,0 +1,62 @@
+How the FCC's move on net neutrality could impact consumers
+Even though the Federal Communications Commission narrowly voted to dismantle Obama-era internet regulations in December, lawmakers might be able to reinstate them.
+
+Thanks to the Congressional Review Act, a group of senators have garnered enough support to cause a vote on whether to keep the FCC’s ruling on net neutrality, according to Business Insider. President Trump's signature would still be needed to bring back the regulations, however.
+
+Sen. Ed Markey, D-Mass., said just one more Republican vote is needed to “save” net neutrality regulations.
+
+Late last year, the FCC voted to repeal net neutrality rules 3 to 2 – along party lines. The rules imposed utility-style regulations on internet service providers (ISPs) that prevented them from favoring their own services or certain customers over that of competitors.
+
+The FCC has said that the rules will formally cease on June 11.
+
+Prior to the rollback, nationwide protests were held as consumers worried cable and phone companies would suddenly have greater control over what they see and do online. But the broadband industry has promised users’ internet experience will not change.
+
+FCC Commissioner Jessica Rosenworcel, a Democrat, has promised to raise "a ruckus to support net neutrality" ahead of the June 11 end date. She accused the FCC of being "on the wrong side of history, the wrong side of the law and the wrong side of the American people."
+
+Here’s a look at what net neutrality is and how the FCC's vote could impact consumers nationwide.
+
+What is net neutrality?
+
+Net neutrality is the idea that ISPs must treat all legal internet data the same — regardless of where it comes from or who it is going to.
+
+Harold Feld, senior vice president with the Washington, D.C.-based nonprofit Public Knowledge, compared net neutrality to “an on-ramp to the internet,” meaning ISPs are “not allowed to interfere with what the subscriber wants to do or where the subscriber wants to go.”
+
+Under net neutrality regulations, ISPs are not allowed to block or throttle — meaning slow down — websites or applications.
+
+What does the FCC do?
+
+Trump-appointed FCC chairman Ajit Pai led the charge to repeal net neutrality regulations.
+
+Pai, 44, said he believes net neutrality rules adopted during the Obama administration discourage ISPs from making investments in their network that would provide even better and faster online access.
+
+"Under my proposal, the federal government will stop micromanaging the internet," Pai said in a statement.
+
+What are senators saying?
+
+Markey, who is shoring up support for a vote to overturn the FCC’s ruling, said “access to a free and open internet isn’t a privilege, it’s a right.”
+
+“The day of reckoning in the Senate on net neutrality is coming, and Republicans are on notice,” he said in a statement.
+
+In a tweet, Senate Minority Leader Chuck Schumer joked about a new ad on the Tinder dating app that encourages users to contact their senator about voting “to save net neutrality.”
+
+Sen. John Thune, R-S.D., said in an op-ed he supports net neutrality but slammed his colleagues for engaging in “political theater” instead of coming up with “forward-looking solutions.”
+
+“The internet is way too important for partisan politics,” he wrote. “Congress must codify widely accepted net neutrality protections through bipartisan legislation.”
+
+How could a full repeal impact consumers?
+
+Repealing net neutrality regulations means consumers could start paying more for their internet services, critics have said. Consumers could also see ISPs start to “bundle” services — such as certain websites or applications — and charge more depending on what a person wants access to, experts said.
+
+“Right now, the FCC has designated [the internet] as a telecommunications service — like a phone service which includes all of the rules that apply to prevent [a company] from blocking or throttling or favoring one company over another,” Feld told Fox News ahead of the vote. “The real question, to some degree, is: is the internet going to work like the old telephone where you get to decide who you called and what you do or is it going to become more like cable?”
+
+“If it’s one thing that cable companies have proven to be good at over the years, it’s more ways to get money out of consumers and into their own pockets,” he continued. “Primary broadband providers will take advantage of this to find new ways to charge customers if they want to get high quality service.”
+
+Julian Sanchez, a senior fellow at the libertarian think tank Cato Institute, said broadband providers would “presumably … try some things consumers don’t like and others that prove to be popular.” But he dismissed the notion of predicting just what exactly providers would do should the regulations be scaled back.
+
+"The truth is we won’t know until providers start experimenting: Presumably they’ll try some things consumers don’t like, and others that prove popular." - Julian Sanchez, Cato Institute
+
+“There’s plenty of scaremongering around steps broadband providers could take in the absence of neutrality regulation — blocking off certain sites, or charging extra fees to access certain services — but not a ton of reason to think they would do these things, which would antagonize customers, be technically tricky to enforce against sophisticated users, and invite the re-imposition of regulations,” Sanchez told Fox News.
+
+“What’s more realistic is the introduction of plans that provide higher speeds for specific bandwidth-intensive services,” he said, pointing to streaming high-definition Netflix videos as an example of such a service. “Or, similarly, content providers might end up subsidizing higher-speed access to their services for subscribers who’ve only paid for slower all-purpose internet access.”
+
+Fox News' Alex Pappas and The Associated Press contributed to this report.

@@ -1,0 +1,8 @@
+Alexa and Siri Can Hear This Hidden Command. You Can’t.
+BERKELEY, Calif. — Many people have grown accustomed to talking to their smart devices, asking them to read a text, play a song or set an alarm. But someone else might be secretly talking to them, too.
+
+Over the last two years, researchers in China and the United States have begun demonstrating that they can send hidden commands that are undetectable to the human ear to Apple’s Siri, Amazon’s Alexa and Google’s Assistant. Inside university labs, the researchers have been able to secretly activate the artificial intelligence systems on smartphones and smart speakers, making them dial phone numbers or open websites. In the wrong hands, the technology could be used to unlock doors, wire money or buy stuff online — simply with music playing over the radio.
+
+A group of students from University of California, Berkeley and Georgetown University showed in 2016 that they could hide commands in white noise played over loudspeakers and through YouTube videos to get smart devices to turn on airplane mode or open a website.
+
+This month, some of those Berkeley researchers published a research paper that went further, saying they could embed commands directly into recordings of music or spoken text. So while a human listener hears someone talking or an orchestra playing, Amazon’s Echo speaker might hear an instruction to add something to your shopping list.

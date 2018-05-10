@@ -1,32 +1,124 @@
-China's ZTE says main operations have ceased after US ban
-ZTE Corporation, one of China's largest tech companies, has halted "major operating activities" after a US ban against the company went into effect, according to a new public filing.
+Baltimore police trying to stop crime before it happens
+As daylight fades against Baltimore's Eastern District station, the blue glow of giant monitors begins to fill a corner room.
 
-Some of the company's products, which includes smartphones and telecommunications equipment, appeared to be taken offline Wednesday.
+As daylight fades against Baltimore's Eastern District station, the blue glow of giant monitors begins to fill a corner room.
 
-Last month, the US Commerce Department blocked American firms from selling parts or providing services to ZTE until 2025.
+Inside, the screens inform a bold new prediction…police now think they can stop crime before it happens.
 
-ZTE said in a statement in April that it expected its business to be "severely impacted" by the sanctions.
+The room is what the Baltimore Police Department calls its new Strategic Decision Support Center.
 
-As the United States and China continue to ratchet up fears of a trade war, ZTE has become stuck in the crosshairs.
+In addition to one in the Eastern District, there is one in the recently renovated Western; both rooms bringing technology once hubbed at headquarters down to the street level in two of the most historically violent areas of the city.
 
-Washington accused ZTE of violating US sanctions on North Korea and Iran and then lying to US officials about whether the employees responsible were punished.
+Commissioner Darryl De Sousa says these rooms will go live in June and at full operation will have police working alongside analysts to study the various streams of data from the department.
 
-ZTE denies it did not take adequate corrective action. And the crackdown has been interpreted as part of a broader push by the United States to stifle China's tech ambition.
+They will combine existing data like CCTV cameras and past crime incidents with new tech like newly installed license plate readers on squad cars and eventually, gunshot detection through the new ShotSpotter contract.
 
-Related: China's ZTE asks the US to lift sanctions
+All of it will then pass through a computer algorithm which will predict what crime could happen next and more importantly, where.
 
-"It is unacceptable that [the US Commerce Department] insists on unfairly imposing the most severe penalty on ZTE even before the completion of investigation of facts," the company said in an April statement. The statement added that ZTE would continue "its efforts to resolve the issue through communication."
+Simply put, the goal of these rooms to forecast Baltimore's felonies.
 
-Those efforts so far appear to be unsuccessful. The US Commerce Department did not immediately respond to a request for comment.
+"I am very optimistic,” Commissioner Darryl De Sousa said while showing the room to WMAR 2 News, “I am a very optimistic person period, but this center, it embraces technology and that is one thing that has been missing in the police department for years. "
 
-A new filing with the Hong Kong stock exchange, where ZTE shares are traded, says the company has enough cash to fulfill its "commercial obligations." No further details were offered.
+"I am absolutely convinced, if they attack it like we did here in Chicago, they'll see positive results from it."
 
-The company did not immediately respond to a request for more information.
+If this technology is the missing piece then it is in Chicago where Baltimore saw where and how it could fit.
 
-The ban "will also cause damages to all partners of ZTE including a large number of U.S. companies," ZTE's public filing states.
+"I am absolutely convinced, if they attack it like we did here in Chicago, they'll see positive results from it," said Superintendent of Chicago Police Eddie Johnson.
 
-ZTE relies on US firms for key smartphone components, including microchips from Qualcomm (QCOM) and glass from Corning (CNIG).
+Johnson swears by what is called predictive policing.
 
-Those firms did not immediately respond to requests for comment Wednesday.
+WMAR 2 News traveled to Chicago to see how this policing philosophy works.
 
-—CNN's Julia Horowitz contributed to this report.
+In early 2017, CPD built rooms like they now have in Baltimore.
+
+Since then, Chicago has shown consistent violent crime reduction month after month, results Johnson says they began to see immediately.
+
+"We didn't expect to see that kind of progress that quickly but we have,” Johnson tells WMAR 2 News, “So every district we have implemented it in, they've had at least somewhere between 22 and 30 percent reductions in gun violence."
+
+Those gains are even greater in Englewood on Chicago's south side.
+
+District 7 is traditionally the most violent area of this city, not unlike the Eastern and Western Districts of Baltimore and is where the predictive policing philosophy first went online.
+
+So far this year the gains CPD is seeing in the neighborhood are impressive: a 55 percent drop in shootings, a 43 percent drop so far in homicides.
+
+Commanders on the south side say a lot of it is being in the right place at the right time.
+
+It is a deployment strategy made possible by the District 7 Strategic Decision Support Center where a computer algorithm figures in past crime trends and data with real time camera and shooting data for the area; even locations of businesses, roadways and weather are figured in as well.
+
+That algorithm along with the aid of analysts spits out hot maps for the next patrol shift.
+
+Those maps include red boxes of 500 square foot areas the computer identified as high-risk locations for the upcoming shift.
+
+Police Officers are then directed to make sure those boxes get repeated attention while on patrol.
+
+Predictive map used by Chicago Police Department
+
+"All of us have that same philosophy: smarter policing results in fewer victims," said LAPD Deputy Chief Sean Malinowski.
+
+Malinowski is the architect of this predictive philosophy and started it in Los Angeles, built it in Chicago and is now on the ground and helping its launch in Baltimore.
+
+While the way the data is shared and calculated can be complex, the concept is simple: if crime is defined as its intersection with opportunity, then remove the opportunity.
+
+[This whole program is based on the concept that human activity is inherently predictable?] “Yes,” Malinowski answered, “And it is…and if you look at it over time, you can track month to month where the hotspots are and if you animate that you'll see it persists, it persists, it persists. All we're doing in this is try and get out in front of it so that before it happens, we prevent it and we are disrupting these patterns.”
+
+And Malinowski says they disrupt it not by flooding neighborhoods with police or mass arrests, but rather simply asking the officers to be visible.
+
+"All of us have that same philosophy: smarter policing results in fewer victims."
+
+The predictive model chooses instead to have meaningful interactions with residents in the zone before the computer's prediction can become a crime.
+
+"When it is working in its best form, the officers will respond to that. They will spend ten or 15 minutes having some kind of community interaction or investigating something in that area and then the criminal is denied that opportunity to commit the crime in the first place."
+
+The proof Chicago says is in its numbers, not just in Englewood, but city wide as predictive policing is now being practiced in more than half of Chicago's 22 police districts and is credited with a near 30 percent drop year over year in each murders and shootings.
+
+The early success in Chicago is why former Baltimore Police Commissioner Kevin Davis originally recruited Malinowski and his theory to Baltimore and why Darryl De Sousa is about to implement it.
+
+De Sousa visited Chicago and Superintendent Johnson just more than two months before its Baltimore launch.
+
+"I have also told him, look, the technology that we've implemented, that is one piece of it but it has proven to be successful so they cannot go wrong with trying it out," Johnson said, "Let's face it, each city is different in some ways but crime is crime. So, if it can work in Chicago and L.A. and Baltimore, I am convinced it can work anywhere in the country."
+
+De Sousa likes what he sees in Chicago and is happy to be the third major American city to flip the switch on this predictive theory.
+
+In Baltimore right now, both district’s rooms are complete but some of the technology like ShotSpotter is a month or so away and analysts are still being trained.
+
+Still, for the commissioner, the forecast looks bright.
+
+"I am very excited about it,” De Sousa said, “I am very encouraged about it and I am gonna remain optimistic."
+
+But not everyone in Baltimore share’s the commissioner’s view, the predictive policing theory has it’s critics, especially in a city that is struggling to repair its relationship between police and community.
+
+"We've been doing different versions of that for decades,” Leaders of a Beautiful Struggle Lawrence Grandpre said, “Having more data to do that is great but for some folks that feels like shifting deck chairs on the Titanic."
+
+The director of research for the Baltimore grassroots think tank says even new data can still drive old bias.
+
+“Having more data to do that is great but for some folks that feels like shifting deck chairs on the Titanic."
+
+"We have a system of policing that has more arrests in poor neighborhoods, more arrests in black neighborhoods and all that data is going to appear on that algorithm and it is just going to look objective that we need to increase policing in black neighborhoods, we've already done that for decades."
+
+And that's the concern for Grandpre and so many others in Baltimore.
+
+There is a deep seeded distrust between police and community in both the areas of the city where police are beginning this predictive program.
+
+It is a fractured relationship Malinowski is fully aware was further stressed by the explosive trial of the Gun Trace Task Force.
+
+Baltimore's Sandtown neighborhood
+
+"There is a lot of work to do in re-building the trust but I am optimistic about that,” Malinowski said, “I think as they show success, they will be able to come out and engage and then see the police in a different light. That is what my hope is."
+
+He is optimistic because there is a blueprint.
+
+On Chicago's south side, traditionally its most violent, CPD says this predictive policing model is working because it has the buy-in from the community.
+
+The commander of District 7 made sure his similarly wary residents not only knew about what they were doing, but how they were doing it.
+
+"Well I brought them in and talked to them about it,” Commander Kenneth Johnson said, “And with a lot of the community residents we actually show what was going on with the room. We have to be open and transparent in order to build
+
+SDSC in Baltimore's Western District Precinct
+
+And Baltimore Police say the same is happening here.
+
+Commissioner Darryl De Sousa says he is committed to keeping these new tools completely transparent.
+
+He says he needs the support from the community in order for this to work.
+
+"We want the community to know we are not trying to hide anything from them at all,” De Sousa said, “We want to bring them here, we want to bring them into the actual room, the strategic decision support center right here and give them a walking tour so they know exactly what we are gonna do. I am trying to build trust here."

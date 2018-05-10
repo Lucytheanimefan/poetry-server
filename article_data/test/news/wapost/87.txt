@@ -1,60 +1,56 @@
-A Google program can pass as a human on the phone. Should it be required to tell people it’s a machine?
+Anne V. Coates, Oscar-winning film editor of ‘Lawrence of Arabia,’ dies at 92
+Anne V. Coates, a British-born film editor who won an Oscar for her work in making the 1962 desert epic “Lawrence of Arabia,” one of the most visually stunning films in history, died May 8 at a retirement facility in Woodland Hills, Calif. She was 92.
 
+Her death was announced by the British Academy of Film and Television Arts. No cause was reported.
 
-Sundar Pichai, Google's chief executive, speaks Tuesday during the Google I/O developer conference in Mountain View, Calif. (David Paul Morris/Bloomberg News)
+Ms. Coates spent more than 60 years in one of the film industry’s most important but least understood jobs, working alongside such directors as Sidney Lumet, Milos Forman, David Lynch and Steven Soderbergh. Her final credit was on the sexually charged 2015 film “Fifty Shades of Grey.”
 
-Google's artificial-intelligence assistant sounds almost exactly like a human when it calls the salon to book a woman's hair appointment. It responds to questions, negotiates timing and thanks the receptionist for her help. It even says “um” and “mm-hmm.”
+“There are lots of really good editors,” Sir Carol Reed, the director of “The Third Man” and other films, said of Ms. Coates, “but I have never had one with so much heart.”
 
-What it doesn't say, however, is that it's a machine — and the receptionist doesn't show any sign that she can tell.
+A film editor takes raw footage and pieces it together, matching it with sound and music, to create the pace, sequencing and flow of a movie. Oscar-winning film editor Walter Murch once described the job to NPR as “a cross between a short-order cook and a brain surgeon.”
 
-Google's unveiling on Tuesday of Duplex — an automated voice assistant that can book restaurant reservations, check opening hours and accomplish other tasks over the phone — has thrown a spotlight on how advanced AI can now carry on conversations that are so lifelike that even a human listener can be fooled.
+Anne V. Coates, right, in 2013 with producers Stacey Sher and Michael Shamberg. (Frederick M. Brown/Getty Images for AFI)
 
-The technology, debuted at Google's I/O developer conference, could be a huge convenience for anyone who hates picking up the phone. But it is also raising some thorny questions about the ethics of using a machine to copy a person's voice, carry out commands — and potentially deceive the unsuspecting listener on the other side.
+Ms. Coates worked as a nurse before her uncle, British studio chief J. Arthur Rank, helped her find her a filmmaking job in the 1940s — working behind the scenes on religious films.
 
-[Google wants to cure your smartphone addiction]
+“He thought, ‘That’ll cool her down,’ ” she said in 2016. “Didn’t work.”
 
-“This technology is amazing, and [a] big step forward, but I don't think the main goal of AI should be to mimic humans,” said Erik Brynjolfsson, a Massachusetts Institute of Technology professor and director of its Initiative on the Digital Economy. “Instead, AI researchers should make it as easy as possible for humans to tell whether they are interacting with another human or with a machine.”
+At the time, film editing was considered an unglamorous technical job that was often filled by women.
 
-Researchers at Google said the AI could not carry out general chit-chat but had been trained for the “natural conversations” of specific tasks, such as scheduling appointments over the phone. “The system makes the conversational experience as natural as possible, allowing people to speak normally, like they would to another person, without having to adapt to a machine,” engineers wrote on the company's AI blog.
+“When I tried to get into the industry, there were only certain jobs open to women,” Ms. Coates told the Hollywood Reporter in 2016. “Things like hairdressing didn’t really interest me. I might have been interested in photography, but women couldn’t do that in those days. I found the most interesting job a woman could do, other than acting, was editing.”
 
-Google calls Duplex an “experiment” that a limited number of Google Assistant users will be able to try this summer. When, or whether, it will debut more widely remains an open question. Google has yet to show a live demo.
+Her first credit as a film editor came in 1952 with “The Pickwick Papers,” a retelling of the Charles Dickens novel. Her most challenging and best-known work came 10 years later when British director David Lean tapped her for “Lawrence of Arabia.”
 
-“We want to be clear about the intent of the call so businesses understand the context,” Google engineers said. “We’ll be experimenting with the right approach over the coming months.”
+The film, starring Peter O’Toole as a British adventurer who led Arab tribesmen in battle on horseback during World War I, featured shimmering desert vistas, camel caravans and moody close-ups of O’Toole and actor Omar Sharif.
 
-The company showed several examples, including Duplex calling a restaurant to book a table for four, and in each instance, the listener seemed to have no idea it's a machine; in one call, the listener asked the AI, “What's up, man?” and referred to it as “sir.”
+By the time Lean finished shooting in Spain and North Africa, Ms. Coates had to make visual sense of 33 miles of raw footage. She was on a tight postproduction schedule because the film was to be shown to Queen Elizabeth before it was released to the public.
 
-Google's AI engineers trained Duplex on in-call practices that are typically simple for humans but challenging for machines, including “elaborations” (“for when?"), “syncs” (“can you hear me?"), “interruptions” (“can you start over?") and “pauses” (“can you hold?").
+1 of 74 Full Screen Autoplay Close Skip Ad × Notable deaths in 2018: View Photos Remembering those who have died in 2018. Caption Remembering those who have died in 2018. Verne Troyer Verne Troyer, an actor who was known best for his role as Mini-Me, a pint-size version of Mike Myers’s Dr. Evil in two “Austin Powers” movies, died April 21. He was 49. Mr. Troyer, who was 2 foot 8, appeared in dozens of movies and TV series, including “Jack of All Trades” and “Boston Public.” His most famous role, by far, was as Mini-Me, first in “Austin Powers: The Spy Who Shagged Me” (1999) and in “Austin Powers in Goldmember” (2002). Evan Agostini/AP Buy Photo Wait 1 second to continue.
 
-To prevent it from sounding too stilted or robotic, the system was also taught a number of so-called “speech disfluencies”: the “hmms,” “uhs” and other noises people make in casual conversation. Like humans, the AI makes those sounds to convey that it's still gathering its thoughts, the engineers said.
+The film was almost four hours in length and was considered a triumph of technical filmmaking and won seven Academy Awards, including one for best picture and another for Ms. Coates.
 
-Duplex will make its call from an outside number when its user asks it to complete the task; the human won't be able to listen in or intervene. In cases where the task is too complex or the call goes awry, Google says, the AI will pass the call to a human operator.
+Perhaps her best-known sequence in the film comes in a scene in which O’Toole tells a British official, played by Claude Rains, of his determination to go to the desert. He lights Rains’s cigarette, then holds the match until the flame almost touches his fingers. When O’Toole finally blows out the match, the scene immediately shifts to a slow, still shot of the sun rising over the horizon into an orange sky. In film editing, a “match cut” is the term for creating continuity from one scene to the next, whether through a matching visual element, movement or sound.
 
-Automated voice assistants, such as Amazon's Alexa and Apple's Siri, have quickly become a key part of how people interact with the computers in their lives, and many callers today are familiar with the automated voices of modern-day telemarketers, customer service lines and robocalls.
+In “Lawrence of Arabia,” Ms. Coates’s sudden shift from the match to the rising sun is considered one of the most memorable match cuts in movie history — with the added visual pun of being executed with an actual match. Steven Spielberg has said the scene helped spur his interest in filmmaking.
 
-But Duplex would inject that AI into a new kind of arena, with listeners who have not consented or don't realize they're talking to a machine. Google representatives did not respond to questions about how Duplex would operate in conversation, including whether it would announce its non-humanness. Yossi Matias, Google's vice president of engineering, told CNET that the software would “likely” tell the person on the other end that he or she is talking to an AI.
+Ms. Coates said the famous match cut came about by accident more than design while she and Lean were cutting the film.
 
-From the charming Samantha of “Her” to the coldly murderous HAL 9000 of "2001: A Space Odyssey,” lifelike AI assistants have long served as a hallmark of science fiction, and Duplex's convincing fakery had some listeners unnerved about how far the technology had come. Some listeners said the Duplex calls appeared able to pass a simple “Turing test,” the famous yardstick for whether a machine can act or speak so convincingly that it'd be hard to distinguish it from a real person.
+“Almost at the same moment,” she said, “David and I looked at each other and said, ‘That is a fabulous cut.’”
 
-“A lot of folks have drawn attention to the risks of AIs masquerading as humans, which Duplex seems to normalize,” said Miles Brundage, a research fellow at the University of Oxford's Future of Humanity Institute. “At the very least Google should seriously consider some sort of notification that people are interacting with an AI.”
+Ms. Coates had four other Oscar nominations during her career, for “Becket” (1964), Lynch’s “The Elephant Man” (1980), “In the Line of Fire (1993) and Soderbergh’s “Out of Sight” (1998). She received an honorary Academy Award in 2016.
 
-[From ‘pretty please’ mode to Digital Wellbeing, Google unveils tech with a responsible message]
+While making “Out of Sight,” she became friends with the film’s star, George Clooney, telling him her job was “saving an actor’s performance.”
 
-That kind of notification, Brundage said, would help educate people about the advanced state of AI. It would also potentially prevent the kinds of havoc that could result when a machine mimics a human being. In a recent report on “malicious AI,” Brundage and his co-authors posited a series of unnerving examples, including how an AI could copy someone's voice to fool a listener or seek information as part of an automated “social engineering attack.” A Google official said it takes the issue of synthetic content used to spread misinformation very seriously.
+“George thought that was funny,” Ms. Coates told the Los Angeles Times. “Jennifer Lopez, who was the female lead, came by and George said, ‘This is the editor, Anne Coates, who is going to save your performance.’ Jennifer did not think it was funny.”
 
-It's also unclear how Google would navigate legal concerns such as the Federal Communications Commission's telemarketing and robocall laws. Those rules ban companies from using an “artificial or prerecorded voice” to make calls to certain establishments and set guidelines for how similar voice systems should operate, including requiring that each call clearly identify the “business, individual or other entity initiating the call.”
+Anne Voase Coates was born Dec. 12, 1925, in Reigate, England. Her father was an architect.
 
-A Google official said the service was different from those calls because it's not for solicitation or telemarketing. The official added that the automated assistant will only call companies on phone numbers offered to the public for booking appointments or doing business.
+She became enchanted with movies when she watched William Wyler’s “Wuthering Heights” (1939), with Laurence Olivier. After being based in Britain for years, she moved to Hollywood in 1986.
 
-Madeline Lamo, a University of Washington graduate student researching robotic harms and free speech, said the Google AI could also effectively flip the robocall dynamic on its head. “Instead of vendors and scammers using AI to contact potential consumers/scam victims en masse,” she said, “the consumers are now empowered to make robocalls themselves.”
+Her marriage to director Douglas Hickox ended in divorce. Survivors include three children, Emma E. Hickox, a film editor, and Anthony Hickox and James Hickox, both directors.
 
-She cited a scene from the TV show “The Office,” in which a scheming assistant to the regional manager, Dwight Schrute, makes 50 restaurant reservations then sells them off to desperate callers — what he calls his "perfect Valentine's Day." "People with AI-powered assistants who can easily make those 50 restaurant reservations would harm both businesses and consumers," she said.
+Ms. Coates worked on more than 50 films, including “Those Magnificent Men in Their Flying Machines” (1965), Lumet’s “Murder on the Orient Express” (1974), “What About Bob?” (1991), Richard Attenborough’s “Chaplin” (1992), Soderbergh’s “Erin Brockovich” (2000) and “Unfaithful” (2002), directed by Adrian Lyne.
 
-AI experts have in recent years called for legal or ethical guidelines that could help curb that kind of mischief. The Columbia University professor Tim Wu in 2017 called for “Blade Runner” laws that would prevent a company from deploying human-copying machines that hide their true identity.
+Despite the landmark work of Ms. Coates, Dede Allen, Thelma Schoonmaker and other female film editors, only 17 percent of Hollywood’s top films in 2016 were edited by women.
 
-There's a natural tension for those kinds of rules: Google wants its AI to be as convincing — and, yes, lifelike — as humanly possible, to ensure the listener gives compelling responses — and, hopefully, doesn't hang up.
-
-But Brynjolfsson thinks there should be a middle ground to ensure humans aren't left wondering who, or what, they're talking to. Regulation, he said, may be necessary to require bots to self-identify.
-
-[This year Google I/O wants to help you let go of your mobile device]
-
-“At a bare minimum, a bot should answer truthfully if a human asks whether it’s a bot,” Brynjolfsson said. “Or perhaps more radically, bots should be required to have a recognizable voice style and or text style and/or appearance. I don’t think this would harm their efficiency. ... In fact, it would likely improve it.”
+“In a way, I’ve never looked at myself as a woman in the business,” Ms. Coates said in 2000. “I’ve just looked at myself as an editor.”

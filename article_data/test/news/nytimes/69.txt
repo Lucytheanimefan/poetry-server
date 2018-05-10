@@ -1,0 +1,18 @@
+How to Pack and Prepare Your Smartphone for Traveling This Summer
+Prepare your smartphone for traveling abroad
+
+If you want to use your smartphone abroad, the easiest way to do so is to pay your carrier an international roaming fee. ( T-Mobile or Google’s Project Fi customers get international roaming for free in many countries.)
+
+By paying an international roaming fee, you will be able to use your phone number, and you won’t have to deal with the hassle of installing a foreign SIM card. The problem is that it is expensive: AT&T, for example, charges $60 in 200 countries for one gigabyte of data, which is not enough data for a two-week trip.
+
+Using a foreign SIM card is a cheaper alternative, and it’s not difficult if you prepare by doing the following:
+
+■ Unlock your phone. Your phone must be unlocked to work with foreign SIM cards. Many newer smartphones come unlocked by default, but you should call your carrier to confirm that your device will work with other wireless carriers.
+
+■ Order a foreign SIM card in advance. Often, when you arrive at your destination, you can buy a SIM card at the airport or a local cellphone store. But I have found it to be less stressful and more affordable to order a SIM card online and have it shipped to my home before I travel. For example, before traveling to Taiwan last month, I ordered a $12 SIM card with unlimited data for 12 days. I set it up to activate on the day I arrived in Taiwan.
+
+■ Download important apps and maps ahead of time. You never know whether a foreign country’s cell service will be sluggish or spotty, so it’s best to download crucial media ahead of time on your home Wi-Fi network.
+
+Research and download the ridesharing apps that are legal at your destination. And use Google Maps to download offline maps for the cities you are traveling to. That will spare your battery, and you will burn through less data when you are constantly looking up directions. Also, if you are not fluent with the language at your destination, an extremely helpful app is Google Translate, which can use your phone camera to translate languages on the fly. Make sure to download the language pack in advance.
+
+■ Have a backup plan for logging in to important apps (if applicable). Many people use a method of two-factor authentication that requires entering a special code that is texted to their phone when logging in to an app or service. Because you won’t have access to your phone number, you may have to find alternative ways to log in.

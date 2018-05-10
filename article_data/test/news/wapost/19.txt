@@ -1,46 +1,28 @@
-Mueller questioned Novartis payment to Trump lawyer Michael Cohen
-Special counsel Robert S. Mueller III’s team sought information last November from Novartis, a major pharmaceutical company that paid a company created by President Trump’s lawyer, the drug company said Wednesday.
+Google Duplex could be an artificial intelligence tipping point
 
-The interest by Mueller, who is investigating Russia’s interference in the 2016 election, indicates that the special counsel is scrutinizing clients that paid Michael Cohen while he served as Trump’s personal attorney.
 
-Cohen is also under investigation by federal prosecutors in New York, who are probing his business practices and efforts to squash negative stories about Trump in the run-up to the 2016 election.
+Silhouettes of laptop and mobile device next to a screen projection of the Google logo. (Dado Ruvic/Reuters)
 
-New details about Cohen’s clients were released Tuesday by Michael Avenatti, the attorney for Stormy Daniels, an adult-film star who received the hush money from Cohen to remain silent about an alleged affair with the president.
+Always wanted John Legend to make your restaurant reservations for you? Terrifically or terrifyingly, there’s an app for that.
 
-Among those that paid Cohen’s company, Essential Consultants, last year was the U.S.-based affiliate of a Russian business magnate who attended Trump’s inauguration and was recently subjected to U.S. government sanctions.
+Legend is one of the upcoming voices for Google Duplex, an experiment the technology company unveiled at its I/O conference this week that allows the Assistant program on an Android to place phone calls on a user’s behalf. Duplex talks using “ums,” “uhs” and upspeak to sound not like a smooth robotic operator but like our own inarticulate selves. Colloquial and conversational, it can adapt when the back-and-forth takes an unexpected turn, or when the human on the other end of the line, as humans often do, misunderstands.
 
-Separately, Korean Aerospace Industries confirmed to The Washington Post that it paid $150,000 to Cohen’s company, but spokesman Oh Sung-keon said that it was not aware of its connection to Trump.
+All of which has led Silicon Valley-savvy commentators online to ask the question: What the heck are we getting ourselves into?
 
-The company said that it paid Cohen’s firm “to inform reorganization of our internal accounting system.”
+The robot future, it’s worth pointing out, isn’t exactly here yet. Duplex can only chat in “closed domains,” which means it has a set purpose and a set script to achieve it. When testing begins this summer, the program will make restaurant reservations, schedule salon appointments and ask about holiday hours.
 
-The company is in contention for a multibillion joint U.S. contract with Lockheed Martin for jet trainers. Lockheed said Wednesday it was not aware of any connection between Korea Aerospace and Cohen.
+Still. Google has developed the capability to mimic human speech beyond detectability. And although the company told the Verge after the fact that it does believe it has a responsibility to inform individuals they have a robot on the line, attention to that duty was absent from Wednesday’s demo presentation before an entranced audience. Instead, the ability to deceive seemed more of a prized feature than an ethical stumbling block.
 
-Novartis said Wednesday that it was contacted last November “by lawyers from the Special Counsel’s office regarding the company’s agreement with Essential Consultants.” The drugmaker said it “cooperated fully ... and provided all the information requested.”
+Google’s technological leap carries concrete implications whether or not the company (or others who seize on the invention as it improves and spreads) requires its robots to identify themselves as artificially intelligent.
 
-Novartis spokeswoman Sofina Mirza-Reid said the drug company hired Essential Consultants because it “believed that Michael Cohen could advise the company as to how the Trump administration might approach certain U.S. healthcare policy matters, including the Affordable Care Act.” In all, Novartis paid Cohen’s company $1.2 million.
+For one thing, there’s the widening disparity between low-wage workers in the service industry who have to interface with machines and the higher-wage workers who continue to reap the benefits of talking human-to-human in the office.
 
-The agreement was for $100,000 per month and the first meeting with Cohen occurred in March 2017, she said. According to Avenatti’s report, Novartis paid Essential Consultants in part through four wire transfers of $99,980 between October 2017 and January 2018, originating from UBS Switzerland.
+Then there’s the hoaxing that can happen on both ends of the human-to-nonhuman equation. Our instinct is to imagine how an automated actor could scam us, contacting targets in droves to tell them to, say, invest in an exclusive timeshare — or wire money to a certain number if they want their sister’s life spared. But a human could scam a robot, too, gaming its preprogrammed processes to extract information from the trove of knowledge a computer stores about its user.
 
-Mirza-Reid said the company decided not to pursue the relationship after its first meeting with Cohen but continued to make the payments until the contract expired.
+There’s also the ineffable. Many of us recoil at hearing we soon might speak to robots without realizing it not because we’ve thought through the consequences but because it just feels … icky. Day-to-day chitchat, after all, is one of the things that binds us, and every interaction is built on a foundation of trust that what we’re seeing is what we’re getting. Anything else, and we too feel scammed, even if nothing material has been lost. To begin to doubt what we’ve always taken for granted above all else — that the people moving through the world alongside us are also people — is to lose a core part of the human experience as we know it.
 
-“Following this initial meeting, Novartis determined that Michael Cohen and Essential Consultants would be unable to provide the services that Novartis had anticipated related to US healthcare policy matters and the decision was taken not to engage further,” Mirza-Reid said. “As the contract unfortunately could only be terminated for cause, payments continued to be made until the contract expired by its own terms in February 2018.”
+All this hints at a tipping point in our artificial intelligence obsession. Until now, we haven’t worried enough that robots could become human enough to trick us. On the contrary, we’ve tried to trick ourselves: Companies work to create more and more realistic robots, and consumers buy the best they have to offer, from Siri to Alexa. Sometimes, it’s about efficiency. Other times, it’s about the pleasure of interacting with artificial intelligence that doesn’t seem, well, too artificial — as long as we still know who’s the human and who’s the machine.
 
-Novartis said its current chief executive, Vasant Narasimhan, had no involvement in the agreement with Essential Consultants, which expired the month he assumed his role at the helm of the company.
+Our machines so far have been at once humanlike and machinelike enough to set us at ease and to spare us from answering the hardest questions about where advanced artificial intelligence fits into our societal codes. Even now, we’re nowhere near some sort of “Westworld” where robots skirt consciousness and where, for the humans who abuse them, the realness is the draw and the fakeness an excuse to behave outside the bounds of morality.
 
-The company said that the agreement was not related to a dinner meeting Narasimhan had at the World Economic Forum in January with Trump and more than a dozen other leaders of European companies.
-
-The Avenatti report said AT&T paid $200,000 to Essential Consultants. AT&T confirmed making an unspecified payment, saying it was one of several firms hired in 2017 “to provide insights into understanding the new administration.” Essential Consultants did “no legal or lobbying work” for AT&T, the company said, and the contract ended in December.
-
-AT&T declined to comment Wednesday morning on whether Mueller or federal prosecutors in New York had contacted AT&T regarding the payments to Cohen’s company. AT&T had several major issues before federal officials during the relevant time period, including the company’s proposed merger with Time Warner. That deal was struck in October 2016, and the Justice Department began efforts to block the merger with a lawsuit filed in November 2017.
-
-Cohen created Essential Consultants in October 2016 to funnel a $130,000 hush money payment to Daniels, whose real name is Stephanie Clifford. The president has denied the affair but his attorney, Rudolph W. Giuliani, has said Trump reimbursed Cohen.
-
-Perhaps the most notable payment to Essential Consultants was $500,000 from Columbus Nova, a U.S.-based affiliate of a company controlled by a Russian oligarch, Victor Vekselberg, according to the documents released by Avenatti.
-
-Columbus Nova said it paid Cohen to help it with investments such as real estate, and said Vekselberg had nothing to do with the decision to hire him. Vekselberg attended Trump’s inauguration with Andrew Intrater, his cousin and the head of Columbus Nova. The New York Times has reported that Intrater and Vekselberg have been interviewed by lawyers from Mueller’s office.
-
-Cohen for 10 years was special counsel to the Trump Organization, promoting himself as Trump’s “fixer,” and then, after the election, became the president’s personal attorney. He then solicited business from a variety of companies, saying he could simultaneously work for them even as he represented the president.
-
-In addition to the payments that were funneled through Essential Consultants, Cohen signed in April 2017 a $500,000 annual contract with the legal and lobbying firm, Squire Patton Boggs. The company has said Cohen referred five clients to it but has declined to name them. The company did not renew the contract after it expired earlier this year. Cohen’s office at the firm’s New York City branch was raided by the FBI.
-
-Emma Brown, Brian Fung, Tom Hamburger, Rosalind S. Helderman, Min Joo Kim from Seoul and Craig Timberg contributed to this report.
+But science fiction looks less fictional every day, and quandaries it seemed we’d never have to confront appear in crowd-pleasing inventions at conferences. All of us, from companies to consumers to legislators, should start paying more attention. Otherwise, the robots might do it for us.
