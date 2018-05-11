@@ -1,0 +1,24 @@
+Google's controversial AI voice assistant won't hide its identity
+Google has moved to reassure the world that its new, remarkably-human sounding voice assistant won't try to pass itself off as a person.
+
+Google Duplex, unveiled this week at the company's developer conference, has been criticized for sounding too human, and even "creepy." Critics worry that people won't be able to tell they're speaking to a robot.
+
+"We are designing this feature with disclosure built-in, and we'll make sure the system is appropriately identified," Google said in a statement on Thursday.
+
+Controversy over the voice assistant erupted after Google (GOOGL) showed a demo where it called a restaurant to book a table, and made an appointment at a hair salon.
+
+The voice assistant, speaking in both female and male voices, was able to handle interruptions, understand incomplete sentences and replicate the pauses that are common in speech. It even says things like "mmm" to suggest it's thinking.
+
+The big problem? Many observers felt the assistant should have identified itself as a robot.
+
+"Frankly, this technology was designed to deceive humans ... the aim of the product is to act as human-sounding as possible," Ethan Marcotte, a web designer, wrote in a blog post.
+
+"The deception part doesn't feel right," tweeted Antoine Finkelstein, co-founder of the tech company Hunter.
+
+Related: Google unveils Android P features, Google Assistant updates and more
+
+Google said the feature can help hearing-impaired users, or people who don't speak the local language, to carry out tasks over the phone. It said the assistant is limited to natural conversations in a few specific settings, and it cannot carry out general conversations.
+
+"The system makes the conversational experience as natural as possible, allowing people to speak normally, like they would to another person, without having to adapt to a machine," Google engineers wrote in a blog post.
+
+The blog included a photo of the engineers eating at a restaurant where Duplex had booked them a table.

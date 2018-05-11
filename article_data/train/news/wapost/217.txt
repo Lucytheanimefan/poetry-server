@@ -1,0 +1,38 @@
+Children’s advocates raise questions about Amazon’s Echo Dot for kids
+
+
+Amazon has an Echo Dot aimed at kids, as well as some new services for children. (Courtesy of Amazon)
+
+A group of children's advocates and two lawmakers are raising questions about Amazon.com's new Echo Dot for kids, which was announced last month.
+
+The advocates led by the Campaign for a Commercial-Free Childhood said Friday that the presence of a voice-activated speaker on children's nightstands is an unwelcome development that could prove intrusive or potentially disruptive to their development.
+
+“AI devices raise a host of privacy concerns and interfere with the face-to-face interactions and self-driven play that children need to thrive,” CCFC’s Executive Director Josh Golin said in a statement.
+
+(Amazon chief executive Jeffrey P. Bezos owns The Washington Post.)
+
+While the group is not suggesting Amazon's new product violates privacy law — an accusation it has leveled at other tech giants such as Google — its campaign wades into the murkier debate of how parents should evaluate their children's interaction with speakers. Research into that effect is still inconclusive. But consumers — grappling with how to deal with kids who speak to voice assistants before they can walk, or waste hours in front of screens — are demanding that technology firms design products that address compulsive tech use and other bad behavior.
+
+In January, Apple shareholders asked the company to introduce parental controls to combat compulsive technology use. The company responded that it's working on controls but has not yet introduced them.
+
+[Apple has tips for parents wrestling with screen time, but still no new tools to help them]
+
+In its announcement last month, Amazon said it would add parental controls for its Alexa voice assistant on the Echo, Echo Dot and Echo Plus. The move was seen as a reaction to that broader debate about technology use. The company now allows parents to set time limits for when and how Alexa can be used. It also responded to customer concerns about how being able to bark orders at a voice assistant affected their kids' manners, adding a feature that praises children for saying “please” in their queries to Alexa. Google, which is competing with Amazon in the smart speaker space, added a similar feature called “pretty please” mode earlier this week to its voice assistant. It also introduced screen-time management features for its Android operating system.
+
+Amazon responded to the CCFC's campaign in a statement. "Technology – in general – isn’t a replacement for parenting or social connection," the company said. "We believe one of the core benefits of FreeTime and FreeTime Unlimited is that the services provide parents the tools they need to help manage the interactions between their child and Alexa as they see fit."
+
+Children are a key market for tech companies as they push to get their devices into the home. Amazon and Google have recently added options for younger children to use more of their services. Amazon in October made it easier for teens to use their parents' credit cards to buy things through Amazon. Google last year began offering parents a way to create accounts for children under 13, who are by law more shielded from data collection and online advertising.
+
+Facebook has also introduced a messaging service just for kids.
+
+Many of the privacy advocates raising alarm, including the CCFC, filed complaints to the government that accuse Google's YouTube of violating children's privacy law with videos aimed at children. The same organization led the charge against toy giant Mattel’s plans to launch an AI-based voice assistant for kids called Aristotle last year. After that campaign, Mattel said its new chief technology officer scrapped plans for the device.
+
+[From ‘pretty please’ mode to Digital Wellbeing, Google unveils tech with a responsible message]
+
+By tackling Amazon, the group is going after a much bigger target for smart speakers. The firm is, by far, the leader in the home speaker space with 76 percent share, according to the market research firm Consumer Intelligence Research Partners.
+
+Amazon's new product also caught attention on Capitol Hill. Sen. Edward J. Markey (D-Mass.) and Rep. Joe Barton (R-Tex.) — both longtime gadflies on the subject of kids' privacy — on Friday also sent a letter to Amazon asking several questions about how the child-focused speaker collects information. Amazon has said its policies comply with children's privacy law, but the lawmakers are asking for more specifics.
+
+That includes a question about whether Amazon will post a separate privacy policy for children, to bind the company to specific promises it makes about safeguarding kids' privacy. Google, which has a similar program, published a policy specifically for children when it introduced its FamilyLink program that allows younger kids to have their own accounts.
+
+Amazon, in a statement responding to Markey and Barton's concerns, said it received the letter the morning of May 11 and will be "working directly with the senator's office to address each question."

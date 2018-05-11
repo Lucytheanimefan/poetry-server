@@ -1,0 +1,32 @@
+Boston Dynamics' terrifying robots can now run, jump and climb
+Hopefully these violent delights don't have violent ends.
+
+Boston Dynamics, the company known for its "nightmare-inducing" backflipping robots, has unveiled two new videos that show them autonomously navigating through different terrains, including an office and a lab, and jogging in a grass field.
+
+The clips released Thursday detail the progress that Atlas, a humanoid robot, and SpotMini, a doglike robot, have made. SpotMini, for example, is using cameras to identify and move past obstacles, such as office furniture.
+
+'NIGHTMARE-INDUCING' ROBOTS ARE NOW ABLE TO DO BACKFLIPS
+
+"During the autonomous run, SpotMini uses data from the cameras to localize itself in the map and to detect and avoid obstacles," Boston Dynamics said in the video description. "Once the operator presses 'GO' at the beginning of the video, the robot is on its own."
+
+Meanwhile, Atlas' jump over the downed tree trunk isn't elegant in the way an Olympic hurdler is, but it more than gets the job done. If that isn't shocking enough, SpotMini continues its venture outside near grills, walking along a concrete path. That probably isn't what most people envision when they think of a fun-filled BBQ with friends and the family dog.
+
+The videos, which have racked up a combined 1 million views, are the latest to show off these robots, who have terrified plenty of people. One of them is tech exec Elon Musk, who has repeatedly warned about the perils of artificial intelligence.
+
+In November, when Boston Dynamics showed off Atlas doing backflips, he said that was just the beginning.
+
+"This is nothing," Musk tweeted. "In a few years, that bot will move so fast you’ll need a strobe light to see it. Sweet dreams…"
+
+Even Boston Dynamics' founder, Marc Raibert, has acknowledged that its robots can cause fear. In February 2017, he showed off the wheeled version of one of its robots and described it as "nightmare-inducing."
+
+"This is the debut presentation of what I think will be a nightmare-inducing robot if you're anything like me," Raibert was quoted as saying.
+
+BOSTON DYNAMICS' LATEST ROBOT CAN OPEN DOORS
+
+Boston Dynamics, which was sold from Google to Japanese tech conglomerate SoftBank for an undisclosed sum last year, has not revealed what it eventually plans to do with its robots.
+
+On its website, the company, which got its start at the Massachusetts Institute of Technology, says it is "changing your idea of what robots can do" and prides itself "in building machines that both break boundaries and work in the real world."
+
+When "Westworld" becomes a reality (or is it already?) and the robot uprising finally occurs, at least we'll know (probably) where it started.
+
+Follow Chris Ciaccia on Twitter @Chris_Ciaccia

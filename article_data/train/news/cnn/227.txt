@@ -1,0 +1,28 @@
+Google's plans to use AI to help the blind
+Google wants to turn a regular Android phone into an artificial intelligence-powered helper for the blind.
+
+Lookout is a new app that uses image recognition and artificial intelligence to describe a scene through a phone's camera. Google (GOOG) announced the app at its annual I/O developer conference this week.
+
+Google is testing the app now and said it will be released later this year, starting on Pixel devices.
+
+If you walk into building lobby with an Android camera held in your hand or worn around the neck on a lanyard, pointed outward, Lookout will detect people and objects like elevator doors, and read nearby text. The app doesn't require an internet connection.
+
+Google says Lookout is designed to keep users engaged with what's going on without bombarding them with information. It only describes the most important items. If a person wants to stop the narration, they put a hand over the camera or give it a knock to pause the app.
+
+The company says the app uses similar technologies to Google Lens, a visual search tool. It combines machine learning, image recognition and several different machine learning models, according to the company.
+
+Related: Silicon Valley's new motto: be responsible
+
+"What blind people need is access to information," Erin Lauridsen, director of access technology at LightHouse in San Francisco. "A lot of times the way these things are promoted and generate capital is all about making blind people 'see' but it really is about taking visual information and translating it into non-visual information."
+
+Google is not the first company to use artificial intelligence and smartphones to help the blind. Microsoft has a similar app for iOS called Seeing AI.
+
+Seeing AI can read printed or handwritten text, describe colors and recognize denominations of currency. Unlike Google Lookout, Seeing AI has a facial recognition component. After pointing the phone at a person, Seeing AI describes them and says how far away they are. If you've trained the app to recognize faces, it'll tell you the person's name. (Google said it may add facial recognition to Lookout in the future).
+
+App-based technology for the blind isn't limited to big companies. The VocalEyes AI app, which can describe a person's emotion or age based on their face, was created by an 18-year-old high school student at an MIT summer program.
+
+Related: How Facebook uses artificial intelligence to explain photos for the blind
+
+There are also more traditional apps that still use humans instead of AI. For example, Aira gives members smart glasses with a built-in camera so trained employees can describe what they see through the camera. Meanwhile, Be My Eyes relies on volunteers to check out what's around you though a live video chat.
+
+"I think that AI is trending in general, and it makes sense to see how it can help for people who are blind but i think there are a lot of unanswered questions," said Lauridsen.

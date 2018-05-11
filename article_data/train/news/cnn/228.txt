@@ -1,0 +1,144 @@
+PACIFIC • The Most Influential Man in Silicon Valley
+What's Next: Masa Son's moment. Japan's richest businessman has shaken the tech investment industry to its core. His $100-billion SoftBank Vision Fund is the most influential force in Silicon Valley and is radically changing the scale and speed at which firms invest.
+
+Sign up for PACIFIC: The new CNNMoney newsletter about the center of change and innovation
+
+For good or bad? The VCs and investors I talk to are split:
+
+• Some are excited by the immense infusion of cash into startups, which allows them to remain independent instead of being acquired by big tech companies like Alphabet, Amazon and Facebook, or their corollaries in China.
+
+• Some are worried about how fast Son invests and how much money he spends. They say Son's investments are driving valuations to unreasonable levels, raising costs for other firms and putting the entire industry at risk.
+
+Khosla Ventures' Ben Ling texts:
+
+• "Capital alone doesn't create a winner, but it can easily make other competitors lose."
+
+The Big Picture, via the Economist:
+
+• Son's $100-billion war chest "far exceeds the $64 billion that all VC funds raised globally in 2016; it is four times the size of the biggest private-equity fund ever raised."
+
+• "Son is pumping money into 'frontier technologies' from robotics to the internet of things. ... In five years' time the fund plans to have invested in 70-100 technology unicorns."
+
+• "To compete with the Vision Fund ... incumbents are having to bulk up. Sequoia Capital, one of Silicon Valley's most famous names, is raising its biggest-ever fund in response."
+
+Where Vision Fund gets its money: • Saudi Crown Prince Muhammad bin Salman: $45 billion • Son's SoftBank: $28 billion. • Abu Dhabi's Mubadala: $15 billion • plus Apple, Qualcomm, Foxconn and Sharp.
+
+Where Vision Fund invests its money: Uber, Nvidia, WeWork, Flipkart, and dozens of other tech companies ... but also in more unexpected projects like creating the world's biggest solar power plant and the world's largest international soccer tournament.
+
+--
+
+Today's PACIFIC
+
+Just in: Facebook is planning to create its own cryptocurrency, per Cheddar's Alex Heath.
+
+How to spend it: On your mom. Sunday is Mother's Day.
+
+Sign up for PACIFIC: The new CNNMoney newsletter about the center of change and innovation
+
+---
+
+Ethics in Streaming: Did Spotify blow it?
+
+Spotify's decision to stop promoting music by R. Kelly and XXXTentacion has set off a fierce debate over the line between responsibility and censorship, and raised questions about the logic behind Spotify's decision:
+
+• Spotify introduced a new "Hate Content and Hateful Conduct" policy on Thursday to target music that "incites hatred or violence" or artists "who have demonstrated hateful conduct personally."
+
+• Spotify then announced it would stop promoting music by R. Kelly (who faces a history of sexual abuse claims) and XXXTentacion (who faces charges of aggravated battery).
+
+Spotify's decision is riddled with inconsistencies:
+
+• The artists' music is still available on Spotify, it's just not being promoted or featured in Spotify's playlists.
+
+• The artists are hardly the only musicians with a history of allegations. In an email to NYT's Joe Coscarelli, a spokeswoman for XXXTentacion asked if Spotify would also remove Miles Davis, Michael Jackson, Dr. Dre and 16 other artists who have been accused of violence or sexual misconduct from its playlists.
+
+What Spotify said: "As you can imagine this is a complicated process with room for debate and disagreement, so we can't get into an artist-by-artist discussion. In general we work with our partners and try to make decisions on a case-by-case basis."
+
+Just in: Pandora says it will stop promoting R. Kelly's music as well.
+
+The Big Picture: Policing hate speech is an immense challenge for every platform company. But if you are going to wade into it, you need a thorough and consistent policy.
+
+---
+
+Out of the Woods: Facebook's nightmare is over
+
+The release of 3,000 Russian-bought Facebook ads yesterday came and went. Meanwhile, Facebook shares returned to pre-Cambridge Analytica levels.
+
+Facebook is now out of the woods. The so-called data privacy "scandal" has not undermined the company's business model nor stopped it from profiting off your data. Several sources inside the company say their hardest days are behind them.
+
+The Big Picture: Antonio García-Martínez, the former Facebook product manager and author of "Chaos Monkeys," talks to Recode:
+
+• "Here's the reality: Most people don't care about privacy. ... Media elites care about it, underemployed Eurocrats care about it. And the entire privacy-industrial complex -- there's an entire set of very loud voices who are constantly beating the drum and building media careers around this."
+
+• "For those who doubt, here's a pop quiz: When in the past two or three months did Facebook reach the highest point in app rankings in the Android app store? Literally the day after the #deletefacebook hashtag went viral."
+
+One note of caution: Often the real damage of controversy is that it distracts from innovation. If Microsoft hadn't spent the late 90s bogged down in antitrust battles, it may not have missed the mobile phone.
+
+Facebook is fine now. Ten years from now we may look back and see what Facebook missed while fighting to fix its public image.
+
+Sign up for PACIFIC: The new CNNMoney newsletter about the center of change and innovation
+
+---
+
+Snap Out of It: Snapchat redesigns, again
+
+My colleague Jordan Valinsky emails:
+
+Snapchat has rolled out the redesign to its highly hated redesign in an attempt to appease angry users and reverse its stock slide.
+
+The Verge's Thuy Ong explains what's changed.
+
+The Big Picture: The previous redesign was a dud with millennials. Snap's stock has tanked more than 20% since its earnings report on May 1.
+
+---
+
+Valleyspeak: Valinsky's top links
+
+Amazon stops buying Google ads (Bloomberg)
+
+The Facebook-Google duopoly faces limits (Digiday)
+
+Tech leaders push White House on AI (WashPost)
+
+Dropbox beats Wall Street estimates (Recode)
+
+Elon Musk's Boring tunnel is nearly done (Teslarati)
+
+---
+
+Talk of Tinseltown: Why MoviePass is tanking
+
+The parent company of MoviePass -- the subscription service that offers nearly unlimited access to movie theaters for $10 a month -- is tanking due to a cash shortage. My colleague Jill Disis says it "might not be around much longer."
+
+What happened?:
+
+• The Moviepass business model was unsustainable from the get-go.
+
+• It found investors because people -- and the media -- are susceptible to narratives centered on disruption.
+
+• It did one good thing, which is force theater chains to think about dynamic pricing, subscription models and making moviegoing more affordable.
+
+The Big Picture: For every success story like Netflix there is an endless parade of highly celebrated startups like Aereo, Meerkat and MoviePass that promise to reshape industry and then disappear.
+
+Sign up for PACIFIC: The new CNNMoney newsletter about the center of change and innovation
+
+---
+
+No Cannes Do: Is Cannes a bust?
+
+Three days into the Cannes International Film Festival the most notable thing is the lack of any big acquisitions for the US market.
+
+Which has some folks wondering if Netflix's decision to skip the event may be an indication of where things are headed.
+
+Manohla Dargis in today's New York Times:
+
+• Netflix CEO Reed Hastings recently told "an audience at a television festival (ahem) that ... the company was 'not trying to disrupt the movie system; we are trying to make our members happy.' Put differently, Netflix is a multinational corporation that delivers an incessant visual flow to its 125 million or so subscribers. Cannes shows movies to other industry professionals seeking to serve their own audiences."
+
+It's still a helluva party though. If you are there, let us know how things go at Jamie Rueben and Michael Kives' dinner/party on Sunday night.
+
+---
+
+What Next: The weekend. Enjoy it.
+
+See you Monday.
+
+Want this in your inbox every morning? Sign up for PACIFIC: The new CNNMoney newsletter about the center of change and innovation

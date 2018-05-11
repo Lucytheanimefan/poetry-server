@@ -1,0 +1,44 @@
+Tech can help save endangered plants. But sometimes what you really need is luck.
+It was a frosty early morning at the Royal Botanic Gardens, Kew, London, and I stood facing the greenhouse bench. In front of me was a café marron plant, a gorgeous shrub that never stops blooming, with dark green leaves and snow-white jasmine-like flowers. It had been grown from cuttings taken from a plant on Rodrigues, an island in the Indian Ocean.
+
+I should say the café marron plant: It was the last of its kind. The species could be propagated artificially by cuttings, but the last lonesome specimen had failed to set seeds for decades, and the plants grown from cuttings didn’t, either. Technically, it was extinct — a specimen could be kept artificially alive, but it would never reproduce in the wild. It was a textbook definition of what conservationists call a “living dead” species.
+
+I’m the tropical senior botanical horticulturist at Kew. I decided to use my free time to see if a kind of artificial insemination would save the plant: Take a scalpel, cut across the female parts of the flower and insert some pollen. In hundreds of attempts, one grain of pollen might produce a seed. It was the summer of 2003, and though my first cut did not yield any immediate result, it gave me a clue that enabled me to keep working on the project to eventual success.
+
+Why bother trying to recover one plant species? For starters, 60 percent of our calorie intake comes from just three species of plants: rice, maize and wheat. If any of that crop production were to collapse, humankind would face starvation, with our only hope being that some of the 50,000 species that have recorded uses for consumption could come to the rescue. An additional 28,000 species have recorded medicinal uses. So with the extinction of each plant species, our food palette and our pharmacy become poorer and smaller. Yet we take plants for granted; we are too often dismissive of their benefits. Kew’s “State of the World’s Plants” reported that 1,730 new species were discovered in 2016 — an encouraging number. But meanwhile roughly 80,000 species — 1 in 5 — are believed to be at risk of extinction. There are 60,000 more that we believe have not yet been discovered.
+
+You can’t protect what you don’t know; you can’t use a plant that you can’t find, whose home you can’t observe, whose prevalence is uncertain. We’re in danger of losing our biodiversity. Saving plants represents part of a greater mission to extend planetary survival.
+
+[All my trash for a year fit into two plastic bags. Here’s how I did it.]
+
+New technology is taking these efforts beyond the horticultural methods normally used to propagate. One of the more dramatic examples of plant resurrection is the case of Silene stenophylla, a plant in the campion family that was discovered by Russian researchers in northeastern Siberia, as they reported in 2012. Fruit tissue of this species had been preserved in permafrost at a depth of more than 100 feet, where it lay for some 30,000 years. Scientists using in vitro tissue culture and clonal micropropagation — a technique that involves placing plant tissue in a flask with sugar and nutrients under artificial lighting — were able to regenerate plants from small tissue samples, which led to pot-grown plants that flowered, fruited and, ultimately, set seeds.
+
+A promising line of science has emerged in recent years using DNA analysis. One such project is being undertaken by Kew: the Plant and Fungal Trees of Life, which we hope to complete by 2020. The project uses very precise DNA sequencing to better understand the relationships between species, with the goal of forging a comprehensive evolutionary tree. Such a resource can then be paired with pocket devices such as the MinION DNA sequencer, which allow for real-time DNA analysis in remote areas. The technology is still in its earliest days, but such devices could allow scientists to quickly identify plants in the field and cross-reference them against taxonomic catalogues, to better recognize when they’ve stumbled upon a plant that is so rare as to be threatened by extinction.
+
+Even with these advances in technology, though, plants can fail for any number of reasons. In my experience, the best tool in a horticulturist’s toolbox is determination. Sometimes it is only when a plant consumes all your waking thought that you find a breakthrough.
+
+In 2009, I received from the botanic garden in Bonn, Germany, a small batch of seeds for the Nymphaea thermarum, the smallest known species of water lily in the world, which had been found in the 1980s in a single location in southwest Rwanda. We at Kew were swapping plants with the horticulturists in Bonn, and I had spotted the Nymphaea thermarum in their collection. When I asked them to send me seeds, Bonn warned that this species was almost impossible to grow from seeds, which made me even more intrigued. Like the horticulturists before me, I sowed them using standard methods, in which seeds are grown on the surface of a pot containing loam, placed underwater. It was business as usual at first — they germinated, looking like blades of grass before producing seed leaves, a characteristic unique to water lilies.
+
+Not long after, though, the seedlings followed the same fate as in Bonn — they stopped growing, began to look sickly, and, almost as quickly as they had appeared, they were gone.
+
+I experimented with temperature, pH, the concentration of salts, light. I tried using tap water, then water filtered by reverse osmosis. I tried a variety of potting mixes. Nothing worked — every plant hung in there, looking sorry for itself for three or four weeks, then, as the seed ran out of food, gradually melted away.
+
+[How Szechuan peppercorns can help you grow old and bond with your young]
+
+What on earth was going on?
+
+For weeks, I was preoccupied with the fate of the Nymphaea thermarum. Night and day, I racked my brain for a way to crack the code. One evening, I was at home cooking tortellini. As I stirred and the water bubbled, it came to me: CO2. Carbon dioxide dissolves poorly in water. Especially in a small tank, it is depleted quickly. Perhaps the plant was being starved of the gas it needed to survive.
+
+I began experimenting with water levels, allowing the plant’s leaves to peek out above just half a centimeter of soil from a shallow tray rather than submerging it fully, so it could be exposed to the high concentrations of carbon dioxide in the air from its first moments. I placed my bet on the last 10 seeds available to me. I resowed them, transplanted them, exposed them to varying levels of heat, light and mist.
+
+Eventually, I found the right parameters, and everything changed. Within two weeks, I could see a dramatic improvement; about a month later, a proper lily pad appeared. They were growing like every other water lily in the garden.
+
+One day, a German professor came bursting through the doors of the tropical nursery, shouting: “Where are they? Where are they?” He wanted, needed, to see if what he had heard was true: that the Nymphaea thermarum had been made to grow again. He wore the broadest grin I had ever seen — I thought he was going to explode.
+
+Before I began to play with the seeds of the Nymphae thermarum, I knew that there were about 50 plants left in Rwanda and only two in Bonn — this was part of why I had been so drawn to these beautiful lilies. What I did not know was that the plants remaining in the wild had all died off in the meantime, when workers at a new concrete quarry diverted the water from the only hot spring where this species grew to build a laundry facility. Around the same time, the only plants grown at Bonn had died. Worse, a rat got into the greenhouse in Bonn from which my seeds had come, and there were none left there.
+
+I didn’t realize it, but I had been playing with the last seedlings on the planet. But I wouldn’t have done anything different if I’d known the stakes. If we are to protect, cherish and nurture the biodiversity of our world, we can’t let the scale of the task scare us away. Plants truly have the power to save us: They produce energy, raw materials, fibers, food and medicine, and they gobble up the carbon dioxide our modern lives force into the air. We have no choice but to try to save them, if we are going ot save ourselves, too.
+
+Twitter: @Plantmessiah
+
+Read more from Outlook and follow our updates on Facebook and Twitter.

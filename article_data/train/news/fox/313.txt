@@ -1,0 +1,17 @@
+NASA and Uber are getting serious about flying cars
+Flying cars may not be unique to science fiction for much longer.
+
+Uber Technologies Inc., the company behind the popular car service app, is once again partnering with NASA, and this time, it's supplying information to the agency so that it can simulate the flight of a small passenger-carrying aircraft within the airspace of Dallas Fort Worth International Airport, according to two recent statements by NASA.
+
+The Urban Air Mobility (UAM) project hopes to develop "a safe and efficient air transportation system where everything from small package delivery drones to passenger-carrying air taxis operate over populated areas, from small towns to the largest cities," according to a statement by the agency on May 7. [NASA Engineer Hired to Work on Uber's Flying-Car Project]
+
+Jaiwon Shin, the associate administrator for NASA's Aeronautics Research Mission Directorate, highlighted the merits of UAM in a May 8 statement, comparing it to the smartphone revolution.
+
+NASA officials say their research will help identify any safety issues that air transportation projects of the future might have. This comes after the space agency signed an agreement with Uber to create an air-traffic-control system for a future flying car service called Uber Elevate, also known as UberAir.
+
+NASA has signed its second space act agreement with Uber, and according to agency officials, this is the first to focus specifically on simulating and modeling UAM operations. Under the agreement, Uber will share its plans for an urban aviation rideshare network with NASA, and with that information in mind, the space agency will develop models of how aircraft might move or takeoff.
+
+Research will also look into preventing these vehicles from creating too much noise, in addition to ensuring they don't overburden the national air-traffic-control system. To accomplish those goals, UAM researchers are pulling in information from related areas of aeronautics. For example, developments in all-electric or hybrid-electric aircraft could allow for relatively quiet flying-vehicle operations, as well as low emissions. And according to the May 7 statement, UAM researchers are also partnering with the Federal Aviation Administration to develop rules and procedures that can manage low-altitude flying.
+
+Original article on Space.com.
+

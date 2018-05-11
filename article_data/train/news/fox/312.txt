@@ -1,0 +1,58 @@
+F-22s and F-35s will launch recoverable gremlins attack drones
+U.S. Air Force F-22s and F-35s will soon launch and control recoverable attack drones from the cockpit of the plane to expand air-combat operations, test enemy air defenses, conduct long-range ISR and even deliver weapons.
+
+This fast-approaching technology, which calls upon advanced levels of autonomous navigation, is closer to reality due of DARPA’s Gremlins program which plans to break new ground by launching – and recovering – four drones from an in-flight C-130 next year.
+
+Air recoverable drones, slated to become operational over just the next few years, will bring a new phase of mission options enabling longer ranges, improved sensor payloads, advanced weapons and active command and control from the air.
+
+“The team looked at how fifth generation aircraft systems like the F-35 and F-22 respond to threats, and how they could incorporate Gremlins in higher risk areas,” a DARPA statement said.
+
+For years, it has been possible to launch expendable drones from the air, without needing a ground control station, provided they do not return to an aircraft. Gremlins, by contrast, is a technical effort to engineer specially configured aerial drones able to both launch and return to a host aircraft.
+
+The program is now moving into a phase three, according to DARPA statements, which cite a new demonstration and development deal with Dynetics to execute the upcoming launch and recovery C-130 flight.
+
+“DARPA is progressing toward its plan to demonstrate airborne launch and recovery of multiple unmanned aerial systems, targeted for late 2019. Now in its third and final phase, the goal for the Gremlins program is to develop a full-scale technology demonstration featuring the air recovery of multiple low-cost, reusable UASs, or 'Gremlins,'" a DARPA announcement said.
+
+This technology, which hinges upon higher levels of autonomous navigation, brings a wide swath of improved mission possibilities. These include much longer attack and mission reach, because drones can begin missions while in the air much closer to an objective, without having to travel longer distances from a ground location or forward operating base. Furthermore, perhaps of even greater significance, air-launched returnable drones can be equipped with more advanced sensor payloads able to conduct ISR, supply or even attack missions.
+
+A recent flight test at Yuma Proving Ground provided an opportunity to conduct safe separation and captive flight tests of the hard dock and recovery system.
+
+“Early flight tests have given us confidence we can meet our objective to recover four gremlins in 30 minutes,” Scott Wierzbanowski, program manager in DARPA’s Tactical Technology Office, said in a written statement.
+
+Gremlins also can incorporate several types of sensors up to 150 pounds, DARPA statements said.
+
+Maturing a full-scale operational capability for this technology has force engineers to confront a range of technical challenges, Dynetics engineers told Warrior Maven. Safely docking a returning drone aboard a moving C-130 requires an as-of-yet unprecedented level of technical sophistication.
+
+“The key technological advance is achieving increased safety through software redundancies to be able to operate a vehicle of this size in close proximity to a C-130 and tether it to stabilize the vehicle,” Tim Keeter, Deputy Program Manager and Chief Engineer, Gremlins, Dynetics, told Warrior Maven in an interview.
+
+Once stabilized, the drone can then be stowed safety in the cargo bay of the C-130, Keeter added.
+
+“This certainly involves precision navigation and we need the structure of the airframe to bear the burden,” he said.
+
+In preparation for the upcoming drone air-recovery demonstration, Dynetics conducted a safe separation flight test from a mock air vehicle.
+
+“We are ready to fabricate,” Keeter said.
+
+Another advantage of technological advances in drone autonomy is that one human may have an ability to control multiple drones and perform a command and control function – while drones execute various tasks such as sensor functions, targeting, weapons transport or electronic warfare activities, former Air Force Chief Scientist Gregory Zacharias told Warrior Maven in a prior interview.
+
+At the moment, multiple humans are often needed to control a single drone, and new algorithms increasing autonomy for drones could greatly change this ratio. In the future, according to Zacharias, one human may be able to control 10 – or even 100 - drones.
+
+Algorithms could progress to the point where a drone, such as a Predator or a Reaper, might be able to follow a fighter aircraft by itself – without needing its flight path navigated from human direction from the ground.
+
+Unlike ground robotics wherein autonomy algorithms have to contend with an ability to move quickly in relation to unanticipated developments and other moving objects, simple autonomous flight guidance from the air is much more manageable to accomplish.
+
+Since there are often fewer obstacles in the air compared with the ground, drones above the ground can be programmed more easily to fly toward certain pre-determined locations, often called a “way-points.”
+
+The Army has advanced manned-unmanned teaming technology in its helicopter fleet --successfully engineering Apache and Kiowa air crews to control UAS flight paths and sensor payloads from the air in the cockpit. Army officials say this technology has yielded successful combat results in Afghanistan.
+
+Senior Air Force leaders have said that the services' new next-generation bomber program, the B-21 Raider, will be engineered to fly manned and unmanned missions.
+
+Also, in September of 2013, the Air Force and Boeing flew an unmanned F-16 at supersonic speeds for the first time. The unmanned fighter was able to launch, maneuver and return to base without a pilot, according to Air Force information.
+
+At the same time, despite the speed at which unmanned technology is progressing, many scientist and weapons’ developers are of the view that human pilots will still be needed – given the speed at which the human brain can quickly respond to unanticipated developments.
+
+There is often a two-second long lag time before a UAS in the air can respond to or implement directions from a remote pilot in a ground station, a circumstance which underscores the need for manned pilots when it comes to fighter jets, Air Force officials said.
+
+Therefore, while cargo planes or bombers with less of a need to maneuver in the skies might be more easily able to embrace autonomous flight – fighter jets will still greatly benefit from human piloting, Air Force scientists have said.
+
+This story originally appeared at Warrior Maven.

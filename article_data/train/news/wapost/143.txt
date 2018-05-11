@@ -1,0 +1,36 @@
+Florida man behind 100 million robocalls hit with huge FCC fine
+Issuing its largest fine to date, the Federal Communications Commission levied a $120 million fine on a massive robocall spoofing operation it deemed a threat to public safety.
+
+The FCC announced Thursday morning that it would fine Adrian Abramovich, a Miami man who the commission said made almost 100 million spoofed robocalls over a three-month period at the end of 2016. The FCC argued that Abramovich’s operation made the phony calls to trick consumers into answering and listening to his advertising messages. The fine was based on 80,000 spoofed calls the commission had verified.
+
+“We take spoofing seriously at the FCC and we will continue to do everything we can to confront the scourge of spoofed robocalls,” FCC Chairman Ajit Pai said in a video message after the announcement.
+
+In a written statement, Pai said that Abramovich did not dispute that he placed more than 96 million robocalls, or that the robocalls were made without the recipients’ consent. Pai added that Abramovich did not dispute that inaccurate caller ID information appeared with each robocall, making it look like the call was from a local number, a practice known as “neighbor spoofing.”
+
+Pai added that while Abramovich has said he had “no intent … to defraud, cause harm or wrongfully obtain anything of value,” the commission was not convinced.
+
+“Friendly visitors don’t wear disguises to mask who they are,” Pai wrote.
+
+A complaint filed by the FCC against Abramovich in June 2017 alleged he had broken the Truth in Caller ID Act — which prohibits callers from falsifying caller ID information to disguise their identity with intent to harm or defraud — in perpetrating “one of the largest — and most dangerous — illegal robocalling campaigns that the commission has ever investigated.”
+
+The complaint said Abramovich’s robocall scheme “bombarded American consumers and repeatedly disrupted a critical telecommunications service used by hospitals and emergency medical providers.” Consumers also were subjected to fake robocalls offering “discounted” travel services by real companies including Expedia, Marriott, Hilton and TripAdvisor.
+
+The FCC found that consumers were led to believe the calls were from well-known travel and hospitality companies and were prompted to “Press 1” to learn more about “exclusive” vacation offers. Those who did were then transferred to foreign call centers where operators attempted to sell them vacation packages — often involving timeshares — in places that had no relation to the actual travel or hospitality company.
+
+Abramovich attempted to fight the fine when he appeared before senators last month and said he was “not the kingpin that is alleged,” according to Newsweek. Abramovich asked the FCC to reduce the fine, saying it was disproportionately aggressive given that most calls were not answered or were quickly ended by consumers, according to Bloomberg.
+
+“Clearly regulation needs to address the carriers and providers and require the major carriers to detect robocalls activity,” Abramovich said in testimony submitted to the Senate Commerce Committee. He has also told the committed that his role in the scam had been “significantly overstated” by the FCC, according to Newsweek.
+
+The FCC was unmoved. Last year, commissioner Mignon Clyburn said it would be “one of the biggest understatements I have made in years” to say Ambramovich’s case was extremely troubling. Clyburn wrote that the activities had adverse financial consequences on consumers, hurt the reputations of American businesses and posed a threat to public safety.
+
+For Pai, the $120 million fine “sends a loud and clear message.”
+
+“This FCC is an active cop on the beat,” he said, “and will throw the book at anyone who violates our spoofing and robocall rules and harms consumers.”
+
+Read more:
+
+Why the Internet is suddenly protesting on net neutrality all over again
+
+FCC Chairman Ajit Pai’s favorite TV show revealed
+
+More than 20 states are suing the FCC over its net neutrality decision

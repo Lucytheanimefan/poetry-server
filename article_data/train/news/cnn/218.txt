@@ -1,0 +1,40 @@
+Lawmakers write letter to Jeff Bezos with concerns about Echo Dot for kids
+Two lawmakers are raising concerns about the latest version of Amazon's Echo smart speaker, which is designed especially for kids.
+
+On Friday, Senator Ed Markey, a Democrat from Massachusetts, and Congressman Joe Barton, a Republican from Texas, sent a letter to Amazon CEO Jeff Bezos with several questions about the new Echo Dot Kids Edition.
+
+Last year, Markey and Barton -- co-founders of the Bi-Partisan Congressional Privacy Caucus -- wrote a letter to toy manufacturer Mattel (MAT) with concerns about its "Aristotle" product. The WiFi-enabled toy featured audio and visual monitoring for kids. The company ultimately stopped selling the device.
+
+The letter to Amazon (AMZN) includes 12 questions about the Echo Dot Kids Edition, the $79.99 gadget that plays kid-friendly music, answers questions and comes with parental controls, such as time limits for use. The device began shipping this week.
+
+The lawmakers asked Bezos whether Amazon maintains a data profile on each child and how long the company keeps recordings and other information collected by the device.
+
+Related: Amazon unveils colorful Echo Dot for kids
+
+"While these types of artificial intelligence and voice recognition technology offer potentially new education and entertainment opportunities, Americans' privacy, particularly children's privacy, must be paramount," Markey and Barton wrote in the letter. "There is also increasing concern about the effects of digital media and technology use among children and teens."
+
+To address privacy concerns, the tech giant said it doesn't share kids' data with third parties like advertisers. Parents can also listen to archives of their child's voice requests via the Alexa app and delete them.
+
+In response to the letter, Amazon said technology isn't a replacement for parenting or social connection.
+
+"One of the great things about Alexa and Echo is the communal nature of the device -- parents and kids can join in the learning and fun together," an Amazon spokesperson said.
+
+Parents can review activity on the Parent Dashboard from FreeTime Unlimited, which offers access to kid-friendly books and ad-free radio stations. The spokesperson also said parents can pause the device "whenever they'd like."
+
+"We believe one of the core benefits of FreeTime and FreeTime Unlimited is that the services provide parents the tools they need to help manage the interactions between their child and Alexa as they see fit," the spokesperson added.
+
+Amazon said it worked with a "handful" of advocacy groups, such as Family Online Safety Institude (FOSI), and child development experts from Yale and the University of Washington, as well as local Seattle pediatricians and researchers, to develop the Echo Kids Edition.
+
+In a separate statement on Friday, the Campaign for a Commercial-Free Childhood (CCFC), Center for Digital Democracy (CDD), and several child development experts also cautioned parents about the device.
+
+"Amazon wants kids to be dependent on its data-gathering device from the moment they wake up until they go to bed at night," said CCFC's Executive Director Josh Golin.
+
+Related: Health experts urge Facebook to shut down Messenger Kids
+
+Experts also expressed concern about privacy and the device interfering with face-to-face interactions and a child's play time and healthy development.
+
+"Amazon is acting irresponsibly by urging parents to unleash an AI-driven Alexa product into their children's lives, without first ensuring that it will not harm their cognitive and emotional development," said Jeff Chester, executive director of the CDD.
+
+In January, the CCFC led an effort to shut down Facebook's Messenger Kids app, which is aimed at six to 12 year olds. More than a dozen organizations and about 100 health experts sent a letter to Facebook CEO Mark Zuckerberg saying the new chat app will likely damage a child's healthy development. Facebook (FB) has said it has no plans to shutter the app.
+
+Previously, the CCFC successfully stopped McDonald's from advertising on report card envelopes and convinced the NFL to discontinue a controversial online fantasy football game for kids.

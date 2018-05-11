@@ -1,0 +1,58 @@
+iPhone battery dead again? 7 surprising ways you're draining power
+It's easy to blame Apple for your low iPhone battery — but before you draft that complaint to CEO Tim Cook, think about taking a second look at your settings. You may be draining your power without even realizing it.
+
+So, before you panic about finding available outlets or stocking up on portable power banks, take a look at this list and see if you're really the cause of your iPhone battery woes.
+
+Here are 7 ways you're destroying your smartphone's battery life.
+
+APPLE'S SIRI IN THE SPOTLIGHT FOR POTTY MOUTH
+
+1. Using battery-burning apps
+
+You may have a battery hog on your hands. To check which apps are sucking the most life out of your battery, head to Settings, Battery and then Battery Usage. Then click "last 7 days" and see the percentage of battery life your frequently used apps are consuming. Social media apps are addicting, but they also seem to suck up the most juice. A 2016 report from The Guardian claimed the Facebook app was one of the biggest culprits. Deleting Facebook’s iOS app could save an extra 15% of battery life, the study revealed.
+
+2. Exposing the device to extreme temperatures
+
+Have you ever noticed your iPhone dies quicker in the winter and summer? You're not alone. That's because using your phone operates best at 62° to 72° F. If your device is stored in temperatures 95° F or higher, then your battery could be permanently damaged.
+
+"That is, your battery won’t power your device as long on a given charge," Apple warns on its website. "Charging the device in high ambient temperatures can damage it further."
+
+If your battery is stored in temperatures below 32° F, you'll also notice a decrease in battery life. However, this condition is only temporary and the percentage of battery life will rise when it returns within normal temperature range.
+
+3. Charging your phone with a computer on sleep mode
+
+You may turn to your computer to plug in your iPhone. That's fine — just make sure the device is awake. In fact, it's even better if the computer is plugged in and active when charging your phone.
+
+"If your device is connected to a computer that’s turned off or is in sleep or standby mode, your device’s battery may drain," Apple says.
+
+APPLE IS FIXING THE MOST JARRING THING ABOUT IPHONES
+
+4. Background activity
+
+When you exit an app, you probably think it's no longer using your phone's energy — but it is. Even though you close an app on your phone, that doesn't mean it's not still running in the background. To avoid this, turn off the refresh option by going to Settings, General and then switch off Background App Refresh.
+
+5. Bluetooth is always on
+
+Going wireless is great for you, but it takes a toll on your battery. If you're not on an important phone call or listening to music, switch Bluetooth off. Go to Settings, Bluetooth and switch it off.
+
+"The extra radio is constantly listening for signals from the outside world," Tech Advisor reports. "[Turning Bluetooth off] can add an hour or more to your phone's battery life."
+
+6. Using location services
+
+"Location services uses GPS, Bluetooth, cell tower locations and crowd-sourced hot-spots to place your phone on a map," completely killing your battery, USA TODAY explains.
+
+Be picky with the apps that track your every move. To customize which apps store your location, head to Settings, Privacy, and Location Services and restrict apps from finding you — or even better, turn it off altogether.
+
+IPHONE IS TOO ADDICTIVE, STANFORD STUDENTS SAY
+
+7. Always having a bright screen
+
+Dim your iPhone screen when your power is running low. If you don't want to navigate your phone in the dark, however, you can turn on Auto-Brightness, which allows your screen to adjust to the lighting automatically. Go to Settings, General, Accessibility, Display Acommodations and turn Auto-Brightness on. You can also adjust it yourself by swiping up on your phone and choosing your own brightness by moving the sun icon.
+
+Doing everything right and still having problems?
+
+Well, then you may want to schedule an appointment with your local Apple store.
+
+Apple admitted in December that it had slowed down batteries on older iPhones for technical reasons. The company said it would reduce the price of replacing a battery on the iPhone 6 and older models to $29, down from $79. These prices are available worldwide through December 2018.
+
+Fox News' Chris Ciaccia contributed to this report.

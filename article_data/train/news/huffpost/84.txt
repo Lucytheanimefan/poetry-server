@@ -1,0 +1,40 @@
+Blockchain et commerce en ligne: préparez-vous au changement!
+Voilà 10 ans que j'ai créé mon agence de marketing numérique et l'expérience me fait dire que dans le domaine du commerce en ligne, rester à l'affût des tendances est une nécessité. Pour se démarquer de la concurrence, il faut en effet sans cesse s'adapter aux besoins des clients. Voilà pourquoi je m'intéresse de plus en plus à la fameuse technologie du blockchain. Mais dès que j'aborde le sujet, nombreux sont ceux qui semblent circonspects. J'ai le sentiment que le mot blockchain est à double tranchant, il attire ou il fait fuir. Et pourtant, croyez-moi, cette technologie s'apprête à révolutionner bien des domaines, notamment celui du commerce en ligne.
+
+Avant d'aller plus loin, rappelons que la blockchain est la technologie qui a certes permis l'émergence des monnaies virtuelles, mais elle ne se limite pas aux crypto monnaies. La technologie en arrière est indépendante. La blockchain est en fait « une technologie de stockage et de transmission d'informations, transparente, sécurisée et fonctionnant sans organe central de contrôle". Une Blockchain peut donc être comparée à un grand livre comptable public, infalsifiable et p arfois anonyme. Ce registre n'est pas stocké sur un serveur central, mais est détenu par de multiples ordinateurs, simultanément.
+
+Vous suivez toujours ? Pour vulgariser au maximum, imaginez un grand livre dans lequel tout le monde peut écrire, mais où vous ne pouvez effacer aucune ligne !
+
+Et si vous êtes commerçant ou consommateur en ligne, je vous donne ici 5 exemples concrets de l'intérêt du blockchain :
+
+Bye Paypal, les intermédiaires et les frais de transaction !
+
+Un enjeu souvent évoqué par mes clients concerne ces frais. Et bien le blockchain va faire votre bonheur ! Il permet en effet de réaliser des transactions financières en ligne sans le moindre intermédiaire. La technologie rend ainsi inutiles les banques et tous les sites transactionnels de type Paypal.
+
+Puisque les échanges seront directs entre vendeurs et clients, fini les versements de commission à une plateforme de paiement.
+
+Puisque les échanges seront directs entre vendeurs et clients, fini les versements de commission à une plateforme de paiement. En clair, si vous faites du commerce en ligne à l'international, c'est une quasi économie de 4 % sur le chiffre d'affaires qui serait réalisable. Impressionnant non ?
+
+Des données protégées, confidentielles et un moindre risque de fraudes
+
+Avec la blockchain, vous avez l'assurance de rester maître de vos données personnelles. Cela revient à dire qu'un scandale comme Cambridge Analytica n'aurait jamais eu lieu. Au lieu de confier vos données personnelles et vos habitudes d'achat à un organe central, c'est vous qui décidez si vous les partagez et cela se passe seulement entre les deux parties de la transaction. Et il est quasi impossible de pirater vos informations, car les chaînes sont cryptées.
+
+Vers la fin des frais d'annulation et un meilleur dédommagement client ?
+
+Vous êtes fatigué d'avoir toujours mille papiers à remplir pour avoir un dédommagement alors que c'est votre droit de consommateur le plus strict ? Je vous comprends, les démarches sont tellement fastidieuses qu'il est tentant de renoncer. Mais imaginez qu'avec la blockchain il sera bien plus simple de vous dédommager si votre avion est annulé par exemple. Au lieu de remplir des formulaires, de les transmettre, de faire étudier votre demande et d'attendre des jours et des jours, le processus sera simplifié et automatique. Pour exemple, le prototype Insureth basé sur la blockchain Ethereum. En se branchant sur une base de données des heures d'arrivée réelles des avions et en comparant à l'heure d'arrivée théorique, on en déduit le niveau de retard et on met en place un déclencheur pour lequel l'indemnisation sera automatique.
+
+D'autres possibilités appliquées à la pollution, la météo, la circulation, etc. pourraient également être automatisées et ainsi réduire considérablement les délais et les démarches. Avouez que ça nous rendrait la tâche bien plus facile !
+
+Des programmes de fidélité enfin utiles et utilisés
+
+Vous êtes comme moi et avez tendance à cumuler vos points sans même vous en servir ? En créant un système de sauvegarde sécurisé et sans fraude, les applications Blockchain pourraient enfin vous permettre d'utiliser vos fameux points fidélités à un seul et même endroit.
+
+Complexes à gérer pour les commerçants et souvent inutilisés par les consommateurs, les programmes de fidélité seraient ainsi simplifiés. Vous pourriez, grâce au blockchain, céder vos points à quelqu'un d'autre, les convertir en monnaie virtuelle, les utiliser pour vos achats en ligne, etc.
+
+Un développement des marketplace décentralisés
+
+Je vous parle ici d'un point un peu plus technique, mais qui va bouleverser les habitudes des consommateurs et vendeurs en ligne. Si aujourd'hui Amazon et Ebay font figure de géants indétrônables dans le commerce en ligne, ils pourraient bien être dépassés, voire remplacés par des marketplace décentralisés grâce au blockchain. Quoi ? Amazon détrôné par le blockchain ??? Mais comment est-ce possible ?
+
+Explications. Aujourd'hui, nombreux sont les commerçants en ligne à avoir une boutique en ligne hébergée au sein d'Amazon ou Ebay. Le risque ? Être banni à tout moment si la plateforme met en place de nouvelles règles commerciales. Et croyez-moi, ça arrive plus souvent qu'on ne le croit ! Plusieurs compagnies ont déjà fait faillite, car la majorité de leurs ventes passaient par ces plateformes et qu'elles ont été bannies ! Grâce au blockchain, ces marketplace seraient ouvertes et décentralisées (comme ww.openbazaar.org), elles n'appartiendraient plus à un seul et unique géant ! Le risque d'être banni s'éliminerait. Les enjeux sont donc grands et si on ajoute à cela que sur ces marketplace ouverts, les commissions seront inexistantes et les risques de fraudes diminués, l'avantage consommateur sera grand lui aussi ! Et qui direz non à quelques économies ?
+
+Les exemples concrets que je viens de vous citer montrent à quel point cette technologie est prometteuse, que ce soit du côté client ou commerçant. Certes, c'est une technologie encore perfectible, mais elle est aujourd'hui ce qu'était Internet en 1992, un vaste champ de possibilités qui reste à explorer et à appliquer concrètement. Mon constat c'est que dans les deux cas, on assiste au même phénomène social : on dépasse la simple révolution technologique, on assiste à un réel remaniement des façons de faire, à un bouleversement des rôles et des structures sociales. Le changement en cours est tel qu'il est difficilement imaginable pour la plupart d'entre nous. Mais la blockchain est synonyme d'avenir et qu'on le veuille ou non, elle va profondément modifier nos habitudes de consommation en ligne. Personnellement, j'ai fait le choix de prendre le train en marche, et vous ?

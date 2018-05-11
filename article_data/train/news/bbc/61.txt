@@ -1,0 +1,80 @@
+Why our facial expressions don’t reflect our feelings
+While conducting research on emotions and facial expressions in Papua New Guinea in 2015, psychologist Carlos Crivelli discovered something startling.
+
+He showed Trobriand Islanders photographs of the standard Western face of fear – wide-eyed, mouth agape – and asked them to identify what they saw. The Trobrianders didn’t see a frightened face. Instead, they saw an indication of threat and aggression.
+
+In other words, what we think of as a universal expression of fear isn’t universal at all. But if Trobrianders have a different interpretation of facial expressions, what does that mean?
+
+You might also like:
+
+• There are 19 types of smile but only 6 are for happiness
+
+• How your face betrays your personality – and health
+
+• The 'untranslatable' emotions you never knew you had
+
+One emerging – and increasingly supported – theory is that facial expressions don’t reflect our feelings. Instead of reliable readouts of our emotional states, they show our intentions and social goals.
+
+Our faces are ways we direct the trajectory of a social interaction – Alan Fridlund
+
+The face acts “like a road sign to affect the traffic that’s going past it,” says Alan Fridlund, a psychology professor at University of California Santa Barbara who co-authored a recent study with Crivelli arguing for a more utilitarian view of facial expressions. “Our faces are ways we direct the trajectory of a social interaction.”
+
+That’s not to say that we actively try to manipulate others with our facial expressions (though every once in a while, we might). Our smiles and frowns may well be instinctive.
+
+But our expressions are less a mirror of what’s going on inside than a signal we’re sending about what we want to happen next. Your best ‘disgusted’ face, for example, might show that you’re not happy with the way the conversation is going – and that you want it to take a different tack.
+
+“It’s the only reason that makes sense for facial expression to have evolved,” says Bridget Waller, an evolutionary psychology professor at the University of Portsmouth. Faces, she says, are always “giving some sort of important and useful information both to the sender… and to the receiver.”
+
+While it may seem sensible, this theory has been a long time coming.
+
+The idea that emotions are fundamental, instinctive and expressed in our faces is deeply ingrained in Western culture. Ancient Greeks placed the ‘passions’ in opposition to reason; in the 17th Century, philosopher René Descartes laid out six basic passions which could interfere with rational thought. Artist Charles Le Brun then connected them to the face, laying out “the anatomically correct and appropriately nuanced facial configuration for each Cartesian passion”, write Crivelli and Fridlund.
+
+In the 1960s and ’70s, scientific research also began to back up the idea that a few basic emotions could be universally understood through facial expressions.
+
+In different countries around the world, researcher Paul Ekman asked subjects to match photos of facial expressions with emotions or emotional scenarios. His studies seemed to indicate that some expressions, and their corresponding feelings, were recognised by people of all cultures. (These “basic emotions” were happiness, surprise, disgust, fear, sadness, and anger.) Today, the legacy of Ekman’s theories is everywhere: from the “Feelings” posters you see in preschools with their cartoons of smiles and frowns to a US government programme designed to identify potential terrorists.
+
+But this viewpoint has always had detractors. Margaret Mead, who believed that our expressions were learned behaviours, was among them. So was Fridlund, who early in his
+
+career collaborated on two articles with Ekman before becoming disillusioned with Ekman’s ideas.
+
+Face-off
+
+New research is challenging two of the main pillars of basic emotion theory. First is the idea that some emotions are universally shared and recognised. Second is the belief that facial expressions are reliable reflectors of those emotions. “They are two different points which have really been confounded by scholars,” says Maria Gendron, a psychology researcher at Northeastern University soon joining the Yale University faculty.
+
+That new research includes recent work by Crivelli. He has spent months immersed with the Trobrianders of Papua New Guinea as well as the Mwani of Mozambique. With both indigenous groups, he found that study participants did not attribute emotions to faces in the same way Westerners do.
+
+It was not just the face of fear, either. Shown a smiling face, only a small percentage of Trobrianders declared that the face was happy. About half of those who were asked to describe it in their own words called it “laughing”: a word that deals with action, not feeling. And several described the smiling face as displaying the “magic of attraction”, a uniquely Trobriand-identified emotion that Crivelli describes as “a raptured enchantment”, or a feeling of being positively impacted by magic.
+
+Gendron found similar reactions while studying other indigenous groups – the Himba people in Namibia and the Hadza in Tanzania. Both groups, when asked to describe a facial expression in their own words, tended not to describe an expression as “happy” or “sad”. Instead, they would focus on the actions of the people in the photographs (describing them as laughing or crying) or extrapolate reasons for the expressions (“Someone has died”).
+
+In other words, neither researcher found evidence that what is behind a facial expression – including whether an expression reflects an innermost emotion at all – is innately or universally understood.
+
+Researchers found that a minority of people’s faces reflected their actual feelings
+
+Making matters more complicated, even when our facial expressions are interpreted by others as exhibiting a certain feeling, they might pinpoint an emotion we’re not actually experiencing.
+
+In a 2017 analysis of about 50 studies, researchers found that only a minority of people’s faces reflected their actual feelings. According to co-author Rainer Reisenzein, there was one strong exception: amusement, which almost always resulted in smiling or laughter.
+
+Reisenzein hesitates to interpret what those findings mean. “I’m one of these old-fashioned scientists who just do research,” he jokes. However, he does feel that there are good evolutionary reasons for us not to reveal our inner states to other people: “It puts us at a disadvantage.”
+
+If our expressions don’t actually reflect our feelings, there are enormous consequences.
+
+One is in the field of artificial intelligence (AI), specifically robotics. “A good number of people are training their artificial intelligence and their social robots using these classic ‘poster’ faces,” says Fridlund. But if someone who frowns at a robot is signalling something other than simple unhappiness, the AI may respond to them incorrectly.
+
+“There’s no way to predict how the robot should react when it sees a smiley face or a pouty face or a growling face,” Fridlund points out. “You have to have some kind of knowledge of the person’s role with respect to you, and also your history together, before knowing what that face means.” Fridlund, who consults with companies that develop AI, feels that AI taught to draw from contextual cues will be more effective.
+
+For most of us, though, the new research may have most of an effect on how we interpret social interactions. It turns out that we might communicate better if we saw faces not as mirroring hidden emotions – but rather as actively trying to speak to us.
+
+People should read faces “kind of like a road sign,” says Fridlund. “It’s like a switch on a railroad track: do we go here or do we go there in the conversation?” That scowl on your friend’s face may not be actual anger; maybe she just wants you to agree with her point of view. Your son’s pout doesn’t necessarily reflect sadness; he may just want you to empathise or to protect him from an uncomfortable situation.
+
+An inappropriately-timed laugh might show that you’re not paying close attention to the conversation, or may even signal hostility
+
+Take laughter, says Waller: “when you laugh and how you laugh within a social interaction is absolutely crucial.” An inappropriately-timed laugh might not reveal your inner joy at what’s going on – but it might show that you’re not paying close attention to the conversation, or may even signal hostility.
+
+For Crivelli, our faces may even be more calculating than that. He compares us to puppeteers, with our expressions like “invisible wires or ropes that you are trying to use to manipulate the other.”
+
+And, of course, that other person is manipulating us right back. We’re social creatures, after all.
+
+Join 500,000+ Future fans by liking us on Facebook, or follow us on Twitter, Google+, LinkedIn and Instagram
+
+If you liked this story, sign up for the weekly bbc.com features newsletter, called “If You Only Read 6 Things This Week”. A handpicked selection of stories from BBC Future, Earth, Culture, Capital, Travel and Autos, delivered to your inbox every Friday.

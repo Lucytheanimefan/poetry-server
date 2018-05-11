@@ -1,0 +1,42 @@
+Accused robocall 'kingpin' fined a record $120 million
+The Federal Communications Commission has imposed a record fine on a Florida man who is accused of placing nearly 100 million robocalls.
+
+The FCC said on Thursday that it was fining Adrian Abramovich of Miami $120 million for posing a threat to public safety with the "illegal" calls. The FCC, in a citation from June 22, 2017, said the robocalls went to "critical emergency phone lines" used by hospitals and medical providers, as well as cell phones and residential phones, without the recipients' consent.
+
+"The evidence indicates that Abramovich is the perpetrator of one of the largest—and most dangerous—illegal robocalling campaigns that the Commission has ever investigated," said the FCC in its complaint.
+
+Robocalls are automated telemarketing calls that the FCC considers illegal, unless the recipient agrees to be called.
+
+The complaint says that Abramovich made 96 million robocalls during a three-month period in 2016 as a part of "telemarketing scheme." In the 2017 complaint, he's accused of using "neighbor spoofing" to get people to answer the calls, by falsely presenting the calls as coming from a local number.
+
+The robocalls offered discounted travel services to Mexico, the Caribbean and Florida, from Expedia (EXPE), Marriott (MAR), Hilton (HLT) and TripAdvisor (TRIP), according to the complaint. The FCC said these "spoofed" calls had nothing to do with these companies, and are considered wire fraud.
+
+"Abramovich tarnished the good will of these companies," the FCC said in the complaint. The fine on Abramovich is the largest ever imposed by the FCC, the agency said.
+
+A spokesperson for TripAdvisor told CNNMoney that it became aware in 2015 that some US consumers were receiving fake recorded calls "that illegally claimed to be associated with our brand" and the company had been working with the FCC to stop it.
+
+"The list of brands impersonated by these fraudsters goes well beyond TripAdvisor and reads like a who's who of well-known airlines, hoteliers and online travel agents," said TripAdvisor in a statement.
+
+Related: FCC cracks down on robocalling
+
+Abramovich, whose lawyer did not immediately return messages from CNNMoney, has denied the accusations of fraud.
+
+The Senate Committee on Commerce, Science and Transportation called Abramovich to testify last month in a hearing called "abusive robocalls and how we can stop them."
+
+"The extent of my activities has been significantly overstated," he said in his testimony. "I am not the kingpin of robocalling that is alleged."
+
+He also maintained that the offers were real. "The resorts associated with my telemarketing activities were indeed real resorts, offering real vacation packages," he said.
+
+Last year, the FCC voted for new rules allowing the phone companies to block robocall spoofing.
+
+The FCC also said the number one complaint it receives from consumers are about robocalls.
+
+"But it's still happening and we're still getting them," said Michael Inouye, analyst for ABI Research. "The laws don't appear to be particularly effective."
+
+Related: Apple, Google, Microsoft form robocall 'strike force'
+
+But Inouye said that it might be possible to cut back on robocalling, with proper coordination between the FCC and communications companies.
+
+Apple (AAPL), Google (GOOG) and Microsoft (MSFT) joined a "strike force" in 2016 to try and reduce robocalls, at the direction of the FCC.
+
+"I don't know if it's possible to make it go away completely, but you can definitely do things to reduce the number of calls you get today," he said.

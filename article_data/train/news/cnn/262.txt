@@ -1,0 +1,50 @@
+These companies are getting killed by GDPR
+Europe's new data protection law is coming into effect on May 25. For some companies, that means closing up shop.
+
+The cost of complying with the new law has already forced an online game producer, a small social network and a mobile marketing firm to close key businesses or shut down entirely.
+
+The EU General Data Protection Regulation (GDPR) applies to any organization that holds or uses data on people inside the European Union, regardless of how big they are or where are they based.
+
+Google (GOOGL), Facebook (FB) and other big tech companies will be affected by the changes, but experts say that smaller competitors are finding it much harder to comply.
+
+Julie Bernard, chief marketing officer at Verve, said that the mobile marketer would shutter its operations in Europe because "the regulatory environment is not favorable to our particular business model."
+
+She said that while the new law would benefit consumers, it may also advantage large companies with the resources -- lawyers, data experts and programmers -- needed to make the transition.
+
+"The implications and ramifications of GDPR compliance will challenge numerous organizations ... with resources on scales smaller than, say -- and in particular -- Facebook and Google," said Bernard.
+
+The new rules give Europeans more control over their personal data.
+
+In many cases, companies need consent to process that information. They won't be allowed to store the data for longer than necessary, and they must respond to requests from customers who want their data deleted. Data breaches must be promptly reported.
+
+Companies may also have to prove they are handling data correctly, meaning increased monitoring and documentation. Some may have to hire data protection officers.
+
+Complying with the new regulations isn't cheap, and experts say the world's biggest companies are spending tens of millions of dollars to prepare. Smaller companies that do not have the same resources are struggling.
+
+"[They] don't have the apparatus and the team in place to actually really continuously support this kind of compliance," said Chris DeRamus, the chief technology officer at DivvyCloud.
+
+Related: Under 16? You're banned from WhatsApp in Europe
+
+Uber Entertainment, which makes online games, will shut down its Super Monday Night Combat game on May 23 because of GDPR.
+
+The company said it would cost too much to rewrite the game, or migrate it onto a different platform. The current design, which was built in 2009, makes it difficult to delete data from user accounts.
+
+"We'll keep playable for as long as we are legally allowed to, but the day GDPR hits, we'll pull it down so as to be in compliance," said Jeremy Ables, CEO of Uber Entertainment.
+
+Gravity Interactive, the maker of Ragnarok and Dragon Saga games, is taking a different approach: It will block Europeans from accessing its games.
+
+Czech internet company Seznam.cz has said it will shutter its social network for classmates because of the regulation. It said the platform, which has 20,000 daily active users, would have to change completely in order to comply with the regulations.
+
+Related: Your inbox is being flooded with emails about privacy. Here's why
+
+European lawmakers have pushed back on suggestions that GDPR could give the biggest tech companies an advantage over smaller rivals.
+
+Giovanni Buttarelli, the European Union's data protection supervisor, said that the biggest companies will also face the largest fines if they violate the rules.
+
+The regulators can impose penalties on companies of up to €20 million ($25 million) or 4% of annual global sales, whichever is bigger.
+
+"Accountability and obligations in the GDPR are scalable, with data protection authorities empowered to enforce the law with rigor proportionate to the scale of the violation," Buttarelli said in a statement.
+
+Related: Will the US regulate Facebook? Europe is about to do just that
+
+Experts say some smaller companies outside Europe might not yet realize that they have to comply with GDPR, because similar rules don't exist in their home market.

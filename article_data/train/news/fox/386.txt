@@ -1,0 +1,20 @@
+Fatal Florida Tesla crash being looked at by NHTSA
+The National Transportation Highway Traffic Safety Administration (NHTSA) is "gathering information" about the fiery crash of a Tesla Model S in Fort Lauderdale, Fla., that killed two high school students in the vehicle and seriously injured a third who was thrown from it.
+
+The inquriy announced on Thursday comes on top of a probe already in progress by the National Transportation Safety Board (NTSB), an advisory agency with no enforcement powers.
+
+The NTSB is looking into the cause of the fire and the emergency response. The vehicle reportedly burned very rapidly, preventing rescuers from reaching the two 18-year-olds, Barrett Riley and Edgar Monserratt Martinez, who were trapped inside.
+
+NHTSA said that it will be “gathering information on the tragic crash in Fort Lauderdale to understand all of the facts. The agency will take appropriate action based on its review.”
+
+The accident occurred on Tuesday night. Witnesses told The Sun-Sentinel that the car, which appeared to be speeding, sideswiped a concrete wall and started burning before it came to a stop across the road and became engulfed in “unusual” red-orange flames coming from its battery pack.
+
+Neither the federal agencies, nor Tesla, suspect that the company’s semi-autonomous Autopilot feature played a role in the accident, which occurred on a dangerous bend in the road that some locals refer to as the “curve of death.” However, the data needed to confirm that the feature was not in use has not yet been retrieved from the vehicle.
+
+The Tesla Model S uses a large lithium-ion battery pack that is designed to prevent the type of runaway fire described in the Florida crash, but that can burn at high temperatures and can be difficult to extinguish if it is badly damaged in a collision.
+
+A recent investigation by KTVU news looking at another high-profile Tesla crash that took place in Mountain View, Calif., in March found that the battery pack, which suffered a much smaller fire than the Fort Lauderdale incident, reignited several times in the two weeks following the crash, until it was de-energized with help from Tesla.
+
+Autopilot was in use during that accident, which claimed the life of Apple engineer Walter Huang, and several investigations into it are ongoing.
+
+An earlier version of this story did not make it clear that NHTSA's action does not yet constitute a formal probe.

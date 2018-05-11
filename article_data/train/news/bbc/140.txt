@@ -1,0 +1,56 @@
+What can Spotify tell us about the economy?
+This story is from Front Row on BBC Radio 4. It was presented by Kirsty Lang and produced by Edwina Pitman. To listen to more episodes of Front Row, please click here. Adapted by Sarah Keating.
+
+One week in we let the story begin
+
+We're going out on our first date
+
+You and me are thrifty, so go all you can eat
+
+Fill up your bag and I fill up a plate
+
+It is doubtful that Ed Sheeran and his song-writing partners were thinking about the global economy when writing these lyrics from the song Shape of You.
+
+However, as the most played song to date on music streaming service Spotify, researchers and policy makers are beginning to think it’s data like this that can give a valuable insight into the mood – and therefore behaviour – of consumers.
+
+Andy Haldane, the Bank of England’s chief economist, who is tasked with monitoring the country’s economic data, says that if economists want to understand what is happening, they should focus on new areas of ”big data” alongside more traditional sources.
+
+He made the point in a recent speech that “it is estimated that 90% of all data ever created occurred in the past two years. A good chunk has come courtesy of social media.”
+
+It is estimated that 90% of all data ever created occurred in the past two years
+
+“Capturing people’s true sentiments and preferences is devilishly difficult,” he continued in his speech. “Traditional surveys of market participants or the general public tend to be biased in their sampling and framed in their responses…these realities may call for exploring non-traditional means of revealing people’s preferences and sentiments.”
+
+The BBC’s economics editor Kamal Ahmed says that although he does not think Haldane is advocating the abandonment of old-fashioned traditional economics, but that he is right to question the efficacy of methods such as surveys as a way of understanding how the economy is operating.
+
+“We ask people on a scale of one to 10 how do you feel about X, Y and Z, and that clashes with how people behave,” Ahmed says. “Behavioural economics has come much more into the discipline of economics. Understanding how economies operate is much more about how we feel rather than what we think we are doing, and we’re not rational beings.”
+
+This is where music choices come in as Haldane points to recent research that used data collected from the US Billboard top 100 and the UK’s Official Charts Company. Both charts are composed of the top 100 songs with the highest number of plays on public radio and online streaming music services, and the highest amount of dollar sales.
+
+Researchers at Claremont Graduate University took data from 2000 to 2016 and were able to categorise songs by labels such as energy, danceability, loudness and valence (positivity or negativity) via Spotify Developer API, which creates algorithms in order to suggest songs, and personalised playlist to users.
+
+The results showed that the positivity and energy of the most popular songs has been falling since 2000, while the tempo and loudness has remained stable. Surprisingly, danceability seems to be on the up.
+
+They were also able to analyse song lyrics in order to categorise songs into eight sentiments: joy, sadness, anger, fear, disgust, surprise, trust and anticipation. In looking at the songs most popular during the difficult global financial crisis of 2008, they found that songs with lyrics associated with anticipation, disgust, sadness, fear and anger peaked in popularity from 2008 to 2009 and then began to fall after that date. According to the research, “these plots indicate that individuals are projecting their current states of mind into the music they choose to listen to.”
+
+The BoE’s chief economist is keen to note the significance of the results and noted another interesting finding in the research. “Intriguingly, the resulting index of sentiment does at least as well in tracking consumer spending as the Michigan survey of consumer confidence,” he says, referring to the University of Michigan’s long running monthly index in the US which gives a nationally representative of consumer sentiment which has implications for the value of stocks and bonds.
+
+People’s tastes in books, TV and radio may also offer a window on their soul
+
+“And why stop at music?” asks Haldane. “People’s tastes in books, TV and radio may also offer a window on their soul. So too might their taste in games.” He points to EVE Online and World of Warcraft as examples of games with their own virtual markets that offer economists the opportunity for learning more about spending behaviour.
+
+So, what can the music we stream and the pop cultural preference reveal about our consumer behaviour? The top three tunes in 2017 were Ed Sheeran’s Shape of You, Despacito by Luis Fonsi featuring Daddy Yankee and Justin Bieber, and Something Like This by the Chainsmokers featuring Coldplay. Uptempo and poppy – does this mean the economy is in a good state given that science has found the reverse to be true, that we tend to listen to melancholy music when we are feeling sad?
+
+Kamal Ahmed says we cannot jump to conclusions just yet as the world is still changing at a rapid rate.
+
+“The problem is that Bank of England data sets [and] theories go back decades, centuries and therefore you can judge these things over a longer period of time.”
+
+He warns that the old adage that “correlation does not imply” remains. “Finding a correlation in a year may not be true in five years’ time so you have to be very careful,” he says.
+
+“You can almost find anything if you look hard enough because there are billions of bits of data produced every single day but it’s important that we understand sentiment and about the economy in a slightly more 21st-Century way.
+
+--
+
+To comment on this story or anything else you have seen on BBC Capital, please head over to our Facebook page or message us on Twitter.
+
+If you liked this story, sign up for the weekly bbc.com features newsletter called "If You Only Read 6 Things This Week", a handpicked selection of stories from BBC Future, Culture, Capital and Travel, delivered to your inbox every Friday.

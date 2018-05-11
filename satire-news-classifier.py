@@ -38,7 +38,7 @@ class SatireNewsScraper:
             article.download()
             article.parse()
             if previous_title != article.title:
-                with open(directory + str(start_index + i) + '.txt', 'w') as f:
+                with open(directory + str(start_index + i + 1) + '.txt', 'w') as f:
                     previous_title = article.title
                     print(str(i) + ': ' + article.title)
                     f.write(article.title + '\n' + article.text)

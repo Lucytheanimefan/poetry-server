@@ -1,0 +1,2 @@
+Humanoid robot runs through the park by itself
+Boston Dynamics released new video of two of the company's robots, Atlas and SpotMini showing off some new features like running and autonomous navigation.

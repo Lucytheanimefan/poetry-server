@@ -1,0 +1,100 @@
+Would you pay for an ad-free internet?
+Image copyright Getty Images Image caption Is that a genuine ad on your tablet or a link to a dangerous phishing site full of malware?
+
+The digital advertising industry is in crisis: ad fraud is rife, many online ads are never even seen and ad blocking software is threatening to undermine the internet's fundamental business model.
+
+So how did it get into this mess and what is it doing about it?
+
+Digital advertising has lost credibility, say many observers, and unless the industry can sort itself out, we may all end up paying for content.
+
+Even Facebook's Mark Zuckerberg, reeling from the Cambridge Analytica data privacy scandal, hinted that paying for the social media platform might be the only way to ensure a totally private, ad-free experience.
+
+Scott Knoll, chief executive of Integral Ad Science, one of the biggest digital ad measurement companies in the world, explains that at the dawn of digital advertising more than 20 years ago "we made a couple of fundamental mistakes that have come back to haunt us".
+
+One was the assumption that an ad being served to a website counted as an "impression" whether or not anyone clicked on it or even saw it. This metric was "pretty meaningless", Mr Knoll admits, yet became a measure that dictated how publishers and third party ad servers were paid.
+
+The second assumption was that a click on an ad was the same as someone actually buying the product being sold.
+
+"This created a lot of false hope, and a lot of false data," he says.
+
+Image copyright Verbalisation Image caption Verbalisation's Sven Hughes thinks the digital ad industry has been "selling rubbish"
+
+This inaccurate data informed a lot of ad campaigns whose effectiveness was impossible to ascertain, argues Sven Hughes, chief executive of "psychometric" marketing company Verbalisation.
+
+"We've basically been sitting on an industry that for 20 years has been selling rubbish. It's really in trouble…it's falling apart."
+
+Bad experiences
+
+These original assumptions opened the door to fraudsters who fiddled the system, claiming that ads were being seen by far more people than they were and proving more effective than they were.
+
+"So advertising became about quantity not quality," says Mr Knoll. "People were bombarded with cookies and ads and this contributed to bad experiences for the consumer and the wrong metrics given to advertisers."
+
+If ads didn't even have to be seen to earn money for the firms delivering or hosting them, it meant automated programmes, or bots, could deliver thousands of tiny ads in a pixel by pixel dot on a webpage and still earn money.
+
+Image copyright Flashtalking Image caption Flashtalking's John Nardone admits that fraud was a big problem for digital advertising
+
+"With the advent of programmatic [automated] buying - taking human beings out of the equation - it created an opportunity for bad actors to create bots to game the system," says John Nardone, chief executive of Flashtalking, an ad effectiveness measurement company.
+
+Mr Nardone is credited with putting the first paid ads on the internet in 1994 for Wired magazine. He also pioneered programmatic advertising.
+
+These bots grew in sophistication, even mimicking human behaviour - filling out online forms or scrolling down pages - pretending to be you looking at all those ads on thousands of websites you'd never visited.
+
+Advertisers would pay top dollar to buy space on a reputable website only for the ad to be diverted to some much cheaper, possibly criminal or inappropriate site, with the fraudulent ad server pocketing the difference.
+
+Unseen adverts
+
+Another serious issue is that many ads are not even viewable on a website because of bad website design or because users don't scroll down the page.
+
+The World Federation of Advertisers, whose members spend about $900bn a year, says less than half of display adverts are seen properly. "Visibility", as it's known in the industry, is defined as 50% of the ad's surface area in view for a second, or two seconds if it is a video.
+
+This means that a lot of money being spent of digital ads is just being poured down the drain.
+
+As US 19th Century retailer and marketing pioneer John Wanamaker famously said: "Half the money I spend on advertising is wasted; the trouble is I don't know which half."
+
+Digital was meant to be the answer to this conundrum because of its measurability.
+
+More Technology of Business
+
+Image copyright Magnum Photos
+
+One of the issues is that verification companies - the firms measuring and verifying digital ad performance - have different methods of doing it, says the WFA.
+
+A further problem is that many of the ads we see aren't really ads at all - they're clickbait pretending to be legitimate but really drawing us towards malware-laden phishing sites looking to harvest our personal details and infect our computers.
+
+In 2017, Google removed 3.2 billion "bad ads", nearly double the number it removed in 2016. Offenders included marketing sites pretending to be news, fake or copied websites, and ads directing people to sites loaded with malware.
+
+Advertisers have also struggled with the issue of their "programmatically" served ads appearing on inappropriate websites that could damage their brand reputation. One answer to this is linguistic analysis of the target webpages to assess whether the content is unsuitable.
+
+There are companies who provide this service, such as Oracle-owned Grapeshot, but it costs, so many brands don't bother.
+
+Remedial measures
+
+But the industry is now getting its act together, argues Jochen Schlosser chief strategy officer at AdForm, an ad technology platform.
+
+"The industry is moving very fast against botnets and ad fraud," he says. "There was a lack of transparency that is being addressed now."
+
+Publishers can now digitally sign their inventory, or website ad slots, so they can't be faked, for example.
+
+Image copyright Adblock Plus Image caption Annoying pop-up ads have encouraged more of us to use blocking software like Adblock Plus
+
+"Industry-wide standards, certifications and regulations have emerged from trusted third parties, like Trustworthy Accountability Group and the Internet Advertising Bureau (IAB) to enable marketers and publishers to make smart decisions about who they partner with," says Gavin Stirrat from OpenX, a programmatic ad platform.
+
+And ad verification companies like IAS say they are tackling the fraud issue by wielding the power of big data analytics to spot dodgy patterns of behaviour - thousands of computers following the same instructions, for example.
+
+"Now security companies can tell if it's fraud, if the ad is in the right context, and whether it was ever viewable," says Mr Nardone.
+
+Growth story
+
+Despite all these challenges, digital advertising "will continue to grow because money goes where the eyeballs are," concludes Mr Schlosser.
+
+The IAB, which represents more than 650 media and technology firms around the world, says US digital ad revenues topped $40bn in the first half of 2017, a 23% rise on the same period the year before.
+
+Image copyright Getty Images Image caption Could new technologies help mobile become more useful and less intrusive?
+
+As smartphone usage continues to rise, more than half of this digital ad revenue now comes from mobile. Five years ago it accounted for 7%. And video is driving this increase in mobile ad spend and revenue, the IAB says.
+
+"If clients weren't getting measurable benefit they wouldn't be spending billions of dollars on it, so something is going right," concludes Mr Knoll.
+
+But a lot has been going wrong, so unless the industry can create less intrusive, more entertaining digital ads, more us may resort to ad and cookie blocking software.
+
+Ironically, this could mean we all end up paying for content.

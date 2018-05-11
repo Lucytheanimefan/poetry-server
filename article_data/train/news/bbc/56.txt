@@ -1,0 +1,34 @@
+Google to warn when humans chat with convincing bots
+Image copyright Google Image caption The bot demo was warmly welcomed by the audience at the Google I/O developer conference
+
+Google says it will take steps to ensure that humans are not fooled when they get called by software bots that can convincingly mimic the human voice.
+
+Anyone called by the bot will be told they are conversing with a machine, Google told tech news site the Verge.
+
+The vocal skills of the Duplex bot were demonstrated at Google's I/O developer conference this week when it was shown booking a hair appointment.
+
+The demo left one technology expert "horrified" by what she had seen.
+
+Social impact
+
+In its statement, Google said it valued the discussion the demonstration had fostered and said "transparency" around the use of the technology was important.
+
+"We are designing this feature with disclosure built-in, and we'll make sure the system is appropriately identified," it said.
+
+The on-stage unveiling involved the Duplex software conducting a conversation with a hair salon receptionist. The computer-generated voice used pauses, colloquialisms and circumlocutions usually present in human speech.
+
+The voice was under control of Google's DeepMind WaveNet software that has been trained using lots of conversations so it knows what humans sound like and can mimic them effectively.
+
+Google said the software was developed to have "natural" conversations and would be able to accomplish real-world tasks for people via their phones.
+
+In its statement, Google said it welcomed feedback about the project that would be used to fine-tune the finished version.
+
+The demo was called "horrifying" by Zeynep Tufekci, an associate professor at the University of North Carolina who regularly comments on the ways technology and society impact on each other.
+
+In a tweet, Prof Tufekci said the idea of mimicking human speech so realistically was "horrible and obviously wrong".
+
+In a later comment, she added: "This is straight up, deliberate deception. Not okay."
+
+Skip Twitter post by @zeynep As digital technologies become better at doing human things, the focus has to be on how to protect humans, how to delineate humans and machines, and how to create reliable signals of each—see 2016. This is straight up, delilberate deception. Not okay. https://t.co/XTUn4tvDik — zeynep tufekci (@zeynep) May 9, 2018 Report
+
+Prof Tufekci said she was surprised that the WaveNet project got as far as a public demonstration and wondered why it had not been quashed internally during development.

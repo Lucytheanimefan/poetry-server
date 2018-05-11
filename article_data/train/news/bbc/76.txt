@@ -1,0 +1,40 @@
+Tech Tent: Appointment with a machine
+Image copyright Getty Images
+
+Will a virtual assistant soon be booking you a restaurant table and chatting with your hairdresser about when they can fit you in?
+
+That was the vision of the near future unveiled by Google this week, and on the Tech Tent podcast we discuss whether it is either realistic - or desirable.
+
+Google's annual I/O developer conference is where it often unveils cutting-edge technology that may not be quite ready for commercial deployment. Google Glass, for example, made a spectacular debut with live-streaming skydivers a few years ago.
+
+Stream or download the latest Tech Tent podcast
+
+Listen live every Friday at 15.00 GMT on the BBC World Service
+
+This year's star turn was Google Duplex, described by the company as artificial intelligence "for accomplishing real-world tasks over the phone".
+
+The audience heard a recording of a conversation of a woman calling a hairdressing salon to book an appointment "for a client". She negotiates her way to a 10:00 slot after finding her first choice is not available, with a good deal of umm-ing and ahh-ing along the way.
+
+The "woman" is actually a chatbot with a remarkably human way of speaking. Our reporter at the event Dave Lee says the crowd in the hall were first puzzled by what they heard, then delighted, letting out a huge cheer.
+
+It was an impressive demonstration of the advances Google is making in artificial intelligence. But away from the event, people began to ask questions. Just how realistic was this demo and how was it staged? Were there some calls that did not go as smoothly?
+
+Media playback is unsupported on your device Media caption Watch: Google's voice assistant in action
+
+And is this technology ready to go or years away from deployment? Would it not be easier in any case to use an app to book an appointment rather than set a chatbot to work?
+
+There were also ethical questions about whether we are comfortable about letting people believe they are speaking to another human rather than a robot.
+
+When I compared Duplex to the infuriating robot callers who ring me asking, "Have you been in an accident that wasn't your fault?" I was called a "tech miserablist" on Twitter.
+
+But Google appears to have woken up to this issue, telling the Verge: "We are designing this feature with disclosure built-in, and we'll make sure the system is appropriately identified."
+
+This week's Tech Tent comes live from The Future Starts Here, an exhibition at London's V&A Museum that addresses the very issues about our relationship with technology that Google Duplex raises.
+
+Showing me around, co-curator Mariana Pestana points to a display of intelligent devices - the Amazon Echo, the Jibo domestic robot - that are already entering our homes.
+
+"Every new technology, every new object contains possibilities that nobody can anticipate, not even their creators," she says.
+
+She says we are now getting used to domestic appliances that can talk to you, care for you - even love you. "We want you to think about how that makes you feel."
+
+Artificial intelligence is entering our lives in all sorts of ways, many of them unseen. Just how we handle this ever more intimate relationship with machines like Google's Duplex is going to be one of the major issues of the next decade.
