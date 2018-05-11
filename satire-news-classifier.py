@@ -15,7 +15,7 @@ def latest_article_number(file_directory):
     if len(files) == 0:
         return 0
     files.sort()
-    print(files)
+    #print(files)
     return files[-1]
 
 class SatireNewsScraper:
@@ -55,7 +55,7 @@ class SatireNewsClassifier:
         self.target_index = []
         self.test_data = []
         self.test_target_index = []
-        self.targets = ['onion', 'cnn', 'huffpost', 'nytimes', 'yahoo']
+        self.targets = ['onion', 'fox', 'cnn']
 
     def generate_data(self, train_or_test):
         base_directory = 'article_data/' + train_or_test + '/news/'
@@ -113,21 +113,29 @@ class SatireNewsClassifier:
         predicted = self.text_clf.predict(self.test_data)
         print('Performance:')
         print(np.mean(predicted == self.test_target_index))
+        print('--Predicted vs actual--')
+        confusion_matrix = [[0]*len(self.targets) for n in range(len(self.targets))]#[[0] * len(self.targets)]*len(self.targets)
         for i, predict in enumerate(predicted):
-            print(self.targets[predict] + ', ' + self.targets[self.test_target_index[i]])
+            confusion_matrix[predict][self.test_target_index[i]] += 1
+        print('Confusion matrix:')
+        print(self.targets)
+        for row in confusion_matrix:
+            for elem in row:
+                print(elem, end=' ')
+            print('')
 
 
 
 if __name__ == '__main__':
     #print(latest_article_number('article_data/train/news/bbc'))
-    generate_data = True
-    classify = False
+    generate_data = False
+    classify = True
     if classify:
         print('Classify')
         classifier = SatireNewsClassifier()
         classifier.generate_data('train')
         classifier.generate_data('test')
-        classifier.train('grid_search')
+        classifier.train('svm')
         print('***Trained***')
         classifier.performance()
 
@@ -136,21 +144,22 @@ if __name__ == '__main__':
         print('Generate ' + data_type + ' data')
         scraper = SatireNewsScraper()
         #scraper.scrape_news()
-        p0 = Process(target=scraper.scrape_news, args=('http://www.bbc.com', data_type + '/news/bbc',))
-        p1 = Process(target=scraper.scrape_news, args=('http://www.foxnews.com', data_type + '/news/fox',))
-        p2 = Process(target=scraper.scrape_news, args=('https://www.yahoo.com/news/', data_type + '/news/yahoo',))
-        p3 = Process(target=scraper.scrape_news, args=('http://huffingtonpost.com', data_type + '/news/huffpost',))
-        p4 = Process(target=scraper.scrape_news, args=('https://www.nytimes.com', data_type + '/news/nytimes',))
-        p5 = Process(target=scraper.scrape_news, args=('http://cnn.com', data_type + '/news/cnn',))
-        p6 = Process(target=scraper.scrape_news, args=('http://washingtonpost.com', data_type + '/news/wapost',))
+        # p0 = Process(target=scraper.scrape_news, args=('http://www.bbc.com', data_type + '/news/bbc',))
+        # p1 = Process(target=scraper.scrape_news, args=('http://www.foxnews.com', data_type + '/news/fox',))
+        # p2 = Process(target=scraper.scrape_news, args=('https://www.yahoo.com/news/', data_type + '/news/yahoo',))
+        # p3 = Process(target=scraper.scrape_news, args=('http://huffingtonpost.com', data_type + '/news/huffpost',))
+        # p4 = Process(target=scraper.scrape_news, args=('https://www.nytimes.com', data_type + '/news/nytimes',))
+        # p5 = Process(target=scraper.scrape_news, args=('http://cnn.com', data_type + '/news/cnn',))
+        # p6 = Process(target=scraper.scrape_news, args=('http://washingtonpost.com', data_type + '/news/wapost',))
+        # p0.start()
+        # p1.start()
+        # p2.start()
+        # p3.start()
+        # p4.start()
+        # p5.start()
+        # p6.start()
+
         p7 = Process(target=scraper.scrape_news, args=('http://www.theonion.com/', data_type + '/news/onion',))
-        p0.start()
-        p1.start()
-        p2.start()
-        p3.start()
-        p4.start()
-        p5.start()
-        p6.start()
         p7.start()
     #scraper.scrape_news('http://www.foxnews.com', 'news/fox')
     #scraper.scrape_news('https://www.yahoo.com/news/', 'news/yahoo')
