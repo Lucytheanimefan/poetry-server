@@ -9,6 +9,15 @@ import newspaper
 import os
 from multiprocessing import Process
 
+
+def latest_article_number(file_directory):
+    files = [int(file.split('.')[0]) for file in os.listdir(file_directory)]
+    if len(files) == 0:
+        return 0
+    files.sort()
+    print(files)
+    return files[-1]
+
 class SatireNewsScraper:
     def __init__(self, data_path = 'article_data/'):
         self.data_path = data_path
@@ -23,11 +32,13 @@ class SatireNewsScraper:
         directory = self.data_path + article_type + '/'
         if not os.path.exists(directory):
             os.makedirs(directory)
+
+        start_index = latest_article_number(directory)
         for i, article in enumerate(articles):
             article.download()
             article.parse()
             if previous_title != article.title:
-                with open(directory + str(i) + '.txt', 'w') as f:
+                with open(directory + str(start_index + i) + '.txt', 'w') as f:
                     previous_title = article.title
                     print(str(i) + ': ' + article.title)
                     f.write(article.title + '\n' + article.text)
@@ -90,7 +101,7 @@ class SatireNewsClassifier:
             performance = np.mean(predicted == correct_values)
             print('Performance:')
             print(performance)
-            print('Predicted vs actual:')
+            print('--Predicted vs actual--')
             for i, predict in enumerate(predicted):
                 print(self.targets[predict] + ', ' + self.targets[correct_values[i]])
 
@@ -108,26 +119,31 @@ class SatireNewsClassifier:
 
 
 if __name__ == '__main__':
-    generate_test = True
-    # classifier = SatireNewsClassifier()
-    # classifier.generate_data('train')
-    # classifier.generate_data('test')
-    # classifier.train('svm')
-    # print('Trained')
-    # classifier.performance()
+    #print(latest_article_number('article_data/train/news/bbc'))
+    generate_data = True
+    classify = False
+    if classify:
+        print('Classify')
+        classifier = SatireNewsClassifier()
+        classifier.generate_data('train')
+        classifier.generate_data('test')
+        classifier.train('grid_search')
+        print('***Trained***')
+        classifier.performance()
 
-    if generate_test:
-        print('Generate test data')
+    if generate_data:
+        data_type = 'train'
+        print('Generate ' + data_type + ' data')
         scraper = SatireNewsScraper()
         #scraper.scrape_news()
-        p0 = Process(target=scraper.scrape_news, args=('http://www.bbc.com', 'test/news/bbc',))
-        p1 = Process(target=scraper.scrape_news, args=('http://www.foxnews.com', 'test/news/fox',))
-        p2 = Process(target=scraper.scrape_news, args=('https://www.yahoo.com/news/', 'test/news/yahoo',))
-        p3 = Process(target=scraper.scrape_news, args=('http://huffingtonpost.com', 'test/news/huffpost',))
-        p4 = Process(target=scraper.scrape_news, args=('https://www.nytimes.com', 'test/news/nytimes',))
-        p5 = Process(target=scraper.scrape_news, args=('http://cnn.com', 'test/news/cnn',))
-        p6 = Process(target=scraper.scrape_news, args=('http://washingtonpost.com', 'test/news/wapost',))
-        p7 = Process(target=scraper.scrape_news, args=('http://www.theonion.com/', 'test/news/onion',))
+        p0 = Process(target=scraper.scrape_news, args=('http://www.bbc.com', data_type + '/news/bbc',))
+        p1 = Process(target=scraper.scrape_news, args=('http://www.foxnews.com', data_type + '/news/fox',))
+        p2 = Process(target=scraper.scrape_news, args=('https://www.yahoo.com/news/', data_type + '/news/yahoo',))
+        p3 = Process(target=scraper.scrape_news, args=('http://huffingtonpost.com', data_type + '/news/huffpost',))
+        p4 = Process(target=scraper.scrape_news, args=('https://www.nytimes.com', data_type + '/news/nytimes',))
+        p5 = Process(target=scraper.scrape_news, args=('http://cnn.com', data_type + '/news/cnn',))
+        p6 = Process(target=scraper.scrape_news, args=('http://washingtonpost.com', data_type + '/news/wapost',))
+        p7 = Process(target=scraper.scrape_news, args=('http://www.theonion.com/', data_type + '/news/onion',))
         p0.start()
         p1.start()
         p2.start()
