@@ -41,7 +41,7 @@ class PoetrySources:
                     self.urls.append(url)
                     poem_arr = [poem.text for poem in poem_text] # array of lines
                     for line in poem_arr:
-                        self.concatenated_poems.extend([word.lower().strip() for word in re.findall(r'\S+|\n',line + ' \n')])
+                        self.concatenated_poems.extend([word.lower().strip() for word in re.findall(r'\S+|\n',line + ' \\n')])
                     self.poems.append(poem_arr)
                     self.line_counts.append(len(poem_text))
 
