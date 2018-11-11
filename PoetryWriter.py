@@ -6,13 +6,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import re
 import sys
+from random import *
 
 def make_pairs(corpus):
     for i in range(len(corpus)-1):
         yield (corpus[i], corpus[i+1])
 
 class PoetrySources:
-    OK_NUMBERS = ["89000","43000"]
+    OK_NUMBERS = [89000,43000]
 
     def __init__(self):
         self.source = "https://www.poetryfoundation.org/poems"
@@ -24,10 +25,10 @@ class PoetrySources:
         self.line_counts = []
 
 
-    def populate_sources(self, limit = 100):
+    def populate_sources(self, limit = 100, start = int(random()*10)):
         headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"}
         for i in range(limit):
-            url = "%s/%i" % (self.source, 89000 + i)
+            url = "%s/%i" % (self.source, self.OK_NUMBERS[int(random())] + start + i)
             #print(url)
             # Make the request
             r = requests.get(url, headers=headers)
@@ -102,16 +103,17 @@ class PoetrySources:
 
 if __name__=="__main__":
     print(sys.argv)
-    if len(sys.argv) >= 3:
+    if len(sys.argv) >= 4:
         sources = PoetrySources()
         num_sources = int(sys.argv[1])
-        length = int(sys.argv[2])
-        sources.populate_sources(num_sources)
+        start_index = int(sys.argv[2])
+        length = int(sys.argv[3])
+        sources.populate_sources(num_sources, start_index)
         print('MARKOV poem:')
         poem = sources.markov_chain_poem(100)
         print(poem)
     else:
-        print("PoetryWriter.py <num_sources/poems> <length_of_poem>")
+        print("PoetryWriter.py <num_sources/poems> <start index> <length_of_poem>")
     #sources.tokenize_poems()
     #sources.find_urls(10)
 
